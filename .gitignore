@@ -1,0 +1,7 @@
+node_modules/
+*.inspect.ndjson
+*.tmp
+*.log
+01临时文件/
+output/
+outputs/
