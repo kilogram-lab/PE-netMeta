@@ -30,3 +30,13 @@
 5. 主要结局应优先考虑全因死亡、临床恶化/治疗失败、严重出血和颅内出血；同时尽量提取右室功能恢复、复发 VTE/PE、住院/ICU 时间和长期功能结局。
 6. 方法学上应按 PRISMA-NMA 和预注册 protocol 执行，使用 RoB 2、异质性和不一致性评估、敏感性/亚组分析、CINeMA 或 GRADE for NMA 评价证据确定性。
 7. 论文叙事要写成顶刊式 `Evidence before this study`、`Added value of this study`、`Implications of all the available evidence`：已有研究依赖观察性证据且节点粗；本研究用 RCT-only 多节点证据解决中高危/高危 PE 治疗选择；结果要能服务指南或明确未来头对头 RCT 缺口。
+
+## PICOS v0.2 记忆
+
+2026-06-19 根据用户既往 PICOS 升级后的长期方向：
+
+1. 主研究对象聚焦为成人急性中危肺栓塞（intermediate-risk PE），主分析排除低危 PE 和高危 PE。
+2. 风险分层采用三个分析框架：`NMA-1` 为中低危 PE，`NMA-2` 为中高危 PE，`NMA-3` 为所有中危 PE。
+3. 六个候选 NMA 节点锁定用于检索和提取：`AC` 单纯抗凝、`ST` 系统溶栓、`CDT` 导管导向溶栓、`USCDT` 超声辅助 CDT、`LBAT` 大口径抽吸取栓、`CAT` 导管辅助抽吸取栓。
+4. 主要结局为全因死亡和临床恶化；次要/安全性结局包括大出血（优先 ISTH）、颅内出血、PE 复发、右心功能恢复、肺动脉压下降、小出血、输血需求、肾功能损害和器械相关并发症。
+5. 研究类型仅纳入 RCT，质量评价使用 Cochrane RoB 2.0；NOS 不适用。

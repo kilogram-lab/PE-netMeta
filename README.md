@@ -16,13 +16,26 @@ The current strategic direction is:
 - explicit assessment of evidence certainty
 - network structure determined by RCT connectivity, not by preference for more nodes
 
-## Current PICOS v0.1
+## Current PICOS v0.2
 
-**Population:** Adults with acute intermediate-risk, intermediate-high-risk, or high-risk PE.
+**Population:** Adults with acute intermediate-risk PE. The main population excludes low-risk PE and high-risk PE.
 
-**Interventions and comparators:** Anticoagulation, full-dose systemic thrombolysis, reduced-dose systemic thrombolysis, catheter-directed thrombolysis, ultrasound-assisted catheter-directed thrombolysis, mechanical or aspiration thrombectomy, and other randomized acute PE strategies if RCT evidence exists.
+Planned population strata:
 
-**Outcomes:** All-cause death, clinical deterioration or treatment failure, major bleeding, intracranial hemorrhage, recurrent PE/VTE, right ventricular recovery, ICU/hospital length of stay, and long-term functional outcomes where available.
+- `NMA-1`: intermediate-low-risk PE
+- `NMA-2`: intermediate-high-risk PE
+- `NMA-3`: all intermediate-risk PE
+
+**Interventions and comparators:** Six candidate NMA nodes are currently locked for searching and extraction:
+
+- `AC`: anticoagulation alone
+- `ST`: systemic thrombolysis
+- `CDT`: catheter-directed thrombolysis
+- `USCDT`: ultrasound-assisted catheter-directed thrombolysis
+- `LBAT`: large-bore aspiration thrombectomy, such as FlowTriever
+- `CAT`: catheter-assisted aspiration thrombectomy, such as Indigo
+
+**Outcomes:** Primary outcomes are all-cause death and clinical deterioration. Secondary and safety outcomes include major bleeding, intracranial hemorrhage, recurrent PE, right ventricular recovery, pulmonary artery pressure reduction, minor bleeding, transfusion, renal injury, and device-related complications.
 
 **Study design:** Randomized controlled trials only. Quasi-randomized or unclear-randomization studies must be flagged and handled separately.
 
@@ -41,8 +54,8 @@ The current strategic direction is:
 
 The following outputs are generated outside this repository:
 
-- `PICOS_v0.1.txt`
-- `PICOS_v0.1_及_RCT证据矩阵.xlsx`
+- `PICOS_v0.2.txt`
+- `PICOS_v0.2_及_RCT证据矩阵.xlsx`
 - `方法和结果.txt`
 - literature learning notes and manuscript-planning notes
 
@@ -58,10 +71,11 @@ scripts/build_picos_rct_matrix.mjs
 
 generates:
 
-- a working PICOS v0.1 text file
+- a working PICOS v0.2 text file
 - an Excel workbook containing:
   - `Summary`
-  - `PICOS_v0.1`
+  - `PICOS_v0.2`
+  - `Population_Strata`
   - `Node_Definitions`
   - `RCT_Evidence_Matrix`
   - `Outcome_Dictionary`
@@ -74,8 +88,9 @@ The matrix is a seed matrix, not the final included-study list. It starts from R
 1. Run formal database and trial-registry searches.
 2. Verify each candidate RCT by full text and registry record.
 3. Update the RCT-treatment node-outcome evidence matrix.
-4. Check network connectivity separately for each major outcome.
-5. Freeze PICOS v1.0 and write the protocol before analysis.
+4. Classify studies into `NMA-1`, `NMA-2`, and `NMA-3` strata.
+5. Check network connectivity separately for each major outcome and risk stratum.
+6. Freeze PICOS v1.0 and write the protocol before analysis.
 
 ## Project Rule
 
