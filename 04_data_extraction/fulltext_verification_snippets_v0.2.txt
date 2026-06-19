@@ -1,0 +1,2577 @@
+===== PEITHO 03_05 Meyer-2014-Fibrinolysis for patients with inte.txt lines=1029 clusters=25 =====
+--- lines 17-28 ---
+17: in normotensive patients with intermediate-risk pulmonary embolism. Eligible
+18: patients had right ventricular dysfunction on echocardiography or computed
+19: tomography, as well as myocardial injury as indicated by a positive test for
+20: cardiac troponin I or troponin T. The primary outcome was death or hemodynamic
+21: decompensation (or collapse) within 7 days after randomization. The main safety
+22: outcomes were major extracranial bleeding and ischemic or hemorrhagic stroke
+23: within 7 days after randomization. RESULTS: Of 1006 patients who underwent
+24: randomization, 1005 were included in the intention-to-treat analysis. Death or
+25: hemodynamic decompensation occurred in 13 of 506 patients (2.6%) in the
+26: tenecteplase group as compared with 28 of 499 (5.6%) in the placebo group
+27: (odds ...
+28: Document type : Article de périodique (Journal article)
+--- lines 74-98 ---
+74: placebo plus heparin in normotensive patients with intermediate-risk pulmonary 
+75: embolism. Eligible patients had right ventricular dysfunction on echocardiography 
+76: or computed tomography, as well as myocardial injury as indicated by a positive test 
+77: for cardiac troponin I or troponin T. The primary outcome was death or hemody-
+78: namic decompensation (or collapse) within 7 days after randomization. The main 
+79: safety outcomes were major extracranial bleeding and ischemic or hemorrhagic 
+80: stroke within 7 days after randomization.
+81: Results
+82: Of 1006 patients who underwent randomization, 1005 were included in the intention-
+83: to-treat analysis. Death or hemodynamic decompensation occurred in 13 of 506 pa-
+84: tients (2.6%) in the tenecteplase group as compared with 28 of 499 (5.6%) in the 
+85: placebo group (odds ratio, 0.44; 95% confidence interval, 0.23 to 0.87; P = 0.02). Be-
+86: tween randomization and day 7, a total of 6 patients (1.2%) in the tenecteplase group 
+87: and 9 (1.8%) in the placebo group died (P = 0.42). Extracranial bleeding occurred in 
+88: 32 patients (6.3%) in the tenecteplase group and 6 patients (1.2%) in the placebo 
+89: group (P<0.001). Stroke occurred in 12 patients (2.4%) in the tenecteplase group and 
+90: was hemorrhagic in 10 patients; 1 patient (0.2%) in the placebo group had a stroke, 
+91: which was hemorrhagic (P = 0.003). By day 30, a total of 12 patients (2.4%) in the ten-
+92: ec teplase group and 16 patients (3.2%) in the placebo group had died (P = 0.42).
+93: Conclusions
+94: In patients with intermediate-risk pulmonary embolism, fibrinolytic therapy prevented 
+95: hemodynamic decompensation but increased the risk of major hemorrhage and stroke. 
+96: (Funded by the Programme Hospitalier de Recherche Clinique in France and others; 
+97: PEITHO EudraCT number, 2006-005328-18; ClinicalTrials.gov number, NCT00639743.)
+98: The New England Journal of Medicine 
+--- lines 103-109 ---
+103: 1403
+104: A 
+105: cute pulmonary embolism occurs 
+106: frequently and may cause death or serious 
+107: disability.
+108: 1 Case fatality rates vary wide -
+109: ly,2,3 but approximately 10% of all patients with 
+--- lines 243-249 ---
+243: bolus (given over a period of 5 to 10 seconds) of 
+244: the fibrinolytic agent tenecteplase. The dose 
+245: ranged from 30 mg to 50 mg, depending on 
+246: body weight (Table S1 in the Supplementary Ap-
+247: pendix).
+248: 13 Patients assigned to placebo were given 
+249: a single intravenous bolus of the same volume 
+--- lines 271-291 ---
+271: hours after randomization.
+272: Follow-Up and Outcome Assessment
+273: All patients were followed for 30 days and were 
+274: evaluated for death, hemodynamic decompensa-
+275: tion (or collapse), bleeding, stroke, recurrent pul-
+276: monary embolism, and serious adverse events. 
+277: All efficacy and safety outcomes were adjudicat-
+278: ed by an independent clinical-events committee 
+279: whose members were unaware of the treatment-
+280: group assignments.
+281: The primary efficacy outcome was the clini -
+282: cal composite of death from any cause or hemo-
+283: dynamic decompensation (or collapse) within 
+284: 7 days after randomization. The secondary out -
+285: comes included death within 7 days after ran -
+286: domization, hemodynamic decompensation with-
+287: in 7 days, confirmed symptomatic recurrence of 
+288: pulmonary embolism within 7 days, death with-
+289: in 30 days, and major adverse events within 30 
+290: days.
+291: 13 Safety outcomes were defined as ische -
+--- lines 294-300 ---
+294: 7 days after randomization, extracranial major 
+295: (moderate or severe) bleeding within 7 days, and 
+296: serious adverse events within 30 days. The defi-
+297: nitions of hemodynamic decompensation and 
+298: bleeding events are provided in the Supplemen-
+299: tary Appendix.
+300: Statistical Analysis
+--- lines 323-329 ---
+323: Fibrinolysis for Intermediate-Risk Pulmonary Embolism
+324: n engl j med 370;15 nejm.org april 10, 2014
+325: 1405
+326: Results
+327: Patients
+328: From November 2007 through July 2012, a total 
+329: of 1006 patients were enrolled at 76 sites in 13 
+--- lines 342-349 ---
+342: line, and medical history of the patients were 
+343: well matched between the two treatment groups 
+344: (
+345: Table 1). The median age in the study popula -
+346: Table 1. Characteristics of the Patients at Baseline.*
+347: Characteristic
+348: Tenecteplase
+349: (N = 506)
+--- lines 404-421 ---
+404: ed partial-thromboplastin time was within, above, 
+405: and below the target range initially and within 
+406: the first 24 hours after the administration of the 
+407: study drug are shown in Table S2 in the Supple-
+408: mentary Appendix.
+409: Efficacy Outcomes
+410: Between randomization and day 7, the primary 
+411: efficacy outcome occurred in 13 patients (2.6%) 
+412: in the tenecteplase group as compared with 28 
+413: patients (5.6%) in the placebo group (odds ratio, 
+414: 0.44; 95% confidence interval [CI], 0.23 to 0.87; 
+415: P = 0.02) (Table 3). Six patients (1.2%) in the tenec-
+416: teplase group and 9 patients (1.8%) in the place-
+417: bo group died between randomization and day 7 
+418: (P = 0.42), and hemodynamic decompensation or 
+419: collapse occurred in 8 patients (1.6%) in the ten-
+420: ec teplase group and 25 patients (5.0%) in the pla-
+421: cebo group (P = 0.002). Persistent hypotension or 
+--- lines 426-468 ---
+426: and 14 patients in the placebo group, and 1 patient 
+427: in the tenecteplase group and 5 patients in the 
+428: placebo group required cardiopulmonary resus-
+429: citation. The causes of death at day 7 are shown 
+430: in Table S3 in the Supplementary Appendix.
+431: Eight patients in the tenecteplase group re -
+432: quired mechanical ventilation, as compared with 
+433: 15 patients in the placebo group. More patients 
+434: in the placebo group than in the tenecteplase 
+435: group underwent open-label rescue fibrinolysis 
+436: (
+437: Table 3); in accordance with the protocol, this 
+438: treatment was administered only after the primary 
+439: outcome had occurred, with the exception of nine 
+440: patients. The age, treatment assignment (tenec-
+441: teplase or placebo), and outcomes for all patients 
+442: who underwent rescue fibrinolysis are shown in 
+443: Table S4 in the Supplementary Appendix.
+444: By day 30 after randomization, 12 patients 
+445: (2.4%) in the tenecteplase group had died, as 
+446: compared with 16 patients (3.2%) in the placebo 
+447: group (P = 0.42) (
+448: Table 3). The causes of death at 
+449: day 30 are shown in Table S3 in the Supplemen-
+450: tary Appendix.
+451: Safety Outcomes
+452: Major bleeding, as defined according to the crite-
+453: ria of the International Society on Thrombosis 
+454: and Haemostasis,
+455: 14 occurred between random -
+456: ization and day 7 in 58 patients (11.5%) in the 
+457: tenecteplase group and 12 patients (2.4%) in the 
+458: placebo group (Table 4). Major extracranial bleed-
+459: ing occurred in 32 patients (6.3%) in the tenec te-
+460: plase group and 6 patients (1.2%) in the placebo 
+461: group (P<0.001). (Data for the safety population 
+462: are provided in Table S5 in the Supplementary 
+463: Appendix.)
+464: Overall, 12 patients (2.4%) in the tenecteplase 
+465: Table 2. Diagnostic Evaluation and Initial Management.*
+466: Characteristic
+467: Tenecteplase
+468: (N = 506)
+--- lines 499-514 ---
+499: Fibrinolysis for Intermediate-Risk Pulmonary Embolism
+500: n engl j med 370;15 nejm.org april 10, 2014
+501: 1407
+502: Table 3. Efficacy Outcomes.*
+503: Outcome
+504: Tenecteplase
+505: (N = 506)
+506: Placebo
+507: (N = 499)
+508: Odds Ratio 
+509: (95% CI) P Value
+510: Primary outcome — no. (%) 13 (2.6) 28 (5.6) 0.44 (0.23–0.87) 0.02
+511: Death from any cause 6 (1.2) 9 (1.8) 0.65 (0.23–1.85) 0.42
+512: Hemodynamic decompensation 8 (1.6) 25 (5.0) 0.30 (0.14–0.68) 0.002
+513: Time between randomization and primary 
+514: efficacy outcome — days
+--- lines 527-533 ---
+527: Thrombolytic treatment other than study 
+528: medication
+529: 4 (0.8) 23 (4.6)
+530: Death from any cause between randomization 
+531: and day 30 — no. (%)
+532: 12 (2.4) 16 (3.2) 0.73 (0.34–1.57) 0.42
+533: Patient still hospitalized at day 30 — no. (%) 59 (11.7) 50 (10.0)
+===== ULTIMA 02_04 Randomized controlled trial of ultrasound assi.txt lines=918 clusters=23 =====
+--- lines 8-14 ---
+8: therapeutic levels of anticoagulation therapy are established.
+9: 2 
+10: In contrast, hemodynamically unstable patients are at high 
+11: risk of death from worsening RV failure and cardiogenic 
+12: shock, with a hospital mortality rate >15%.
+13: 3,4 Approximately 
+14: one quarter of hemodynamically stable patients with PE are 
+--- lines 20-44 ---
+20: Clinical Perspective on p 486
+21: Systemic thrombolysis improves hemodynamic parameters7 
+22: and reverses RV dilatation and dysfunction8,9 but is associated 
+23: with rates of major bleeding complications in up to 20% and 
+24: intracranial hemorrhage in up to 3%.
+25: 10,11 Systemic thrombolysis 
+26: is standard treatment for high-risk PE2,11; however, it is withheld 
+27: in more than two thirds of such patients.4,12 The use of systemic 
+28: Background—In patients with acute pulmonary embolism, systemic thrombolysis improves right ventricular (RV) dilatation, 
+29: is associated with major bleeding, and is withheld in many patients at risk. This multicenter randomized, controlled trial 
+30: investigated whether ultrasound-assisted catheter-directed thrombolysis (USAT) is superior to anticoagulation alone in 
+31: the reversal of RV dilatation in intermediate-risk patients.
+32: Methods and Results—Fifty-nine patients (63±14 years) with acute main or lower lobe pulmonary embolism and 
+33: echocardiographic RV to left ventricular dimension (RV/LV) ratio ≥1.0 were randomized to receive unfractionated heparin 
+34: and an USAT regimen of 10 to 20 mg recombinant tissue plasminogen activator over 15 hours (n=30; USAT group) 
+35: or unfractionated heparin alone (n=29; heparin group). Primary outcome was the difference in the RV/LV ratio from 
+36: baseline to 24 hours. Safety outcomes included death, major and minor bleeding, and recurrent venous thromboembolism 
+37: at 90 days. In the USAT group, the mean RV/LV ratio was reduced from 1.28±0.19 at baseline to 0.99±0.17 at 24 hours 
+38: (P<0.001); in the heparin group, mean RV/LV ratios were 1.20±0.14 and 1.17±0.20, respectively (P=0.31). The mean 
+39: decrease in RV/LV ratio from baseline to 24 hours was 0.30±0.20 versus 0.03±0.16 (P<0.001), respectively. At 90 days, 
+40: there was 1 death (in the heparin group), no major bleeding, 4 minor bleeding episodes (3 in the USAT group and 1 in the 
+41: heparin group; P=0.61), and no recurrent venous thromboembolism.
+42: Conclusions—In patients with pulmonary embolism at intermediate risk, a standardized USAT regimen was superior to 
+43: anticoagulation with heparin alone in reversing RV dilatation at 24 hours, without an increase in bleeding complications.
+44: Clinical Trial Registration—URL: http://www.clinicaltrials.gov. Unique identifier: NCT01166997.
+--- lines 111-136 ---
+111: Inclusion criteria were acute symptomatic PE confirmed by con-
+112: trast-enhanced computed tomography (CT) with embolus located in 
+113: at least 1 main or proximal lower lobe pulmonary artery and RV to 
+114: left ventricular dimension (RV/LV) ratio ≥1 obtained from the echo-
+115: cardiographic apical 4-chamber view. Exclusion criteria were age <18 
+116: or >80 years; index PE symptom duration >14 days; insufficient echo-
+117: cardiographic image quality in the apical 4-chamber view that prohib-
+118: ited the measurement of the RV/LV ratio; known significant bleeding 
+119: risk; administration of thrombolytic agents within the previous 4 days; 
+120: active bleeding; known bleeding diathesis; known coagulation disor-
+121: der; platelet count <100
+122:  000/mm3; previous use of vitamin K antago-
+123: nists with international normalized ratio >2.5 on admission; history of 
+124: any intracranial or intraspinal surgery or trauma or intracranial/intra-
+125: spinal bleeding; intracranial neoplasm, arteriovenous malformation, 
+126: or aneurysm; gastrointestinal bleeding <3 months; internal eye sur -
+127: gery or hemorrhagic retinopathy <3 months; major surgery, cataract 
+128: surgery, trauma, obstetric delivery, cardiopulmonary resuscitation, or 
+129: other invasive procedure <10 days; allergy, hypersensitivity, or throm-
+130: bocytopenia from heparin or rtPA; severe contrast allergy to iodinated 
+131: contrast; known right-to-left cardiac shunt (eg, from a large patent 
+132: foramen ovale or atrial septal defect); large (>10 mm) right atrial or 
+133: RV thrombus; hemodynamic decompensation, defined as the need for 
+134: cardiopulmonary resuscitation, or systolic blood pressure <90 mm
+135:  Hg
+136:  
+--- lines 153-159 ---
+153: tancy <90 days; and inability to comply with study assessments.
+154: During the enrollment period, investigators registered screening 
+155: failure patients with objectively confirmed PE. Overall, the screening 
+156: failure rate was 84%, with anatomically small PE and a RV/LV ratio 
+157: <1 as the main reasons (Figure
+158:  
+159: 1).
+--- lines 165-179 ---
+165: patients (5 in the ultrasound-assisted 
+166: catheter-directed thrombolysis [USAT] 
+167: group and 1 in the heparin group) were 
+168: not evaluable for the primary outcome 
+169: analysis because of inadequate 
+170: echocardiographic images. Two patients 
+171: in the heparin group had no follow-up 
+172: (FU) visit because of death in 1 patient 
+173: and hospitalization for major depression 
+174: in another patient. CT indicates 
+175: computed tomography; PE, pulmonary 
+176: embolism; and RV/LV, right ventricular to 
+177: left ventricular.
+178:  at McMaster University Library on July 5, 2014http://circ.ahajournals.org/Downloaded from 
+179: Kucher et al  Ultrasound Thrombolysis for Pulmonary Embolism   481
+--- lines 261-275 ---
+261: investigator meeting. Pulsed and continuous-wave Doppler studies 
+262: were captured by still frames and 2-dimensional or color Doppler 
+263: images by cine loops of at least 3 cardiac cycles from standardized 
+264: cardiac views. Because a RV/LV ratio >1 was an inclusion crite-
+265: rion and the difference in RV/LV ratio from baseline to 24 hours 
+266: was the primary end point, particular attention was paid to obtain 
+267: at least 3 adequate cine loops from the apical 4-chamber view for 
+268: the measurement of RV/LV ratio. DICOM-formatted echocardio-
+269: graphic images from the examinations at baseline, 24±2 hours, and 
+270: 90 days were transferred to the core laboratory for data acquisi-
+271: tion. Echocardiographic measurements from the apical 4-chamber 
+272: view included the subannular end-diastolic RV/LV ratio (Figure
+273:  
+274: 2) 
+275: and tricuspid annular plane systolic excursion. From the paraster -
+--- lines 285-296 ---
+285: end point (Figure
+286:  
+287: 1).
+288: Data on baseline RV/LV ratio measured by the investigator were 
+289: not available to the core laboratory but were compared with the data 
+290: obtained by the core laboratory to assess interobserver agreement.
+291: Figure 2. Instructions for study sites and core laboratory for 
+292: measurement of subannular right ventricular to left ventricular 
+293: (RV/LV) ratio from the echocardiographic apical 4-chamber view: 
+294: (1) Obtain an end-diastolic image defined as last available image 
+295: before onset of tricuspid valve closure. (2) Obtain center line 
+296: through interventricular septum (gray vertical line). (3) Obtain 
+--- lines 299-330 ---
+299: septum line. (4) Obtain subannular line 1 cm above and parallel to 
+300: annular line (vertical arrow). (5) Obtain RV and LV dimensions on 
+301: subannular line with the use of endocardial borders (red arrows). 
+302: (6) Calculate RV/LV ratio.
+303:  at McMaster University Library on July 5, 2014http://circ.ahajournals.org/Downloaded from 
+304: 482  Circulation  January 28, 2014
+305: Outcome Measures
+306: The primary end point of ULTIMA was the difference in the RV/
+307: LV ratio from baseline to 24 hours, evaluated by the blinded core 
+308: laboratory.
+309: Patients were scheduled for a 90-day follow-up clinical visit and 
+310: repeated echocardiography. Safety outcomes included death, hemo-
+311: dynamic decompensation as defined in the exclusion criteria, major 
+312: and minor bleeding, recurrent venous thromboembolism (VTE), 
+313: and serious adverse events up to 90 days after randomization. Major 
+314: bleeding was defined as overt bleeding associated with a fall in the 
+315: hemoglobin level of at least 2.0 g/dL or with transfusion of ≥2 U of 
+316: red blood cells or involvement of a critical site (intracranial, intraspi-
+317: nal, intraocular, retroperitoneal, intra-articular or pericardial, or intra-
+318: muscular with compartment syndrome). Clinically overt bleeding 
+319: not fulfilling the criteria of major bleeding was classified as a minor 
+320: bleeding complication. There was routine surveillance for recurrent 
+321: VTE during 90-day follow-up. Recurrent VTE was diagnosed if sus-
+322: pected symptoms or signs of deep vein thrombosis or acute PE were 
+323: objectively confirmed by an imaging test (new filling defect by pul-
+324: monary angiography or contrast-enhanced chest CT, new high-proba-
+325: bility perfusion defect revealed by lung scan, or positive compression 
+326: ultrasound study for deep vein thrombosis). There was no routine sur-
+327: veillance for asymptomatic recurrent VTE. Patient chart documents 
+328: and case report forms were verified by independent data monitors. All 
+329: clinical adverse events and secondary end points were adjudicated by 
+330: the Data Safety Monitoring Board and the Clinical Event Reviewer.
+--- lines 333-343 ---
+333: Pulmonary Embolism Study (TIPES), in which therapy with weight-
+334: adjusted intravenous tenecteplase significantly reduced the RV/
+335: LV ratio at 24 hours by a mean of 0.31 (SD 0.20), and therapy with 
+336: UFH alone resulted in a nonsignificant reduction in RV/LV ratio by 
+337: a mean of 0.10 (SD 0.30).
+338: 9 We assumed that USAT would have a 
+339: similar effect on reducing RV/LV ratio at 24 hours compared with 
+340: tenecteplase and used the means and SDs of the difference in RV/LV 
+341: ratio from the tenecteplase and heparin groups for sample size calcu-
+342: lation. The estimated sample size was 24 per group with a power of 
+343: 80% at a 2-sided P value of 0.05 by t test.
+--- lines 351-372 ---
+351: Between-group ordinal data were compared with the exact Mantel-
+352: Haenszel χ
+353: 2 test. Interobserver agreement for the echocardiographic 
+354: baseline RV/LV ratio between the investigator and core laboratory 
+355: measurements was assessed by Bland-Altman analysis. All statistical 
+356: analyses were performed with the use of SAS software version 9.2.
+357: Results
+358: Clinical Characteristics
+359: Among the 59 patients, mean age was 63±14 years, and 53% 
+360: were women. The most frequent comorbidities were systemic 
+361: hypertension (59%), diabetes mellitus (17%), renal insuffi-
+362: ciency (15%), and cancer (12%), with no difference between 
+363: the study groups (Table
+364:  
+365: 1). Baseline vital parameters, includ-
+366: ing systemic arterial pressure, heart and respiratory rates, and 
+367: oxygen saturation, were similar between the groups, as well as 
+368: core laboratory chest CT findings of the pulmonary occlusion 
+369: score and RV/LV ratio.
+370: Treatment Details
+371: Before enrollment, 11 patients (37%) in the USAT group and 9 
+372: (31%) in the heparin group had received antithrombotic treatment 
+--- lines 386-412 ---
+386: 1 lung treated), with a mean total rtPA dose of 10.5±0.6 mg. The 
+387: mean hospital stay was 8.9±3.4 days in the USAT group and 
+388: 8.6±3.9 days in the heparin group (P=0.80).
+389: Interobserver Agreement in Baseline RV/LV Ratio
+390: In 54 (98%) of 55 analyzed patients, there was agreement 
+391: between investigators and the core laboratory for identify-
+392: ing patients with a baseline RV/LV ratio ≥1. The mean (±SD) 
+393: difference in the baseline echocardiographic RV/LV ratio 
+394: between investigator and core laboratory measurements was 
+395: 0.02±0.15 (Figure
+396:  
+397: 3).
+398: Primary End Point Analysis
+399: In the USAT group, the mean RV/LV ratio was reduced from 
+400: 1.28±0.19 at baseline to 0.99±0.17 at 24 hours (P<0.001). In 
+401: the heparin group, the mean RV/LV ratio was 1.20±0.14 at 
+402: baseline and 1.17±0.20 at 24 hours (P=0.31). The mean differ-
+403: ence in RV/LV ratio from baseline to 24 hours was 0.30±0.20 
+404: versus 0.03±0.16 (P<0.001), respectively.
+405: Additional Echocardiographic Assessment
+406: There was no difference in any of the baseline echocardio-
+407: graphic right heart parameters between the groups except for 
+408: tricuspid annular plane systolic excursion, which was lower 
+409: in the USAT group than in the heparin group (Table
+410:  
+411: 2). From 
+412: baseline to 24 hours, the between-group changes of all assessed 
+--- lines 417-444 ---
+417: than in the control group (9.8±9.9 versus 0.3±10.9 mm
+418:  Hg;
+419:  
+420: P=0.03; Table
+421:  
+422: 2). From baseline to 90 days, there was a sig-
+423: nificant difference in RV systolic dysfunction and a trend in the 
+424: difference in RV/LV ratio in favor of the USAT group.
+425: Invasive Hemodynamic Measurements in the  
+426: USAT Group
+427: In comparison to baseline, there was a significant reduction in 
+428: pulmonary artery and right atrial pressure and an increase in 
+429: cardiac index at completion of USAT (Table
+430:  
+431: 3).
+432: Clinical Outcomes
+433: At 90 days, there were no episodes of hemodynamic decom-
+434: pensation or recurrent VTE among the 59 patients. There were 
+435: no deaths in the USAT group and 1 death from pancreatic can-
+436: cer in the heparin group 20 days after randomization (P=1.00). 
+437:  at McMaster University Library on July 5, 2014http://circ.ahajournals.org/Downloaded from 
+438: Kucher et al  Ultrasound Thrombolysis for Pulmonary Embolism   483
+439: At the 90-day visit, all patients were on anticoagulation ther -
+440: apy with vitamin K antagonists or LMWH. Overall, there 
+441: were no major bleeding complications and 4 minor bleeding 
+442: episodes: 3 patients (10%) in the USAT group (2 with tran-
+443: sient hemoptysis without medical intervention, 1 with access-
+444: site groin hematoma managed with manual compression) and 
+===== TOPCOAT 01_03 Treatment of submassive pulmonary .txt lines=1013 clusters=24 =====
+--- lines 26-43 ---
+26: molecular-weight heparin followed by random assignment
+27: to either a single weight-based bolus of tenecteplase or
+28: placebo, administered in a double-blinded fashion. The
+29: primary composite outcome included: (i) death, circula-
+30: tory shock, intubation or major bleeding within 5 days or
+31: (ii) recurrent PE, poor functional capacity (RV dysfunc-
+32: tion with either dyspnea at rest or exercise intolerance) or
+33: an SF36
+34: /C226Physical Component Summary (PCS) score
+35: < 30 at 90-day follow-up. Results: Eighty-three patients
+36: were randomized; 40 to tenecteplase and 43 to placebo.
+37: The trial was terminated prematurely. Within 5 days,
+38: adverse outcomes occurred in three placebo-treated
+39: patients (death in one and intubation in two) and one
+40: tenecteplase-treated patient (fatal intracranial hemor-
+41: rhage). At 90 days, adverse outcomes occurred in 13
+42: unique placebo-treated patients and ﬁve unique tenectep-
+43: lase-treated patients Thus, 16 (37%) placebo-treated and
+--- lines 78-84 ---
+78: large sample size, compelling the need for a composite
+79: endpoint, which is more likely to have larger differences
+80: between treatment groups [8,9].
+81: In addition to risk of death, patients with submassive
+82: PE may suffer persistent right ventricular dysfunction
+83: that can impair their quality of life by causing dyspnea
+84: and exercise intolerance [10 –16]. If associated with deep
+--- lines 169-178 ---
+169: therapy were at the discretion of the clinical care team.
+170: Measurements and outcomes
+171: Five-day adverse outcomes were PE related or treatment
+172: related. Adverse outcomes from PE were death, circula-
+173: tory shock (hypotension requiring vasopressor infusion),
+174: or need for intubation. Adverse outcomes from treatment
+175: were death from hemorrhage, any intracranial or intraspi-
+176: nal hemorrhage, active bleeding with > 2gd L
+177: /C01 drop in
+178: hemoglobin within 24 h requiring transfusion, and any
+--- lines 247-253 ---
+247: outcome
+248: (i) Any PE-related or treatment-related serious adverse
+249: outcomes within 5 days of enrollment. (ii) Image-con-
+250: ﬁrmed recurrent PE or deep venous thrombosis within
+251: 3 months. (iii) Poor functional capacity at 3 months. (iv)
+252: A normalized Physical Component Summary score < 30
+253: from the SF-36. (v) A VEINES QOL score < 40 in
+--- lines 274-280 ---
+274: ple comparisons [24]. The study was monitored for stop-
+275: ping criteria of harm or beneﬁt using the Lan and
+276: DeMets alpha-spending approach [25].
+277: Results
+278: We recruited patients from August 2008 until October
+279: 2012. The database was completed and locked on 15
+280: December 2013, at which time unblinding occurred. Fig-
+--- lines 283-289 ---
+283: screened and informed consent was obtained in 87
+284: (13.5%). No patient withdrew after informed consent.
+285: Randomization allocated 40 patients to tenecteplase and
+286: 43 to placebo. Table 1 shows the clinical characteristics
+287: of the study population, including the demographic data,
+288: frequency of co-morbid conditions and data that indicate
+289: © 2014 International Society on Thrombosis and Haemostasis
+--- lines 292-303 ---
+292: None of the variables were signiﬁcantly different between
+293: groups, although the data suggest a trend ( P < 0.20) with
+294: gender, Hispanic ethnicity, malignancy and COPD.
+295: Table 1 shows the percentage of the sample who had
+296: abnormal echocardiography, and the percentage with
+297: abnormal biomarkers BNP and troponin I. The frequency
+298: with which these screening tests for severity were per-
+299: formed was: echocardiography in 54 (65%), BNP in 69
+300: (83%) and troponin in 83 (100%). Table 2 shows the
+301: breakdown of concomitant limb venous thrombosis strati-
+302: ﬁed by treatment group. There were no signiﬁcant differ-
+303: ences in the frequency or location of deep venous
+--- lines 308-323 ---
+308: quartiles, 33 –67%). Patients randomized to placebo had a
+309: mean TTR of 49% (SD 20%) and a median TTR of 50%
+310: (1st–3rd quartiles, 33 –60%).
+311: Table 3 and Fig. 2 show the main results of the study.
+312: Three patients treated with placebo had an adverse out-
+313: come within 5 days, including one who died from cardiac
+314: arrest that was directly attributed to PE, and two who
+315: required endotracheal intubation, vasopressor support
+316: and catheter thrombectomy. One patient treated with ten-
+317: ecteplase died from intracranial hemorrhage that occurred
+318: 5 h after drug administration, representing the only
+319: patient with a major bleed that occurred during the 5-day
+320: period of surveillance. No patient died in the period
+321: between hospital discharge and 90 days. We obtained
+322: complete follow-up data on 39/43 survivors from the
+323: placebo group (90%) and 37/39 (94%) of the tenecteplase
+--- lines 348-354 ---
+348: LMWH given
+349: ID # retrieved from sealed envelope
+350: Single bolus tenecteplase
+351: FIVE DAYS: Shock, intubation, thrombectomy, hemorrhage or death (83)
+352: THREE MONTHS: Functional capacity, health related quality of life (76)
+353: 40
+354: 0.9% NaCI IVP
+--- lines 412-419 ---
+412: group. All adverse events that did not meet the study’s pre-
+413: deﬁned criteria for an adverse outcome, including the
+414: bleeding events, are presented for each patient according to
+415: treatment group in supplemental Table 1.
+416: Table 4 and Fig. 4 show preplanned secondary out-
+417: comes at the 90-day follow-up. Of note, we found no
+418: clinically important difference between groups in the
+419: mean 6-minute walk distance or any of the scales used in
+--- lines 424-430 ---
+424: Potential sources of bias
+425: To examine for potential bias from possible imbalanced
+426: randomization, we performed a post-hoc analysis of the
+427: Table 2 Frequency and location of concomitant deep venous throm-
+428: bosis
+429: Most proximal location of thrombosis Placebo
+430: Tenectep-
+--- lines 435-441 ---
+435: Calf vein 6 14% 4 10%
+436: Saphenous vein 0 0% 1 3%
+437: Axillary vein 2 5% 0 0%
+438: Table 1 Patient demographic data, comorbid conditions and severity
+439: criteria
+440: Clinical ﬁnding
+441: Placebo
+===== SUNSET 04_09 Randomized Trial Comparing Standard Source JAC.txt lines=987 clusters=21 =====
+--- lines 12-18 ---
+12: BACKGROUND Catheter-directed therapy has been increasingly used in sPE and massive pulmonary embolism as a
+13: decompensation prevention and potentially lifesaving procedure. It is unproved whether USAT is superior to SCDT using
+14: traditional multiple-side-hole catheters in the treatment of patients with pulmonary embolism.
+15: METHODS Adults with sPE were enrolled. Participants were randomized 1:1 to USAT or SCDT. The primary outcome was
+16: 48-hour clearance of pulmonary thrombus assessed by pre- and postprocedural computed tomographic angiography
+17: using a re ﬁned Miller score. Secondary outcomes included improvement in right ventricular –to–left ventricular ratio,
+18: intensive care unit and hospital stay, bleeding, and adverse events up to 90 days.
+--- lines 22-28 ---
+22: baseline to 22 /C6 7( P < 0.001). In the SCDT group, the score was reduced from 33 /C6 4t o2 3 /C6 7( P < 0.001). There was
+23: no signiﬁcant difference in mean thrombus score reduction between the 2 groups ( P ¼ 0.76). The mean reduction in right
+24: ventricular/left ventricular ratio from baseline (1.54 /C6 0.30 for USAT, 1.69 /C6 0.44 for SCDT) to 48 hours was 0.37 /C6 0.34
+25: in the USAT group and 0.59 /C6 0.42 in the SCDT group ( P ¼ 0.01). Major bleeding (1 stroke and 1 vaginal bleed requiring
+26: transfusion) occurred in 2 patients, both in the USAT group.
+27: CONCLUSIONS In the SUNSET sPE (Standard vs. Ultrasound-Assisted Catheter Thrombolysis for Submassive Pulmo-
+28: nary Embolism) trial, patients undergoing USAT had similar pulmonary arterial thrombus reduction compared with those
+--- lines 51-57 ---
+51: a meta-analysis of large randomized trials con ﬁrmed
+52: the mortality bene ﬁt with the use of systemic throm-
+53: bolysis ( 4). Given that this bene ﬁtc a m ea tt h ec o s to f
+54: major bleeding complications, CDT emerged as a
+55: potentially safer and broader indicated alternative,
+56: as it uses only a fraction of the systemic lytic dose,
+57: given over a longer time frame ( 1–5).
+--- lines 82-88 ---
+82: with existing studies being controversial ( 5,12–18).
+83: In an era of increasing focus on quality and cost
+84: consciousness, the preferential use of USAT over
+85: SCDT should be rigorously studied. To address the
+86: comparative effectiveness between these 2 treat-
+87: ment options, we performed the SUNSET sPE
+88: (Standard vs. Ultrasound-Assisted Catheter Throm-
+--- lines 132-139 ---
+132: pressure <90 mm Hg), or requirement for vasoactive
+133: medications. Patients were excluded for age <18
+134: years, symptoms for >14 days, elevated bleeding risk
+135: (any prior intracranial hemorrhage, known structural
+136: intracranial cerebrovascular disease or neoplasm,
+137: ischemic stroke within 3 months, suspected aortic
+138: dissection, active bleeding or bleeding diathesis,
+139: recent spinal or cranial/brain surgery, and recent
+--- lines 289-312 ---
+289: the ventricle from compacted to compacted myocar-
+290: dium in a plane perpendicular to the long axis of the
+291: ventricle. Measurements were done by the same 2
+292: blinded reviewers who scored the primary outcome.
+293: Interobserver agreement between radiologists for
+294: thrombus scoring and RV/LV ratio measurements was
+295: calculated.
+296: Other secondary endpoints included ICU and hos-
+297: pital stay, death, hemodynamic decompensation as
+298: deﬁned in inclusion criterion 3, major and minor
+299: bleeding, recurrent venous thromboembolism, and
+300: serious adverse events up to 90 days after randomi-
+301: zation. Major bleeding was de ﬁned as overt bleeding
+302: associated with a fall in hemoglobin level of at least
+303: 2 . 0g / d Lo rw i t ht r a n s f u s i o no f$2 U of red blood cells
+304: or involvement of a critical site (intracranial, intra-
+305: spinal, intraocular, retrope ritoneal, intra-articular or
+306: pericardial, or intramuscular with compartment syn-
+307: drome) or need for operating room intervention.
+308: Clinically overt bleeding not ful ﬁlling the criteria for
+309: major bleeding was classi ﬁed as a minor bleeding
+310: complication.
+311: At each follow-up visit (3 and 12 months), patients
+312: underwent assessment of their right heart function
+--- lines 357-363 ---
+357: was enrolling, indicating favorable outcomes for
+358: USAT in 6-hour lysis protocols. Interobserver agree-
+359: ment for the computed tomography –evaluated
+360: thrombus scores and RV/LV ratios between the 2 in-
+361: vestigators (J.L. and J.S.) was assessed using intra-
+362: class correlation coef ﬁcient (ICC) estimates and their
+363: 95% con ﬁdence intervals on the basis of mean rating,
+--- lines 374-385 ---
+374: refused to undergo a 48-hour CT scan, so 81 patients
+375: were included in the analysis ( Figure 1 ). De-
+376: mographics, comorbidities, risk factors, and PE
+377: severity were similar between the groups ( Table 1 ).
+378: TREATMENT DETAILS. Procedures were performed
+379: by a total of 19 interventionalists. The mean total
+380: dose of alteplase for USAT was 19 /C6 7m ga n df o rS C D T
+381: was 18 /C6 7m g( P ¼ 0.53) over 14 /C6 6h o u r sa n d1 4 /C6 5
+382: hours, respectively ( P ¼ 0.99) ( Table 2 ). Three pa-
+383: tients within the USAT group had interruption of lytic
+384: therapy resulting from EKOS alarming, indicating
+385: catheter or wire kink or malpositioning. Two of these
+--- lines 397-409 ---
+397: graphic scans (89%) were used to measure interrater
+398: reliability using ICCs. The mean thrombus load
+399: reduction for reviewer 1 was 20% /C6 14% and 21% /C6 14%
+400: for reviewer 2. The mean differences in baseline RV/LV
+401: ratio and posttreatment RV/LV ratio for reviewer 1
+402: were 0.44 /C6 0.39 and 0.47 /C6 0.34 for reviewer 2. There
+403: was excellent agreement between the 2 reviewers for
+404: thrombus score reduction (ICC ¼ 0.93) and good
+405: agreement between the 2 reviewers for measuring
+406: difference in RV/LV ratio (ICC ¼ 0.84).
+407: PRIMARY ENDPOINT ANALYSIS. Eighty patients
+408: (USAT, n ¼ 39; SCDT, n ¼ 41) had pre- and post-
+409: intervention CT scans to evaluate the primary
+--- lines 413-419 ---
+413: reduced from 33 /C6 4t o2 3 /C6 7( P < 0.001). There was
+414: no statistically signi ﬁcant difference in mean PA raw
+415: thrombus score reduction between the 2 groups (9 /C6 6
+416: vs 10 /C6 6, respectively; P ¼ 0.76) ( Table 3 ).
+417: The baseline CT obstruction index in the USAT
+418: group was 71% /C6 8% and dropped after CDT to 50% /C6
+419: FIGURE 1 Flowchart
+--- lines 471-477 ---
+471: was higher in the USAT group (28% /C6 19% vs 14% /C6
+472: 7%; P ¼ 0.03).
+473: SECONDARY ENDPOINTS. In the USAT group
+474: (n ¼ 39), the mean RV/LV ratio was reduced from 1.5 /C6
+475: 0.3 at baseline to 1.2 /C6 0.2 ( P < 0.001) and in the SCDT
+476: group (n ¼ 41) from 1.7 /C6 0.4 to 1.1 /C6 0.2 ( P < 0.001). In
+477: 5U S A Ta n d3S C D Tp a t i e n t s ,t h e r ew a sn oR V / L Vr a t i o
+--- lines 515-521 ---
+515: Brain natriuretic peptide, ng/L 0.64
+516: Mean /C6 SD 629 /C6 1,232 517 /C6 817 570 /C6 1,029
+517: Median (IQR) 227 (246) 266 (497) 255 (357)
+518: Baseline RV/LV ratio by CT 0.08
+519: Mean /C6 SD 1.54 /C6 .30 1.69 /C6 .44 1.62 /C6 .39
+520: Median (IQR) 1.53 (0.42) 1.68 (0.55) 1.61 (0.5)
+521: Baseline pulmonary obstruction score 0.14
+===== CANARY 05_11 Catheter Directed Thrombolysis vs An Source JA.txt lines=1178 clusters=28 =====
+--- lines 21-28 ---
+21: INTERVENTIONSPatientswererandomlyassignedtocCDT(alteplase,0.5mg/catheter/hfor
+22: 24hours)plusheparinvsanticoagulationmonotherapy.
+23: MAIN OUTCOMES AND MEASURESTheproportionofpatientswitha3-month
+24: echocardiographicRV/LVratiogreaterthan0.9,assessedbyacorelaboratory,wasthe
+25: primaryoutcome.TheproportionofpatientswithanRV/LVratiogreaterthan0.9at72hours
+26: afterrandomizationandthe3-monthall-causemortalitywereamongsecondaryoutcomes.
+27: Majorbleeding(BleedingAcademicResearchConsortiumtype3or5)wasthemainsafety
+28: outcome.Aclinicaleventscommittee,maskedtothetreatmentassignment,adjudicated
+--- lines 32-42 ---
+32: completedthe3-monthechocardiographicfollow-up.Overall,2of46patients(4.3%)inthe
+33: cCDTgroupand5of39patients(12.8%)intheanticoagulationmonotherapygroupmetthe
+34: primaryoutcome(oddsratio[OR],0.31;95%CI,0.06-1.69; P = .24).Themedian(IQR)
+35: 3-monthRV/LVratiowassignificantlylowerwithcCDT(0.7[0.6-0.7])thanwith
+36: anticoagulation(0.8[0.7-0.9); P = .01).AnRV/LVratiogreaterthan0.9at72hoursafter
+37: randomizationwasobservedinfewerpatientstreatedwithcCDT(13of48[27.0%])than
+38: anticoagulation(24of46[52.1%];OR,0.34;95%CI,0.14-0.80; P = .01).Fewerpatients
+39: assignedtocCDTexperienceda3-monthcompositeofdeathorRV/LVgreaterthan0.9(2of
+40: 48[4.3%]vs8of46[17.3%];OR,0.20;95%CI,0.04-1.03; P = .048).Onecaseofnonfatal
+41: majorgastrointestinalbleedingoccurredinthecCDTgroup.
+42: CONCLUSIONS AND RELEVANCEThisprematurelyterminatedrandomizedclinicaltrialof
+--- lines 75-81 ---
+75: monaryembolism(PE)isstilldebated.Patientswithac-
+76: companyingrightventricular(RV)dysfunctionand/or
+77: elevatedcardiacbiomarkershaveahigherriskfordecompen-
+78: sation or death compared with patients who have lower-risk
+79: PE.
+80: 1InthePulmonaryEmbolismThrombolysis(PEITHO)trial,
+81: full-dosesystemicfibrinolytictherapywastestedinpatients
+--- lines 99-105 ---
+99: agulationmonotherapy.Accordingly,wecomparedtheeffect
+100: of conventional CDT (cCDT) plus anticoagulation vs antico-
+101: agulation monotherapy on decreasing the 3-month propor-
+102: tion of patients with an RV to left ventricle (LV) ratio (RV/LV)
+103: greater than 0.9 in patients with acute intermediate-high–
+104: riskPE.
+105: Methods
+--- lines 199-205 ---
+199: tory, masked to treatment assignment. All the conventional
+200: measurementswereperformedbasedonthelatestAmerican
+201: Society of Echocardiography guidelines
+202: 10; RV/LV ratio at 72
+203: hoursafterrandomizationandatthe3-monthfollow-upwas
+204: measured in the apical 4-chamber view. Three-month
+205: echocardiographic RV recovery was based on the PEITHO
+--- lines 209-215 ---
+209: pulmonaryarterypressurelessthan35mmHg(estimatedfrom
+210: the highest tricuspid regurgitation gradient acquired from
+211: multipleviewsplusrightatrialpressurebasedoninferiorvena
+212: cavadiameteranditsrespiratorycollapse),(3)anRV/LVratio
+213: less than 0.9, and (4) the normalization of RV free wall
+214: motion (in RV-focused view). The fulfillment of all the crite-
+215: ria, some criteria, and none of the criteria was defined as
+--- lines 218-254 ---
+218: 11 Additional details are summarized in
+219: Supplement1.
+220: Study Outcomes
+221: The primary outcome was the proportion of patients with
+222: an RV/LV ratio greater than 0.9 at the 3-month follow-up
+223: assessed by the imaging core laboratory. Secondary out-
+224: comes included the proportion of patients with an RV/LV
+225: ratio greater than 0.9 at 72 hours after randomization and
+226: the proportion of patients with unrecovered RV at the
+227: 3-month follow-up and the 3-month rate of all-cause
+228: mortality.
+229: Exploratory outcomes included a composite of the
+230: 3-month rate of all-cause mortality or the proportion of pa-
+231: tientswithanRV/LVratiogreaterthan0.9atthe3-monthfol-
+232: low-up(ie,theprimaryoutcome),3-monthrateofPE-related
+233: mortality,hospitallengthofstay(indexhospitalization),and
+234: 6-minutewalktestat3-monthfollow-up.Themainprespeci-
+235: fied safety outcome was major bleeding based on the classi-
+236: ficationoftheBleedingAcademicResearchConsortium(BARC)
+237: (Supplement 1). BARC type 3 or 5 was considered as major
+238: bleeding.
+239: 12Additionalsafetyoutcomeswereseverethrombo-
+240: cytopenia(plateletcount<20 × 103/μL;toconvertto10 9throm-
+241: bocytes/L, multiply by 1), vascular access complication, and
+242: clinically relevant nonmajor bleeding (BARC type 2). A clini-
+243: cal events committee, masked to the treatment assignment,
+244: adjudicatedtheclinicaloutcomes.
+245: Statistical Analysis
+246: Powercalculationwasperformedfor2-sidedsuperioritytest-
+247: ing for the primary outcome in all the patients randomly as-
+248: signed to treatment groups. Based on the pooled prevalence
+249: ofRVdysfunctioninthesystematicreviewperformedbySista
+250: etal,
+251: 13an18.3%eventratefortheprimaryoutcomeofanRV/LV
+252: ratiogreaterthan0.9inthecontrolgroupwaspresumed.Con-
+253: sideringa2-sidedαof0.05andusingthe zapproximationfor-
+254: mula for comparing 2 proportions between independent
+--- lines 263-269 ---
+263: non–COVID-19venousthromboembolism,
+264: 14thesteeringcom-
+265: mitteemadethedecisiontostoppatientrecruitmentonFeb-
+266: ruary 4, 2020. The primary outcome, unrecovered RV at the
+267: 3-monthfollow-upandthe6-minutewalktestatthe3-month
+268: followup,wereanalyzedinpatientswithvalidvalues,ie,those
+269: who were alive and agreed to participate in the 3-month fol-
+--- lines 274-280 ---
+274: mean and SEM,ifnormaldistributionwasconfirmed.Theef-
+275: fect of the intervention on the outcomes was reported with
+276: oddsratio(OR)astheeffectmeasure.A Pvalue<.05wascon-
+277: sidered significant for the primary outcome. OtherP values
+278: werenotadjustedformultiplicityofcomparisonsandshould
+279: beconsideredexploratory.
+280: Aftercompletionofenrollmentbutbeforecompletingthe
+--- lines 288-294 ---
+288: by height in meters squared), history of diabetes, hyperten-
+289: sion,coronaryarterydisease,andheartrateonadmission(≥110
+290: or<110beats/minute).
+291: Results
+292: From December 22, 2018, through February 2, 2020, a total
+293: of 270 patients were screened for eligibility. Overall, 94 pa-
+294: tientswererandomlyassignedtothecCDT(48[51%])andcon-
+--- lines 300-316 ---
+300: comeduetodifficultiesimposedbytheCOVID-19pandemic.
+301: However,thesepatientsagreedtoaphoneinterviewtoascer-
+302: tainsurvivalandsymptoms.Threepatients,allassignedtoan-
+303: ticoagulation monotherapy, died before the 3-month follow-
+304: up. Consequently, from the initial 94 patients, 85 patients
+305: completedthe3-monthechocardiographicfollow-up,which
+306: wasrequiredfortheprimaryoutcome(eResults,eTables1,2,
+307: and3in Supplement2).
+308: Catheter-DirectedThrombolysisvsAnticoagulationinPatientsWithAcuteIntermediate-High–riskPulmonaryEmbolism Original Investigation Research
+309: jamacardiology.com (Reprinted) JAMA Cardiology December2022 Volume7,Number12 1191
+310: © 2022 American Medical Association. All rights reserved.
+311: Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University School of Medicine User  on 12/15/2022
+312: The2studygroupswerebalancedintermsofbaselinechar-
+313: acteristics(Table1).15,16 BaselineRV/LVratiogreaterthan0.9
+314: wasconsistentbetweenCTPAandbedsideTTEatthetimeof
+315: enrollmentinallpatients.Onepatientwithactivecancer,as-
+316: signedtoanticoagulationmonotherapy,wasdischargedwith
+--- lines 321-365 ---
+321: ceiveafixeddoseofalteplase,24mg,over24hours.
+322: Efficacy Outcomes
+323: At3-monthfollow-up,theprimaryefficacyoutcome(thepro-
+324: portionofpatientswithanRV/LVratio>0.9at3-monthfollow-
+325: up) was not significantly different in the cCDT group
+326: comparedwiththeanticoagulationmonotherapygroup(2of
+327: 46 patients [4.3%] vs 5 of 39 patients [12.8%]; OR, 0.31; 95%
+328: CI, 0.06-1.69; P = .24) (Table 2). The median (IQR) RV/LV
+329: ratio at 3-month follow-up was significantly lower in the
+330: cCDT group compared with the anticoagulation mono-
+331: therapy group (0.7 [0.6-0.7] vs 0.8 [0.7-0.9];P = .01) (eFig-
+332: ure1in Supplement2).
+333: For the secondary efficacy outcomes, fewer patients as-
+334: signedtocCDThadanRV/LVratiogreaterthan0.9at72hours
+335: afterrandomization(13of48patients[27.0%])comparedwith
+336: thoseassignedtoanticoagulationmonotherapy(24of46pa-
+337: tients[52.1%];OR,0.34;95%CI,0.14-0.80; P = .01).Theme-
+338: dian(IQR)RV/LVratiowaslowerinthecCDTgroupat72hours
+339: after randomization (0.8 [0.7-0.9] vs 0.9 [0.8-1.1];P = .001)
+340: (eFigure1in Supplement2).
+341: TherateofunrecoveredRVfunctionwaslowerat3-month
+342: follow-up with cCDT compared with anticoagulation mono-
+343: therapy (3 of 46 patients [6.2%] vs 11 of 39 patients [28.2%];
+344: OR, 0.18; 95% CI, 0.06-0.77;P = .009) (Table 2). Clinical de-
+345: terioration(ie,hemodynamicinstabilitydespitetreatmentwith
+346: vasopressoragent)occurredin1of46patients(2.1%)inthean-
+347: ticoagulationmonotherapygroup.Thepatientsubsequently
+348: received open-label cCDT as part of routine care. Patients in
+349: bothgroupshadsimilarhospitallengthsofstay(median[IQR],
+350: 6[5-8]days; P= .45).Allpatientsweredischargedfromthehos-
+351: pitalalive.
+352: Three patients died during the 3-month follow-up, all in
+353: the anticoagulation monotherapy group, of whom 2 events
+354: were adjudicated as PE-related mortality. For the third pa-
+355: tient,PE-relateddeathandcancer-relateddeathwerethe2pos-
+356: sibleetiologies. However,the clinicaleventscommitteecon-
+357: cludedthatsufficientinformationwasnotavailabletoascertain
+358: thecause.Acompositeof3-monthmortalityorhavinganRV/LV
+359: ratiogreaterthan0.9ata3-monthfollow-upwasobservedin
+360: 2of48patients(4.3%)inthecCDTgroupand8of46patients
+361: (17.3%)intheanticoagulationmonotherapygroup(OR,0.20;
+362: 95%CI,0.04-1.03; P = .048)(Table2).TheTTE-based3-month
+363: estimatedpulmonaryarterysystolicpressurehadreliablemea-
+364: surementsaccordingtothecorelaboratoryin79patients(92%)
+365: andwerenotsignificantlydifferentbetweenthe2groups(me-
+===== PEERLESS 06_14 Large bore Mechanical Thrombectomy V Source Ci.txt lines=1709 clusters=34 =====
+--- lines 3-9 ---
+3:  
+4: Large-bore Mechanical Thrombectomy Versus Catheter-directed 
+5: Thrombolysis in the Management of Intermediate-risk Pulmonary Embolism: 
+6: Primary Results of the PEERLESS Randomized Controlled Trial 
+7:  
+8: Running title: Jaber et al.; The PEERLESS Randomized Controlled Trial 
+9:  
+--- lines 119-145 ---
+119: patients with right ventricular dilatation and additional clinical risk factors randomized 1:1 to 
+120: treatment with large-bore mechanical thrombectomy (LBMT) or catheter-directed thrombolysis 
+121: (CDT). The primary endpoint was a hierarchal win ratio (WR) composite of the following: 1) all-
+122: cause mortality, 2) intracranial hemorrhage, 3) major bleeding, 4) clinical deterioration and/or 
+123: escalation to bailout, and 5) postprocedural intensive care unit (ICU) admission and length of 
+124: stay, assessed at the sooner of hospital discharge or 7 days post-procedure. Assessments at the 
+125: 24-hour visit included respiratory rate, mMRC dyspnea score, NYHA classification, right 
+126: ventricle (RV)/left ventricle (LV) ratio reduction, and RV function. Endpoints through 30 days 
+127: included total hospital stay, all-cause readmission, and all-cause mortality. 
+128: Results: The primary endpoint occurred significantly less frequently with LBMT vs CDT (WR 
+129: 5.01 [95% CI: 3.68-6.97]; P<0.001). There were significantly fewer episodes of clinical 
+130: deterioration and/or bailout (1.8% vs 5.4%; P=0.04) with LBMT vs CDT and less postprocedural 
+131: ICU utilization (P<0.001), including admissions (41.6% vs 98.6%) and stays >24 hours (19.3% 
+132: vs 64.5%). There was no significant difference in mortality, intracranial hemorrhage, or major 
+133: bleeding between strategies, nor in a secondary WR endpoint including the first 4 components 
+134: (WR 1.34 [95% CI: 0.78-2.35]; P=0.30). At the 24-hour visit, respiratory rate was lower for 
+135: LBMT patients (18.3±3.3 vs 20.1±5.1; P<0.001) and fewer had moderate to severe mMRC 
+136: dyspnea scores (13.5% vs 26.4%; P<0.001), NYHA classifications (16.3% vs 27.4%; P=0.002), 
+137: and RV dysfunction (42.1% vs 57.9%; P=0.004). RV/LV ratio reduction was similar (0.32±0.24 
+138: vs 0.30±0.26; P=0.55). LBMT patients had shorter total hospital stays (4.5±2.8 vs 5.3±3.9 
+139: overnights; P=0.002) and fewer all-cause readmissions (3.2% vs 7.9%; P=0.03), while 30-day 
+140: mortality was similar (0.4% vs 0.8%; P=0.62). 
+141: Conclusions: PEERLESS met its primary endpoint in favor of LBMT vs CDT in treatment of 
+142: intermediate-risk PE. LBMT had lower rates of clinical deterioration and/or bailout and 
+143: postprocedural ICU utilization compared with CDT, with no difference in mortality or bleeding. 
+144: Clinical Trial Registration: URL: https://www.clinicaltrials.gov; Unique identifier: 
+145: NCT05111613. 
+--- lines 165-178 ---
+165: What is new? 
+166: • The PEERLESS study is the first randomized controlled trial to compare interventional 
+167: strategies for intermediate-risk pulmonary embolism. 
+168: • Results from 550 randomized patients demonstrate that large-bore mechanical 
+169: thrombectomy has a significantly lower composite primary endpoint of all-cause 
+170: mortality, intracranial hemorrhage, major bleeding, clinical deterioration and/or 
+171: escalation to bailout therapy, and intensive care unit utilization through discharge or 7 
+172: days compared with catheter-directed thrombolysis (win ratio = 5.01, 95% CI: 3.68–6.97; 
+173: P<0.001).  
+174: • Large-bore mechanical thrombectomy is associated with significantly lower rates of 
+175: clinical deterioration and/or escalation to bailout therapy and less postprocedural 
+176: intensive care unit utilization when compared with catheter-directed thrombolysis. 
+177:  
+178: What are the clinical implications? 
+--- lines 182-188 ---
+182: been made by the patient’s care team. 
+183: • In the intermediate-risk pulmonary embolism patient population, intervention with large-
+184: bore mechanical thrombectomy reduces the likelihood that patients will experience 
+185: clinical deterioration and/or escalation to bailout therapy and reduces intensive care unit 
+186: admission, hospital length of stay, and 30-day readmission compared with catheter-
+187: directed thrombolysis. 
+188:   
+--- lines 224-236 ---
+224:  
+225: Introduction 
+226: Despite advances in care, by some estimates, pulmonary embolism (PE) remains the third 
+227: leading cause of cardiovascular death.
+228: 1-4 Currently, high-risk PE is managed with rapid 
+229: reperfusion therapy. However, given the high rate of bleeding including intracranial hemorrhage 
+230: (ICH) with systemic thrombolysis, societal guidelines recommend anticoagulation for 
+231: intermediate-risk PE patients with objective evidence of right ventricle (RV) dysfunction.
+232: 5,6 
+233: Considering early mortality in these patients ranges from 3–15%7,8 and clinical deterioration 
+234: occurs in 5-18%,9-12 alternate therapies are needed to improve outcomes.  
+235: Observational studies of large-bore mechanical thrombectomy (LBMT) and catheter-directed 
+236: thrombolysis (CDT) have separately reported positive outcomes in patients with intermediate-
+--- lines 352-359 ---
+352: The primary endpoint was a hierarchal win ratio composite
+353: 22 of the following clinical outcomes 
+354: assessed at the sooner of discharge or 7 days post procedure: 1.) all-cause mortality, 2.) ICH, 3.) 
+355: major bleeding per International Society for Thrombosis and Haemostasis (ISTH) definition,23 
+356: 4.) clinical deterioration and/or escalation to bailout therapy, and 5.) postprocedural intensive 
+357: care unit (ICU) admission and length of stay. Postprocedural ICU utilization was characterized 
+358: hierarchically as follows: 1.) no ICU admission, 2.) admission lasting between 0–24 hours, and 
+359: 3.) admission lasting >24 hours. The first four components of the primary endpoint were 
+--- lines 375-381 ---
+375: 12 
+376:  
+377: perfusion, or inadequate thrombus resolution; and new-onset, persistent, or worsening symptoms 
+378: of PE. Full endpoint definitions and descriptions of objective clinical deterioration thresholds 
+379: and therapy escalation triggers are included in the Supplemental Material.  
+380: Additional secondary endpoints included each component of the primary endpoint assessed 
+381: individually; clinically relevant non-major (CRNM) bleeding per ISTH definition23 and minor 
+--- lines 390-396 ---
+390: (mPAP) post treatment; heart rate, respiratory rate, and echocardiographic RV function at 24-
+391: hour visit; and New York Heart Association (NYHA) heart failure classification and modified 
+392: Borg dyspnea scores at rest at 24-hour and 30-day visits. A blinded reviewer assessed the change 
+393: in RV/LV ratio using the same imaging modality (CTPA or echocardiogram) at both time points 
+394: and determined categorization of RV dysfunction severity via visual assessment of ventricular 
+395: wall motion following American Society of Echocardiography guidelines.
+396: 24 Symptom scores on 
+--- lines 439-458 ---
+439: the statistical methods related to controlling multiplicity can be found in the Supplemental 
+440: Material. Statistical analyses were performed using SAS® version 9.4 (Cary, NC).  
+441:  
+442: Results 
+443: Patients 
+444: In total, 599 patients underwent randomization, 550 of whom were enrolled and treated with 
+445: LBMT (n=274) or CDT (n=276) at 57 sites in 3 countries between February 2022 and February 
+446: 2024. Figure S1 shows progression of participants through the study and accounts for all 49 
+447: post-randomization exclusions, 35 (71.4%) of which were due to the prespecified sPAP 
+448: requirement. A total of 142 patients with contraindications to thrombolytics (Table S1) were 
+449: enrolled into the parallel non-randomized registry.  
+450: Baseline characteristics are presented in Table 1. The mean age was 63.7 years for LBMT 
+451: and 61.2 years for CDT, and 54.4% and 51.4% were male, respectively. Elevated cardiac 
+452: troponin levels were observed in 94.7%, indicating intermediate-high-risk PE per ESC 
+453: guidelines.
+454: 5 Ultimately, 26.4% of patients had a VTE-BLEED score ≥2. Relative 
+455: contraindications to thrombolytics (Table S2) were present in 4.2% of the randomized 
+456: population. At baseline, 95.3% of LBMT and 96.7% of CDT patients were receiving parenteral 
+457: anticoagulation with unfractionated heparin (UFH) or low molecular weight heparin (LMWH), 
+458: with most patients receiving UFH (80.7% and 85.5%, respectively). The time from study 
+--- lines 464-472 ---
+464:  
+465: hospital presentation to treatment catheter insertion was similar between the LBMT and CDT 
+466: arms (22.3±17.7 hours and 24.9±19.7 hours, respectively; P=0.08). 
+467: Procedural characteristics and periprocedural outcomes are reported in Table 2. All LBMT 
+468: procedures were performed with common femoral or femoral vein access while 35.1% of CDT 
+469: cases were performed with jugular vein access. In the CDT arm (Table 3), bilateral catheters 
+470: were used in 92.0% of patients, median total tissue plasminogen activator (tPA) dose was 16.0 
+471: mg [IQR: 12.0, 24.0], and the median tPA infusion duration was 12.0 hours per lung [IQR: 6.0, 
+472: 15.6]. Most tPA infusions were administered at a rate of 0.5–1.0 mg/hour per lung (95.9%) for a 
+--- lines 475-497 ---
+475: Win Ratios and Components 
+476: The primary endpoint significantly favored LBMT over CDT (Figure 1) with a corresponding 
+477: win ratio of 5.01 ([95% CI: 3.68–6.97]; P<0.001). There were statistically significant differences 
+478: in 2 of the 5 components of the primary endpoint: (1) a lower rate of clinical deterioration and/or 
+479: escalation to bailout with LBMT vs CDT (1.8% vs 5.4%; P=0.04), and (2) less postprocedural 
+480: ICU utilization (P<0.001), including fewer admissions (41.6% vs 98.6%) and stays >24 hours 
+481: (19.3% vs 64.5%). There were no significant differences in all-cause mortality (0.0% vs 0.4%; 
+482: P=1.00), ICH (0.7% vs 0.4%; P=0.62), or major bleeding (6.9% vs 6.9%; P=1.00), nor in the 4-
+483: component win ratio (1.34 [95% CI: 0.78–2.35]; P=0.30). Pairwise comparisons in the 
+484: hierarchical win ratio endpoints are shown in Figure S2. 
+485: Clinical Deterioration and Therapy Escalation Events  
+486: There was a significantly lower rate of clinical deterioration and/or escalation to bailout therapy 
+487: with LBMT vs CDT (1.8% vs 5.4%; P=.04). Clinical deterioration and therapy escalation events 
+488:  
+489: Downloaded from http://ahajournals.org by on November 3, 2024
+490: 
+491: 10.1161/CIRCULATIONAHA.124.072364 
+492: 16 
+493:  
+494: are summarized in Table 4. Among the 5 (1.8%) patients in the LBMT arm who experienced this 
+495: endpoint, 4 (1.5%) had deteriorations and 1 (0.4%) underwent bailout; among the 15 (5.4%) 
+496: patients in the CDT arm, 10 (3.6%) had deteriorations and 6 (2.2%) underwent bailout. In the 
+497: LBMT arm, all deteriorations occurred during the index procedure and were resolved the same 
+--- lines 503-519 ---
+503: study sites underwent successful bailout with LBMT. At the time of reintervention, all had 
+504: completed CDT treatment with a total tPA dose of 12 to 20 mg. The remaining CDT patient who 
+505: underwent bailout and the 1 LBMT patient who underwent bailout each had multiple 
+506: unsuccessful bailout attempts and ultimately died after >7 days. 
+507: Bleeding Events 
+508: There were no statistically significant differences in ICH (0.7% vs 0.4%; P=0.62) or major 
+509: bleeding (6.9% vs 6.9%; P=1.00) for patients treated with LBMT vs CDT. There were 19 
+510: patients (6.9%) with 21 major bleeding events (2 patients with 2 events) in each arm. 
+511: Adjudications per ISTH criteria for LBMT vs CDT patients were as follows: 1. fatal bleeding (0 
+512: vs 1), 2. symptomatic bleeding in a critical area or organ (2 vs 2), and 3. bleeding causing a fall 
+513: in hemoglobin level (≥2 g/dL or 1.24 mmol/L) or leading to transfusion of ≥2 units (17 vs 16). 
+514: The fatal bleed occurred in a CDT patient with thrombolytic- and anticoagulation-related intra-
+515: abdominal hematomas who succumbed to hemorrhagic shock on postprocedural day 5. ICH 
+516: accounted for 3 of the 4 cases of major bleeding in a critical area. In the LBMT arm, 1 ICH was 
+517:  
+518: Downloaded from http://ahajournals.org by on November 3, 2024
+519: 
+===== STORM 07_15 Randomized Controlled Trial of Mecha Source Ci.txt lines=1294 clusters=34 =====
+--- lines 71-101 ---
+71: Abstract  
+72:  
+73: Background: Patients with intermediate-high risk pulmonary embolism (PE) have an elevated 
+74: right-to-left-ventricular (RV/LV) diameter ratio and are at risk of early clinical decompensation 
+75: and mortality. Reperfusion therapy aims to rapidly relieve acute RV pressure overload and 
+76: normalize hemodynamics. STORM-PE is the first reported randomized controlled trial (RCT) to 
+77: test the efficacy and evaluate the safety of mechanical thrombectomy (MT), specifically 
+78: computer assisted vacuum thrombectomy (CAVT) with anticoagulation (AC) compared to AC 
+79: alone.  
+80: Methods: STORM-PE is an international RCT with 1:1 randomization to CAVT with AC or AC 
+81: alone. Eligible adults had acute onset (symptoms ≤14 days), intermediate-high risk PE, and were 
+82: normotensive, with an RV/LV ratio ≥1.0 on computed tomography pulmonary angiography and 
+83: elevated cardiac biomarkers. The primary endpoint analysis tested for a difference between 
+84: groups for the change in RV/LV ratio at 48 hours, assessed by a blinded independent imaging 
+85: core laboratory. Secondary endpoints included major adverse events (MAE) within 7 days (a 
+86: composite of clinical deterioration necessitating rescue therapy, PE-related mortality, 
+87: symptomatic recurrent PE, and major bleeding), adjudicated by an external clinical events 
+88: committee. Additional outcomes included change in vital signs and core lab assessed PA 
+89: obstruction at 48 hours.  
+90: Results: A total of 100 patients enrolled across 22 sites were randomized to CAVT (N=47) or 
+91: AC alone (N=53). Baseline characteristics were comparable between arms. At 48 hours, mean 
+92: reduction in RV/LV ratio was greater for CAVT (0.52±0.37) than AC (0.24±0.40), a difference 
+93: of 0.27 (95% CI, 0.12, 0.43; P<0.001). Refined modified and modified Miller score exhibited 
+94: greater changes for CAVT than AC at 48 hours (P<0.001). Early normalization of vital signs 
+95: within 48 hours was more frequent after CAVT. The MAE rate within 7 days was not different 
+96: between groups (CAVT 4.3% vs AC 7.5%, P=0.681). Two PE-related deaths occurred in the 
+97: CAVT arm. 
+98: Conclusions: CAVT was superior to AC alone in reducing RV/LV ratio within 48 hours in 
+99: intermediate-high risk PE patients, accompanied by earlier normalization of vital signs and 
+100: comparable MAE rates to AC. 
+101: Clinical Trial Registration: https://clinicaltrials.gov ; NCT05684796  
+--- lines 148-154 ---
+148: evaluate the safety of mechanical thrombectomy with anticoagulation to anticoagulation 
+149: alone for the treatment of intermediate-high risk pulmonary embolism (PE). 
+150: ● Treatment with mechanical thrombectomy resulted in a significantly greater reduction in 
+151: right ventricular/left ventricular (RV/LV) ratio at 48 hours versus anticoagulation alone, 
+152: with comparably low rates of major adverse events in both treatment arms.  
+153:  
+154: What are the clinical implications? 
+--- lines 175-188 ---
+175: severe clinical manifestations, including imaging evidence of right ventricular (RV) strain and 
+176: elevated biomarkers.
+177: 2 While they appear hemodynamically stable at presentation, these patients 
+178: have an elevated right-to-left-ventricular (RV/LV) diameter ratio associated with at least a two-
+179: fold increased risk of short-term mortality, as well as a substantial risk of hemodynamic 
+180: decompensation and other in-hospital adverse events.2-8 Goals of effective reperfusion strategies 
+181: in these patients are to rapidly improve RV dysfunction, which may prevent clinical 
+182: decompensation and hemodynamic collapse.9 
+183: While anticoagulation (AC) alone is still considered the mainstay of treatment for 
+184: intermediate-high risk PE, growing evidence supports that endovascular therapy combined with 
+185: AC is safe and leads to a reduction in RV/LV ratio for patients in this risk category.10-14 The 
+186: 2019 European Society for Cardiology (ESC) guidelines recommend the use of endovascular 
+187: therapy for acute PE in the event of hemodynamic deterioration while emphasizing the need for 
+188: randomized controlled trials (RCTs) to assess the benefits vs risks of catheter-directed 
+--- lines 202-208 ---
+202: STORM-PE is the first reported international RCT to test the efficacy and evaluate safety 
+203: of CAVT with AC compared to AC alone for the treatment of patients with intermediate-high 
+204: risk PE.16 Here we report the results of STORM-PE, focusing on the primary endpoint—
+205: reduction in RV/LV ratio—as well as thrombus burden, clinical stabilization with normalization 
+206: of vital signs at 48 hours, and secondary safety outcomes at seven days following randomization.  
+207:  
+208: Methods 
+--- lines 219-225 ---
+219: safety of CAVT using the Lightning Flash 16F catheter system (Penumbra, Inc, Alameda, CA) 
+220: with AC compared to AC alone in 100 patients with acute intermediate-high risk PE.16 The trial 
+221: primary endpoint was designed to demonstrate superiority of CAVT with AC over AC alone in 
+222: reducing the RV/LV ratio, as measured by repeated computed tomographic pulmonary 
+223:  
+224: Downloaded from http://ahajournals.org by on November 6, 2025
+225: 
+--- lines 245-254 ---
+245: investigators (Figure 1, Supplemental Material). Eligibility criteria were previously 
+246: described.16 Briefly, adult patients (aged 18-80 years) who were normotensive with confirmed 
+247: acute intermediate-high risk PE (symptom onset within the past 14 days), presenting with RV 
+248: dysfunction indicated by an RV/LV ratio of ≥1.0 on CTPA, and with elevated troponin or brain-
+249: type natriuretic peptide (BNP or N-terminal pro BNP) were randomized 1:1 to receive either 
+250: CAVT with the 16F catheter system with AC or AC alone (Figure 1). Key exclusion criteria 
+251: were hemodynamic instability, high risk of clinical deterioration using a National Early Warning 
+252:  
+253: Downloaded from http://ahajournals.org by on November 6, 2025
+254: 
+--- lines 294-307 ---
+294: at the investigator’s discretion based on hemodynamic and clinical improvement or by 
+295: completion of thrombus extraction. 
+296: Trial Endpoints 
+297: The primary endpoint was the change in RV/LV ratio assessed by CTPA at baseline (defined as 
+298: at index PE presentation) and at 48 (±6) hours, as adjudicated by an independent, blinded 
+299: imaging core laboratory. Secondary safety endpoints included the rate of MAEs within 7 days 
+300: post randomization, a composite of CEC-adjudicated clinical deterioration requiring rescue 
+301: therapy, PE-related mortality, symptomatic recurrent PE, or major bleeding categorized by the 
+302: Bleeding Academic Research Consortium (BARC) scale.
+303: 21 Major bleeding was defined as 
+304: meeting BARC types 3a, 3b, 3c, or 5. Type 3a was not considered major bleeding if it was 
+305: related to an expected decrease in hemoglobin level due to fluid administration and if transfusion 
+306: was less than 2 units. 
+307: Additional secondary endpoints through 90 days will be reported in a future publication 
+--- lines 320-326 ---
+320: The full schedule of assessments and the data collected were described previously.16 Data were 
+321: collected for the prespecified endpoints of efficacy and safety, as well as for demographics, 
+322: medical history, and for the additional analyses relating to clinical stability measured with vital 
+323: signs, risk of clinical deterioration assessed by NEWS2, inferior vena caval (IVC) reflux, and PA 
+324: obstruction assessed by the refined modified Miller score (RMMS) and modified Miller score 
+325: (MMS) on CTPA.
+326: 16 The MMS is a cumulative score ranging from (0-40) calculated by assigning 
+--- lines 335-345 ---
+335: events within seven days were collected. 
+336: Statistical Analysis 
+337: The primary analysis was performed on the Intent-to-Treat (ITT) population, defined as all 
+338: participants who were randomized. To determine statistical power, the assumed RV/LV ratio 
+339: change for the AC arm was 0.10 based on a weighted average of RV/LV ratio changes across 
+340: prior studies.
+341: 11,23-26 The assumed RV/LV ratio change for the CAVT arm was 0.35 based on the 
+342: EXTRACT-PE study results.27 This yielded an assumed difference in RV/LV ratio change 
+343:  
+344: Downloaded from http://ahajournals.org by on November 6, 2025
+345: 
+--- lines 350-359 ---
+350: 0.36 from the SEATTLE II study results.28 It was calculated that a sample size of 100 
+351: randomized patients, providing a minimum of 90 trial participants with evaluable imaging under 
+352: the assumption of a 5% attrition rate, had 90% power for detecting superiority of CAVT vs AC 
+353: for a difference in RV/LV ratio change of 0.25 at one-sided alpha of 0.025. The change in 
+354: RV/LV ratio at 48 hours via CTPA for CAVT vs AC was tested with a two-sample t-test at one-
+355: sided alpha of 0.025. For participants who received rescue therapy without RV/LV reassessment, 
+356: a prespecified zero change in RV/LV ratio was assigned for analysis of the primary endpoint. 
+357: The proportion of trial participants suffering a major adverse event within seven days was 
+358: analyzed with a 95% binomial confidence interval and Fisher’s exact test for the difference 
+359: between the treatment groups.  
+--- lines 365-395 ---
+365: evaluated using Fisher's exact test, and for within group differences, the McNemar test for 2x2 
+366: comparisons was used. 
+367: The groups were further compared in a non-prespecified analysis for the dichotomized 
+368: change in the RV/LV ratio at 48 hours (>0.2 or ≤0.2). Previously, study success in 
+369: investigational device exemption (IDE) trials for PE was based on a benchmark of >0.2 change 
+370: in RV/LV ratio to indicate that the device achieved clinically meaningful improvement in RV 
+371:  
+372: Downloaded from http://ahajournals.org by on November 6, 2025
+373: 
+374: 10.1161/CIRCULATIONAHA.125.077232 
+375: 13 
+376:  
+377: strain.14,27,29,30 An additional analysis compared the percentage of patients with a normalized 
+378: RV/LV ratio (≤1.0) at 48 hours.  
+379: All statistical tests aside from the primary endpoint were two-sided with a significance 
+380: level of 0.05. Statistical analyses were carried out using SAS Software (v9.4, SAS Institute, 
+381: Cary, NC). 
+382:  
+383: Results  
+384: Baseline and Clinical Characteristics 
+385: A total of 767 patients were assessed for initial eligibility, 100 of whom were enrolled in the trial 
+386: and randomized 1:1 to the CAVT (N=47) or AC arm (N=53). The CONSORT diagram is shown 
+387: in Figure 1. The most common reason for screen failure in 546 patients was not meeting trial 
+388: eligibility criteria. The absence of both elevated RV/LV ratio and cardiac biomarkers (N=194, 
+389: 25.3%) and active cancer (N=107, 14.0%) were the most common eligibility criteria not met. A 
+390: total of 86 patients met eligibility criteria but declined to participate in the trial. 
+391: Baseline characteristics, medical history, and comorbidities were similar between arms 
+392: (Table 1). Among the 100 patients, mean age was 59.5±13.22 years in the CAVT and 
+393: 61.2±14.19 years in the AC arm. The percentage of females was 38.3% in the CAVT and 52.8% 
+394: in the AC arm (P=0.164). The median time from PE symptom onset to hospital admission was 
+395: similar, with 3.0 days (IQR 0.0-6.0) in the CAVT and 2.0 days (0.0-6.0) in the AC arm 
+--- lines 405-421 ---
+405:  
+406: Procedural Characteristics and Hospital Resource Utilization 
+407: CAVT Procedure 
+408: CAVT procedural characteristics are presented in Table 2. For all patients, access was obtained 
+409: via the femoral vein (4.3% [2/47] left and 95.7% [45/47] right). In the CAVT arm, the 
+410: thrombectomy procedure was technically successful in all 47 patients (100%). The median 
+411: thrombectomy time was 25.0 minutes (IQR, 15.0–41.0), and the median procedure time was 56.0 
+412: minutes (IQR, 42.0–69.0) (Table 2). The optional separator was not needed in any of the CAVT 
+413: cases. During the procedure, no adjunctive treatments for thrombus removal were necessary, 
+414: specifically no thrombolytic therapy. 
+415: Intraprocedural Hemodynamics 
+416: In the CAVT arm, the systolic pulmonary artery pressure (sPAP) was 50.0±14.38 mm Hg prior 
+417: to the procedure and 39.4±15.14 mm Hg after the procedure, a reduction of 10.8±8.46 mm Hg 
+418: (reduced by 21.7±16.66%, P<0.001) (Table 2). The mean pulmonary artery pressure (mPAP) 
+419: was 30.9±9.90 mm Hg prior to the procedure and 23.0±9.75 mm Hg after the procedure, a 
+420: reduction of 8.2±5.71 mm Hg (reduced by 27.3±19.70%, P<0.001).  
+421: Anticoagulation 
+===== STRATIFY 08_16 stratify.txt lines=908 clusters=18 =====
+--- lines 27-33 ---
+27: Received 9 June 2025; revised 29 September 2025; accepted 6 November 2025; online publish-ahead-of-print 30 January 2026
+28: Time of primary review: 61 days
+29: Aims Intermediate high-risk pulmonary embolism (PE) is associated with increased risk of haemodynamic deterioration and 
+30: death, but balancing the risk of thrombolytics or catheter-based treatment and efficacy has been challenging. This trial 
+31: compared the additional efficacy of catheter-based ultrasound low-dose thrombolysis (USAT) over intravenous low- 
+32: dose thrombolysis or heparin alone.
+33: Methods 
+--- lines 59-65 ---
+59: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60: Conclusion
+61: Low-dose thrombolysis reduced thrombus burden more than heparin alone in patients with acute intermediate high- 
+62: risk PE. However, USAT did not show greater thrombus reduction than intravenous thrombolysis. The rate of death 
+63: and risk of bleeding complications were increased with low-dose thrombolysis.
+64: Trial Registration
+65: clinicaltrials.gov , NCT04088292.
+--- lines 80-86 ---
+80: varying degree of obstruction. A subset of patients exhibits right 
+81: ventricular pressure overload with evidence of myocardial injury 
+82: and are categorized as intermediate high-risk, demonstrating a sig -
+83: nificant risk of clinical deterioration and death.
+84: 1
+85: Conservative treat -
+86: ment with anticoagulation strategies does not seem to prevent 
+--- lines 149-155 ---
+149: agement strategies in a 1:1:1 ratio: therapeutic doses of heparin 
+150: and low-dose thrombolysis administered by USAT, or as intraven -
+151: ous low-dose thrombolysis, or heparin alone. The option to admin -
+152: ister full-dose thrombolysis in the event of clinical deterioration 
+153: was available in all three treatment strata. Randomization was per -
+154: formed from March 2019 to June 2024 at four sites in the Capital 
+155: Region of Denmark and Region of Zealand, using a REDCap
+--- lines 206-214 ---
+206: tum, 20 mg of alteplase was administered intravenously over 6 h in 
+207: addition to heparin. The patient remained at the site where the pa -
+208: tient was randomized. Finally, in the heparin-only stratum, patients 
+209: were monitored for clinical deterioration. A full dose of alteplase 
+210: (bolus and infusion over 2 h) could be administered at the discretion 
+211: of the treating physician if signs of clinical deterioration developed 
+212: in all three strata.
+213: 2.4 Trial intervention
+214: The trial interventions were 20 mg of alteplase delivered intraven -
+--- lines 311-317 ---
+311: 13
+312: For the primary analyses, 
+313: a variance component model (proc mixed) was applied, adjusting 
+314: for rmMS at baseline and for site. Patients who died before the 
+315: follow-up CT angiography were assigned the highest rmMS score 
+316: in the stratum. The site was defined as the site of randomization.
+317: The remaining secondary endpoints were presented as mean dif -
+--- lines 334-347 ---
+334: Guide, ver. 8.3, SAS Institute
+335: ®
+336: , Cary, NC, USA.
+337: 3. Results
+338: 3.1 Patients
+339: A total of 210 patients were enrolled in the trial from June 2019 to 
+340: June 2024; the screening and selection of patients are shown in 
+341: Figure 1 . All patients provided informed consent, none withdrew 
+342: the consent during the trial, and all patients underwent the allo -
+343: cated treatment regimen. Two patients, both in the low-dose 
+344: USAT stratum, died from cardiac arrest before the 48–96 h follow- 
+345: up pulmonary CT angiography, due to gastrointestinal and intracra -
+346: nial haemorrhage, respectively. An additional five patients did not 
+347: have the follow-up CT angiography at 48–96 h (clinical deterior -
+--- lines 359-365 ---
+359: to heparin alone, 70 patients treated with low-dose thrombolysis 
+360: intravenously, and 71 patients with low-dose thrombolysis by 
+361: USAT. Demography and clinical characteristics are provided in 
+362: Table 1 . The randomization was performed 14 h (IQR 7–23) from 
+363: the onset of symptoms, with a median delay from randomization 
+364: to initiation of the allocated treatment of 66 min (IQR 30–123) 
+365: in the low-dose intravenous stratum and 261 min (IQR 30–123) 
+--- lines 382-398 ---
+382: among the 71 patients treated by low-dose thrombolysis by USAT 
+383: was 6.3 (5.3) points vs. 6.1 (5.0) points in the 70 patients treated by 
+384: low-dose thrombolysis intravenously (mean difference −0.1, (95% 
+385: CI: −1.9–1.7), P = 0.88), Figure 2 and Table 2 .
+386: 3.4 Clinical endpoint
+387: Oxygen saturation was higher at time of follow-up CT angiography 
+388: in the low-dose thrombolysis stratum, 97% (2%) compared to 96% 
+389: (2%) in the heparin stratum (mean difference 0.8 (95% CI: 0.2–1.4)), 
+390: and the dyspnoea index was 2 (2) vs. 3 (2) point, respectively (mean 
+391: difference −1 (95% CI: −1.7 to −0.6). Other vital signs and days of 
+392: hospitalization are presented in Table 2 . The predefined subgroup 
+393: analysis showed no differences between groups for the two pri -
+394: mary analyses (Figure 3 ). No difference in RV/LV diameter ratio 
+395: was found for either of the two comparisons (Table 2 ).
+396: 3.5 Safety endpoints
+397: Full-dose thrombolysis was administered in five patients: two in the 
+398: heparin only group, two in the low-dose intravenous group, and 
+--- lines 401-422 ---
+401: classified by the TIMI definition was numerically higher in the low- 
+402: dose thrombolysis groups compared to the heparin group, but the 
+403: differences did not reach statistical significance (n = 16, 11% vs. = 3, 
+404: 4%, P = 0.10, Table 2 ). Similar data were seen for the ISTH classifi -
+405: cation of bleeding events (Table 2 ). At 3-month follow-up, 6 (4%) 
+406: patients in the low-dose thrombolysis groups had died (4 in the 
+407: IV and 2 in the USAT groups) compared to 0 in the heparin group, 
+408: P = 0.08, Figure 1 and Supplementary material online, Figure S2 .
+409: No major or minor bleeding complications, but only three min -
+410: imal bleeding events, according to the TIMI classification, were 
+411: seen in the heparin-only group, even though two of the patients re -
+412: ceived full-dose thrombolysis for haemodynamic deterioration. 
+413: Five patients died during index hospitalization, and one additional 
+414: patient died before the 3 months follow-up, P = NS, See Figure 1 . 
+415: Causes of death during the first 3 days of hospitalization were 
+416: haemodynamic deterioration in one case, gastrointestinal bleeding 
+417: in one case, and intracranial haemorrhage in one case. Furthermore, 
+418: two patients died while in the hospital, one from sudden cardiac ar -
+419: rest, and one from intracranial haemorrhage.
+420: 4. Discussion
+421: In this randomized trial comparing low-dose alteplase administered 
+422: by intravenous route or by USAT, we demonstrated a statistically 
+--- lines 426-432 ---
+426: ficacy of low-dose thrombolysis administered by USAT compared 
+427: to intravenously route of administration. The secondary outcomes 
+428: showed no clinical and statistically significant differences between 
+429: strata, but a trend towards increased risk of death in the thromboly -
+430: sis strata.
+431: PE management relies on early risk stratification.
+432: 11
+--- lines 440-446 ---
+440: Downloaded from https://academic.oup.com/cardiovascres/article/122/4/539/8444753 by Sir Charles Gairdner Hospital user on 20 April 2026
+441: 
+442: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+443: Table 1 Demographic and clinical variables
+444: USAT 
+445: (n = 71)
+446: IV 
+===== PRETHA 09_17 Percutaneous Reperfusion Therapies v Source Pulm Circ SO 2026.txt lines=1247 clusters=32 =====
+--- lines 47-53 ---
+47: randomly assigned (1:1:1) to receive trans‐catheter thrombectomy, trans‐catheter thrombolysis, or conservative medical therapy 
+48: with anticoagulation. Echocardiographic, hemodynamic, and biomarker parameters were assessed at baseline, 48 h, and at 1‐, 
+49: 6‐, and 12‐month follow‐up. At 48 h, both interventional groups demonstrated significant improvement in right ventricular 
+50: (RV) function and pulmonary pressures. The RV/LV ratio decreased by 0.3 (95% CI: 0.13–0.69; p < 0.0002) in the thrombectomy 
+51: group and by 0.4 (95% CI: 0.12–0.96; p < 0.0002) in the thrombolysis group. Noninvasively measured systolic pulmonary artery 
+52: pressure decreased by 29% in the thrombectomy group and by 39% in the thrombolysis group (both p < 0.001). Significant 
+53: reductions in direct systolic and mean pulmonary artery pressures were also observed (p = 0.0002). However, at longer (1 to 
+--- lines 88-94 ---
+88: dence of DVT ranges from 53 to 162 cases per 100,000 popu -
+89: lation per year [ 2 ]. Analyses of cases in Europe and North 
+90: America suggest that implementing interventional treatment 
+91: approaches could reduce deaths associated with this condition 
+92: [ 3–8 ]. Over the past decade, treatment recommendations for PE 
+93: have evolved significantly, influenced by the introduction of 
+94: new medications (such as low molecular weight heparins, direct 
+--- lines 171-178 ---
+171: (2) changes in quality of life assessed through the Pulmonary 
+172: Embolism Quality of Life (PEmb‐QoL) questionnaire. Addition -
+173: ally, secondary safety endpoints, which consisted of treatment‐ 
+174: related adverse events during hospitalization, including deaths, 
+175: major bleeding, and periprocedural complications, were eval -
+176: uated. The study was underpowered to assess hard efficacy 
+177: endpoints such as mortality and recurrences.
+178: 2 of 14 Pulmonary Circulation, 2026
+--- lines 181-187 ---
+181: Vilnius University Hospital Santaros klinikos (VUH SK) were 
+182: randomized in the study. Informed consent was obtained from all 
+183: subjects involved in the study. All patients who were randomized 
+184: met the inclusion and exclusion criteria specified in Table 1 .
+185: 2.1 | RV – Right Ventricle, LV – Left Ventricle, BP 
+186: – Blood Pressure 
+187: Trans‐catheter thrombectomy was performed using Penumbra 
+--- lines 211-219 ---
+211: Transthoracic echocardiographic studies were performed with a 
+212: commercially available ultrasound machine (System Vivid 9, GE 
+213: Healthcare, Horten, Norway) with a 1.5 – 4.6 MHz transducer. The 
+214: echocardiographic parameters were collected ( Appendix Table 1 ): 
+215: RV diameter in parasternal long‐axis view, basal right ventricular/ 
+216: left ventricular (RV/LV) ratio, right ventricular ejection fraction, 
+217: tricuspid annular plane systolic excursion (TAPSE), systolic pul -
+218: monary artery pressure (sPAP). The above‐mentioned echo -
+219: cardiographic indices were measured according to 
+--- lines 231-237 ---
+231: 3 of 14 Pulmonary Circulation, 2026
+232: 2.1.4 | Computed Tomography 
+233: Percentage of residual chronic thromboembolic pulmonary 
+234: hypertension, pulmonary artery diameter, RV/LV ratio were 
+235: evaluated by pulmonary computed tomography angiography 
+236: (CTPA). CTPA was repeated, provided there were no contra -
+237: indications, at an average follow‐up period of 6.8 months. CTPA 
+--- lines 249-268 ---
+249: obic capacity [ 19 ].
+250: 2.1.7 | Quality of Life 
+251: Health‐related Quality of life was assessed with the PEmb‐QoL 
+252: questionnaire [ 20 ], Appendix Table 5 . The questionnaire con -
+253: tains six dimensions based on the items' contents: frequency of 
+254: complaints, activities of daily living (ADL) limitations, work‐ 
+255: related issues, social limitations, intensity of complaints, and 
+256: emotional complaints. The total score for the PEmb‐QoL ranges 
+257: from 6 to 27, with higher scores indicating worse quality of life. 
+258: A score of 1 point for all dimensions signifies no complaints.
+259: 2.1.8 | Bleeding 
+260: Major bleeding was assessed by using predefined World Health 
+261: Organization (WHO) definitions presented in Appendix 
+262: Table 6 .
+263: We based our sample size calculation on available literature for 
+264: the medium‐high‐risk PE group (randomization applies). After 
+265: 48 h after treatment, the mean reduction in RV/LV ratio was 
+266: found to be 0.03 for standard treatment, 0.3 for percutaneous 
+267: thrombolysis, and 0.38 for percutaneous thrombectomy. With 
+268: an alpha level set at 0.05 and a power of 95%, we determined the 
+--- lines 277-284 ---
+277: a
+278: • PE meeting the criteria for intermediate‐high risk:
+279: ◦ Right ventricular dysfunction detected on transthoracic 
+280: echocardiography (TTE) or CTPA ( Appendix Table 1 ) 
+281: [ 11 ]: RV/LV ratio >1.0, in the absence of persistent 
+282: hypotension <90 mmHg or a decrease in systolic BP of 
+283: at least 40 mmHg for at least 15 min with signs of 
+284: peripheral organ hypoperfusion (cold extremities, urine 
+--- lines 288-294 ---
+288: ◦ Elevated troponin >3 times the upper normal values or 
+289: BNP > 100 ng/L,
+290: ◦ Pulmonary embolism severity index (PESI) II‐IV (scores 
+291: 86–125) or simplified PESI ≥ 1 ( Appendix Table 2 ) [ 11 ].
+292: • Refusal to provide informed consent
+293: • Systolic BP < 90 mmHg for at least 15 min, or requiring 
+294: inotropes to maintain systolic BP ≥ 90 mmHg
+--- lines 310-328 ---
+310: • Life expectancy < 90 days
+311: • Presence of cardiac thrombi
+312: • High bleeding risk, HAS‐BLED > 3 (HAS‐BLED 
+313: bleeding risk assessment ( Appendix Table 3 ) [ 11 ].
+314: • Contraindications for PA catheterization: tricuspid or 
+315: pulmonary artery valve prosthesis or vegetations, acute 
+316: myocardial infarction, chronic kidney disease
+317: • Contraindications to thrombolysis 
+318: ( Appendix Table 4 ) [ 11 ].
+319: a
+320: Acute thrombosis of the left, right, or both branches of the pulmonary artery, lobar thrombosis.
+321: 4 of 14 Pulmonary Circulation, 2026
+322: 0.20. The estimated effect size (f) was calculated to be 0.749, 
+323: leading to a required sample size (n) of 33 participants (11 in 
+324: each group). To account for a possible high dropout rate of 20%, 
+325: either from premature withdrawal or deaths during the follow‐ 
+326: up period, we planned to enroll 13 subjects in each group, and a 
+327: total of 39 participants for the entire study.
+328: Baseline patients' characteristics were descriptively summa -
+--- lines 346-356 ---
+346: For categorical data, odds ratios were calculated. p values < 0.05 
+347: (two‐sided) were considered statistically significant. Statistical 
+348: analyses were performed with SPSS 20.0 (SPSS).
+349: 3 | Results 
+350: A total of 39 patients (mean age 60.9 [26–82] years, 62% male) 
+351: were randomly assigned (1:1:1) to three groups, consisting of 13 
+352: patients each. Baseline characteristics of the study groups are 
+353: presented in Table 2 . The mean body mass index was 31.4 
+354: [22.17–39.0]) and did not differ significantly between the 
+355: groups. The majority of patients presented with DVT (84.6%), 
+356: arterial hypertension (74.4%), and dyslipidaemia (79.5%). The 
+--- lines 369-377 ---
+369: Treatment Groups 
+370: In the trans‐catheter thrombectomy and trans‐catheter throm -
+371: bolysis groups, significant improvements in echocardiographic 
+372: parameters (including RV diameter, RV/LV ratio, sPAP, RV 
+373: ejection fraction and TAPSE) were observed after 48 h 
+374: post interventional treatment (Table 3 ). Systolic pulmonary 
+375: artery pressure (sPAP) as measured noninvasively by 
+376: echocardiography, decreased by 29% in the thrombectomy 
+377: group and by 39% in the thrombolysis group (both p < 0.001) as 
+===== HIPEITHO 10_18 Ultrasound Facilitated Catheter Dir Source N Engl J Med SO 2026.txt lines=1177 clusters=33 =====
+--- lines 29-36 ---
+29: per minute, or a respiratory rate of >20 breaths per minute). Patients were randomly 
+30: assigned to undergo ultrasound-facilitated, catheter-directed fibrinolysis with alteplase 
+31: plus anticoagulation (the intervention group) or anticoagulation alone (the control 
+32: group) according to prespecified treatment protocols. The primary outcome was a 
+33: composite of pulmonary embolism–related death, cardiorespiratory decompensation 
+34: or collapse, or symptomatic recurrence of pulmonary embolism within 7 days.
+35: RESULTS
+36: The intention-to-treat population comprised 544 patients: 273 in the intervention 
+--- lines 39-54 ---
+39: (4.0%; 95% confidence interval [CI], 2.3 to 7.1) in the intervention group and 28 
+40: (10.3%; 95% CI, 7.2 to 14.5) in the control group (relative risk, 0.39; 95% CI, 0.20 to 
+41: 0.77; P = 0.005). The effect was driven primarily by a lower risk of cardiorespiratory 
+42: decompensation or collapse in the intervention group. Major bleeding occurred 
+43: within 7 days after randomization in 11 patients (4.1%) in the intervention group 
+44: and 6 (2.2%) in the control group (P = 0.32); major bleeding occurred within 30 days 
+45: in 11 patients (4.1%) and 8 patients (3.0%), respectively (P = 0.64). No substantial 
+46: between-group differences in the incidence of other serious adverse events were 
+47: observed up to 30 days after randomization; no intracranial hemorrhage occurred.
+48: CONCLUSIONS
+49: In patients with acute, intermediate-risk pulmonary embolism, ultrasound-facilitated, 
+50: catheter-directed fibrinolysis plus anticoagulation led to a lower risk of the com -
+51: posite of pulmonary embolism–related death, cardiopulmonary decompensation or 
+52: collapse, or symptomatic recurrence of pulmonary embolism within 7 days than 
+53: anticoagulation alone. (Funded by Boston Scientific; HI-PEITHO ClinicalTrials.gov 
+54: number, NCT04790370.)
+--- lines 205-217 ---
+205: low-up visit, which took place between 23 and 
+206: 37 days after randomization.
+207: Outcome Measures
+208: The primary outcome was a composite of pulmo-
+209: nary embolism–related death, cardiorespiratory 
+210: collapse or decompensation, or nonfatal, symp-
+211: tomatic recurrence of pulmonary embolism, as 
+212: confirmed by computed tomographic angiogra -
+213: phy, within 7 days after randomization. The 
+214: criteria for the primary outcome are described in 
+215: the Supplementary Appendix. Cardiorespiratory 
+216: collapse or decompensation was defined as at 
+217: least one of the following: cardiac arrest or indi-
+--- lines 224-237 ---
+224: Score (NEWS)17 that rose to or persisted at 9 or 
+225: higher, as confirmed by two consecutive mea -
+226: surements 15 minutes apart, between 24 hours 
+227: and 7 days after randomization. NEWS (Table S1 
+228: in the Supplementary Appendix) is a clinical tool 
+229: that permits standardized serial assessments of 
+230: a patient’s vital status. Scores range from 0 to 
+231: 20, with higher scores indicating greater risk; 
+232: elevated scores have shown high discrimination 
+233: for admission to the intensive care unit or early 
+234: death.18 In this trial, escalation to rescue treat -
+235: ment required documented cardiorespiratory de-
+236: compensation, with fulfillment of at least one of 
+237: the aforementioned criteria.
+--- lines 243-252 ---
+243: criteria of the Global Use of Strategies to Open 
+244: Occluded Coronary Arteries (GUSTO) 20 within  
+245: 7 days after randomization; ischemic stroke or 
+246: intracranial hemorrhage within 7 days and 30 
+247: days; the change in the ratio of right ventricular 
+248: end-diastolic diameter to left ventricular end-dia-
+249: stolic diameter within 48±6 hours; death from 
+250: any cause within 7 days and 30 days; recurrence 
+251: of pulmonary embolism and the occurrence of 
+252: serious adverse events within 30 days; World 
+--- lines 256-262 ---
+256: with higher scores indicating more severe limita-
+257: tions) at 7 days and 30 days; and 6-minute walk-
+258: ing distance at 30 days. All primary-outcome 
+259: events, major bleeding, and other serious adverse 
+260: events were adjudicated by the clinical-events 
+261: committee.
+262: Statistical Analysis
+--- lines 284-290 ---
+284: (25 patients), the patient traveling or not living near a trial site (10 patients), and participation of the patient in another clinical trial (3 pa-
+285: tients). The treated population comprised all the patients who had undergone randomization and received treatment: ultrasound-facili -
+286: tated, catheter-directed fibrinolysis (defined as activation of the EkoSonic device and initiation of fibrinolytic infusion) with anticoagula -
+287: tion, or anticoagulation alone. Of the 2 patients who did not begin fibrinolysis as assigned, 1 died before treatment was initiated and 
+288: was excluded from the treated population but was included in the per-protocol analysis, and 1 was excluded from both the treated pop -
+289: ulation and the per-protocol population because of a major protocol deviation. Major protocol deviations included receipt of adjuvant 
+290: or additional therapy by a patient who did not meet the criteria for cardiorespiratory decompensation or collapse, clinically significant 
+--- lines 356-362 ---
+356: rules for the interim analysis are described in 
+357: the Supplementary Appendix and in the statisti-
+358: cal analysis plan, available with the protocol. A 
+359: sensitivity analysis of the primary outcome was 
+360: performed with logistic regression, with stratifi-
+361: cation factors and the treatment group included 
+362: as covariates. Safety analyses, including analyses 
+--- lines 377-383 ---
+377: formed for missing data. All P values are two-
+378: sided. Analyses were performed with SAS soft -
+379: ware, version 9.4 (SAS Institute).
+380: Results
+381: Patients and Treatments
+382: From August 2021 through July 2025, a total of 
+383: 4313 patients from 59 sites in the United States 
+--- lines 403-412 ---
+403: derwent randomization was 58.2±13.5 years; 42.6% 
+404: were women, and 15.8% identified their race as 
+405: non-White. The representativeness of the patients 
+406: is shown in Table S2. Demographic and clinical 
+407: characteristics are shown in Table 1; additional 
+408: characteristics of the patients at baseline are 
+409: summarized in Table S3. The mean symptom 
+410: duration associated with acute pulmonary embo-
+411: lism was 3.7±3.4 days; the mean NEWS at base-
+412: line was 6.0±1.9. Ultrasound-facilitated, catheter-
+--- lines 418-424 ---
+418: side only and 16.92±3.47 mg for the 251 patients 
+419: who had catheter placement into both the right 
+420: and left pulmonary arteries; the mean total infu-
+421: sion duration was 7.16±0.52 hours (Table S4). 
+422: Unfractionated heparin was the most commonly 
+423: used anticoagulant agent in both the interven -
+424: tion group (in 71.6% of the patients) and the 
+--- lines 431-437 ---
+431: the intervention group and in 28 patients (10.3%) 
+432: in the control group (relative risk, 0.39; 95% 
+433: confidence interval [CI], 0.20 to 0.77; P = 0.005) 
+434: (Table 2). Cardiorespiratory decompensation or 
+435: collapse occurred in 10 patients (3.7%; 95% CI, 
+436: 
+437: n engl j med   nejm.org 6
+===== MAPPET3 11_19 Heparin plus alteplase.txt lines=1235 clusters=20 =====
+--- lines 133-146 ---
+133: domly assigned in double-blind fashion to receive
+134: heparin plus 100 mg of alteplase or heparin plus pla-
+135: cebo over a period of two hours. The primary end
+136: point was in-hospital death or clinical deterioration
+137: requiring an escalation of treatment, which was de-
+138: fined as catecholamine infusion, secondary throm-
+139: bolysis, endotracheal intubation, cardiopulmonary re-
+140: suscitation, or emergency surgical embolectomy or
+141: thrombus fragmentation by catheter.
+142:  
+143: Results
+144:  
+145: Of 256 patients enrolled, 118 were random-
+146: ly assigned to receive heparin plus alteplase and 138
+--- lines 157-163 ---
+157: (3.4 percent in the heparin-plus-alteplase group and
+158: 2.2 percent in the heparin-plus-placebo group, P=
+159: 0.71). Treatment with heparin plus placebo was as-
+160: sociated with almost three times the risk of death or
+161: treatment escalation that was associated with hepa-
+162: rin plus alteplase (P=0.006). No fatal bleeding or cer-
+163: ebral bleeding occurred in patients receiving heparin
+--- lines 168-174 ---
+168: When given in conjunction with hep-
+169: arin, alteplase can improve the clinical course of stable
+170: patients who have acute submassive pulmonary em-
+171: bolism and can prevent clinical deterioration requiring
+172: the escalation of treatment during the hospital stay.
+173: (N Engl J Med 2002;347:1143-50.)
+174:  
+--- lines 222-228 ---
+222: have a favorable risk–benefit ratio. Studies based on
+223: two large, multicenter registries reported that patients
+224: with right ventricular dysfunction due to pulmonary
+225: embolism had increased rates of in-hospital death, even
+226: in the absence of arterial hypotension or shock.
+227:  
+228: 5,10
+--- lines 367-373 ---
+367:  
+368: Patients were evaluated at the end of their hospital stay or on
+369: day 30 after randomization, whichever occurred first. The primary
+370: end point was in-hospital death or clinical deterioration that re-
+371: quired an escalation of treatment after the infusion of alteplase or
+372: placebo was terminated. Escalation of treatment was defined as the
+373: use of at least one of the following: infusion of a catecholamine be-
+--- lines 381-390 ---
+381: by echocardiography or right heart catheterization); endotracheal
+382: intubation; cardiopulmonary resuscitation; and emergency surgical
+383: embolectomy or thrombus fragmentation by catheter.
+384: The secondary end points of the study were recurrent pulmo-
+385: nary embolism, major bleeding, and ischemic stroke. Recurrence of
+386: pulmonary embolism was confirmed by ventilation–perfusion lung
+387: scanning, spiral CT, or pulmonary angiography. Major bleeding
+388: was defined as fatal bleeding, hemorrhagic stroke, or a drop in the
+389: hemoglobin concentration by at least 4 g per deciliter, with or
+390: without the need for red-cell transfusion. Hemorrhagic or ische-
+--- lines 398-404 ---
+398: data analysis. The null hypothesis was that there would be no dif-
+399: ference between the two treatment groups with regard to the pri-
+400: mary end point — that is, that the proportion of patients who
+401: reached the primary end point (death or the need for an escalation
+402: of therapy) would be the same in each group. On the basis of the
+403: data provided by the Management Strategies and Prognosis of Pul-
+404: monary Embolism Registry,
+--- lines 419-425 ---
+419: treat principle. Differences between the treatment groups were ex-
+420: amined with the use of Fisher’s exact test (for proportions) and
+421: Student’s t-test (for means of continuous variables). The time from
+422: randomization to death or escalation of treatment was analyzed with
+423: the use of the log-rank test, and Kaplan–Meier estimates of the
+424: probability of event-free survival were calculated. To define further
+425: the prognostic importance of treatment and other base-line vari-
+--- lines 437-443 ---
+437: plus-alteplase group and 138 to the heparin-plus-
+438: placebo group. The two groups were well matched
+439: with regard to major clinical characteristics at base
+440: line (Table 1). There were no significant differences
+441: in systolic or diastolic blood pressure, heart rate, or the
+442: severity of dyspnea or arterial hypoxemia. Catheteriza-
+443: tion of the right side of the heart was performed in
+--- lines 474-488 ---
+474: percent), and 129 of those assigned to receive heparin
+475: plus placebo (93.5 percent). The incidence of right
+476: ventricular dysfunction was almost identical in the two
+477: groups (Table 1). Doppler echocardiography revealed
+478: that the mean tricuspid regurgitant jet velocity was
+479: elevated in both groups (3.23±0.66 m per second in
+480: the heparin-plus-alteplase group, and 3.31±0.78 m
+481: per second in the heparin-plus-placebo group).
+482:  
+483: Clinical Outcome during the In-Hospital Phase
+484:  
+485: Table 2 summarizes in-hospital clinical events in the
+486: two study groups. The mean duration of the hospital
+487:  
+488: *The numbers shown are based on calculations for the intention-to-treat population. Plus–minus
+--- lines 646-663 ---
+646:  
+647: stay was 16.7±8.4 days (range, 2 to 70). The mortal-
+648: ity rate was low in both treatment groups. Four pa-
+649: tients in the heparin-plus-alteplase group died, two
+650: from pulmonary embolism and two from underlying
+651: disease. Three patients in the heparin-plus-placebo
+652: group died, two from pulmonary embolism and one
+653: from a bleeding complication. Although the mortality
+654: rate in the two groups was similar, the rate of escala-
+655: tion of treatment because of clinical deterioration was
+656: much higher in the heparin-plus-placebo group than
+657: in the heparin-plus-alteplase group. For example, sec-
+658: ondary (rescue) thrombolysis was performed rough-
+659: ly three times as often in the heparin-plus-placebo
+660: group as in the heparin-plus-alteplase group (Table 2).
+661: In the heparin-plus-placebo group, the indications for
+662: secondary thrombolysis were cardiogenic shock (in
+663: 4 patients), arterial hypotension requiring catechola-
+--- lines 669-675 ---
+669: of arterial hypotension and the remaining eight be-
+670: cause of worsening symptoms; one of the latter pa-
+671: tients underwent endotracheal intubation). Overall,
+672: the incidence of the primary end point (death or es-
+673: calation of treatment) was significantly greater in the
+674: heparin-plus-placebo group than in the heparin-plus-
+675: alteplase group (34 patients [24.6 percent] vs. 13 pa-
+===== CDT_PILOT 13_21 A pilot randomised trial of catheter dire Source EuroIntervention 2022 May 27 EIJ D 21 .txt lines=798 clusters=20 =====
+--- lines 26-38 ---
+26: lation. Two catheters were used for the infusion of alteplase (1 mg/hr/catheter; total dose 20 mg) in the CDT 
+27: group. The primary efficacy endpoint targeted improvement of right ventricular (RV) function, a decrease 
+28: in pulmonary pressure, and a reduction of thrombus burden.
+29: Results: Twenty-three patients were included (12 in the CDT group and 11 in the standard care group). 
+30: The primary efficacy endpoint was achieved more frequently in the CDT group than in the standard care 
+31: group (7 of 12 patients vs 1 of 11 patients, p=0.0004). An RV/left ventricular ratio reduction ≥25% (evi-
+32: dent on computed tomography angiography) was achieved in 7 of 12 patients in the CDT group vs 2 of 
+33: 11 patients in the standard care group (p=0.03). A systolic pulmonary artery pressure decrease of ≥30% 
+34: or normotension at 24 hrs after randomisation was present in 10 of 12 patients in the CDT group vs 2 of 
+35: 11 patients in the standard care group (p=0.001). There was no intracranial or life-threatening bleeding 
+36: (type 5 or 3c bleeding, according to the Bleeding Academic Research Consortium classification).
+37: Conclusions: CDT for intermediate-high risk acute PE appears to be safe and effective. Further research 
+38: is warranted to assess clinical endpoints.
+--- lines 80-86 ---
+80: Acute pulmonary embolism (PE) is a common and life-threaten-
+81: ing condition (60/100,000 population annually) 1 that is associated 
+82: with high mortality in certain subgroups2. It is essential to identify 
+83: patients at high risk of early death when selecting the optimal thera-
+84: peutic management. The current European Society of Cardiology 
+85: guidelines for the diagnosis and management of acute PE implement 
+86: risk stratification based on haemodynamic instability and the assess-
+--- lines 91-97 ---
+91: acute PE patients, in which the early mortality rate is 6.0-7.7% 4. 
+92: Previous efforts to decrease mortality in this subgroup via systemic 
+93: administration of thrombolytic agents have failed; such treatments 
+94: were associated with an increased rate of extra- and intracranial 
+95: bleeding
+96: 5,6. Thus, systemic thrombolysis is not recommended for 
+97: such patients, and anticoagulation remains the mainstay of acute 
+--- lines 103-109 ---
+103: dysfunction is a major predictor of poor prognosis in such patients
+104: 7. 
+105: Low-dose thrombolytic therapy does not appear to be associated 
+106: with an increased risk of intracranial bleeding
+107: 8-10. Ultrasound-
+108: assisted local thrombolysis (USAT) was recently introduced; it has 
+109: yielded promising results but is expensive and, thus, infrequently 
+--- lines 121-127 ---
+121: Patients >18 years of age with acute PE, who were admitted to 
+122: our tertiary care centre from November 2019 to April 2021, were 
+123: enrolled if they met the inclusion criteria but not the exclusion cri-
+124: teria (Table 1). All patients provided written informed consent to 
+125: participate. The study was approved by our local ethics committee 
+126: and adhered to the tenets of the Declaration of Helsinki.
+127:  After CDT in five patients (feasibility evaluation), all subse-
+--- lines 141-147 ---
+141: J-wire (EMERALD Guidewire, Exchange J-Tip 0.81 mm, 260 cm; 
+142: Cordis) or a hydrophilic wire (Radifocus Guidewire M, Stiff type 
+143: [angled]; Terumo). Thrombolytic catheters (Cragg-McNamara 
+144: Table 1. Inclusion and exclusion criteria.
+145: Inclusion criteria
+146: 1.  Age >18 years
+147: 2.  Computed tomography angiography (CTA)-verified proximal* PE 
+--- lines 154-162 ---
+154: 2.  Any haemorrhagic stroke OR a recent (<6 months) ischaemic 
+155: stroke/transient ischaemic attack.
+156: 3.  Recent (<3 months) cranial trauma OR another active 
+157: intracranial/intraspinal process.
+158: 4.  Major surgery within 7 days prior.
+159: 5.  RV/LV ratio <0.7 on transthoracic echocardiography or CTA.
+160: 6.  Active malignancy OR other severe illness with expected survival 
+161: <2 years.
+162: 7.  Haemoglobin level <80 g/l; international normalised ratio >2.0, 
+--- lines 169-175 ---
+169: thrombocytopaenia.
+170: 10.  Participation in another clinical trial.
+171: *A perfusion defect in at least one main or one lobar pulmonary artery 
+172: evident on CTA. **RV/LV ratio ≥0.9 on transthoracic echocardiography or 
+173: CTA. ***hs-troponin I (TnI) >53 ng/l (men) or >34 ng/l (women); 
+174: NT-proBNP level >600 pg/ml. LV: left ventricular; PE: pulmonary 
+175: embolism; RV: right ventricular; SPESI: simplified pulmonary embolism 
+--- lines 232-238 ---
+232: tion, then repeated 24 hrs later. Standard measurements were per -
+233: formed in accordance with the European Society of Cardiology 
+234: recommendations
+235: 16,17. The subannular RV/LV ratio was derived as 
+236: suggested by the ULTIMA study 10; in brief, end-diastolic dimen-
+237: sions of the RV and LV were measured 1 cm above the tricuspid 
+238: annular plane. All measurements were performed in our local echo 
+--- lines 252-258 ---
+252: at least two of the following criteria were met):
+253: a.
+254:  Reduction 
+255: of the RV/LV ratio by 25% between admission and 
+256: 48 hrs post-randomisation, as revealed by CTA.
+257: b.
+258:  Reduction of the systolic pulmonary artery pressure (sP
+--- lines 266-272 ---
+266: and 48 hrs post-randomisation, as revealed by CTA.
+267: 2)
+268:  Safety 
+269: of CDT, defined as the absence of intracranial or life-
+270: threatening bleeding according to the Bleeding Academic 
+271: Research Consortium (BARC) classification
+272: 18 (i.e., type 5 or 3c 
+--- lines 304-314 ---
+304: considered statistically significant. Continuous variables are 
+305: expressed as means (± standard deviations [SD]) and categorical 
+306: variables are expressed as numbers (with percentages).
+307: Results
+308: Twenty-three patients with an intermediate-high risk acute PE 
+309: were randomised (12 into the CDT group and 11 into the standard 
+310: care group). The baseline demographic and clinical characteristics 
+311: are summarised in Table 2.
+312: PROCEDURAL CHARACTERISTICS
+313: CDT was successful (i.e., no periprocedural complications) in all 
+314: 12 patients. The mean time from admission to intervention was 
+===== FASULLO 14_27 Six month echocardiographic study in patients with submassivePg33 9.txt lines=819 clusters=18 =====
+--- lines 20-26 ---
+20: group received matching placebo. In addition to alteplase or placebo,
+21: both groups received an unfractionated heparin treatment. Echocardio-
+22: gram was performed at admission, at 24, 48 and 72 hours, at discharge
+23: and at 3 and at 6 months after randomization. Results: Seventy-two
+24: patients were included into the study; 37 were assigned to thrombolysis
+25: and 35 to placebo. Both groups were well matched with regard to
+26: features and clinical presentation. Thrombolysis group showed a sig-
+--- lines 40-56 ---
+40: presence of right ventricle dysfunction (RVD) plays a pivotal
+41: role
+42: 2 in the determination of the severity of acute PE. Right
+43: ventricular failure, as the most common cause of death in acute
+44: PE, has been conﬁrmed by echocardiography and by autopsy,
+45: which shows right ventricular damage in these patients because
+46: of right ventricular strain.
+47: 3 In fact, RVD assessed by echocar-
+48: diography is associated with an adverse inhospital outcome. In
+49: patients with PE and RVD, inhospital deaths ranges from 5% to
+50: 17%.
+51: 1,4 –7 RVD maintains its prognostic value in hemodynam-
+52: ically stable patients with PE. Indeed, in these patients, RVD is
+53: associated with an inhospital death of approximately 5%, sig-
+54: niﬁcantly higher than in patients without RVD.
+55: 5,6 Thrombolytic
+56: treatment is currently recommended for patients with PE who
+--- lines 70-76 ---
+70: METHODS
+71: Population
+72: From January 2005 to June 2009, we prospectively
+73: studied 72 consecutive patients aged between 18 and 75 years,
+74: with a ﬁrst episode of SPE.
+75: Inclusion Criteria
+76: Patients had to meet all the following criteria: (1) symp-
+--- lines 87-93 ---
+87: rollment. The protocol was approved by local ethical committee.
+88: Exclusion Criteria
+89: The exclusion criteria were active internal bleeding,
+90: recent intracranial bleeding, intracranial tumor or seizure his-
+91: tory, ischemic stroke until 2 months, neurosurgery during last
+92: month, recent surgery within 10 days, puncture of uncompress-
+93: ible vessel within 10 days, trauma within 15 days, uncontrolled
+--- lines 251-274 ---
+251: reduction of RVD, seen at echocardiogram performed at ad-
+252: mission, in the subsequent days up to discharge, and in the
+253: subsequent follow-up (180 days) from randomization. Second-
+254: ary endpoints were recurrence of PE or death and clinical
+255: events during hospitalization and at 180 days from randomiza-
+256: tion. Recurrent PE was conﬁrmed in the presence of at least 1
+257: of the following criteria: (a) a new ﬁlling defect revealed by
+258: spiral CT and (b) sudden otherwise unexplained death. Clinical
+259: deterioration was deﬁned as the need for 1 or more among the
+260: following: catecholamine infusion for sustained hypotension or
+261: shock, endotracheal intubation, cardiopulmonary resuscitation,
+262: emergency surgical embolectomy or catheter fragmentation.
+263: Bleedings
+264: Major bleedings occurring before discharge and serious
+265: adverse events were considered as safety study endpoints.
+266: Bleeding was considered as major if it was fatal, intracranial,
+267: required transfusions or intervention for hemodynamic deteri-
+268: oration. All bleeding episodes not fulﬁlling criteria for major
+269: bleeding were considered as minor.
+270: Statistical Analysis
+271: Results are expressed as mean /H11006SD. Data were analyzed
+272: by the 2-tailedt test to identify differences between the groups and
+273: analysis of variance for repeated measures with Bonferroni cor-
+274: rection for intragroup data. Nominal data were analyzed by
+--- lines 289-295 ---
+289: acute coronary syndrome (ST segment elevation myocardial
+290: infarction or non ST segment elevation myocardial infarction),
+291: 368 with severe chronic obstructive pulmonary disease, 761
+292: with acute heart failure, 7 with recent intracranial bleeding, 5
+293: had recent ischemic stroke ( /H110212 months), 4 had recent surgery
+294: (/H1102110 days), 6 had hemorrhagic disorder with thrombocytope-
+295: nia ( /H11021100,000), 9 with important impaired renal function
+--- lines 298-307 ---
+298: had massive PE with hypotension and 4 were not conﬁrmed as
+299: SPE. Only 72 patients were included in the study, 37 assigned
+300: to thrombolysis and 35 to placebo. Patients’ features according
+301: to treatment allocation are shown in Table 1. The 2 groups were
+302: well matched with regard to features and clinical presentation
+303: at randomization. All patients underwent spiral CT and echo-
+304: cardiogram. Table 2 shows that previous or concomitant dis-
+305: eases at admission were similar in both groups. Thrombolysis
+306: group showed a reduction in clinical events during hospitaliza-
+307: tion and follow-up. Hospitalization time was lower in patients
+--- lines 382-388 ---
+382: also showed similar results regarding pulmonary hypertension,
+383: inferior vein caval, Doppler acceleration time, paradoxical
+384: systolic septal motion, tricuspid annular plane systolic excur-
+385: sion and BNP values (Table 3). All echocardiographic param-
+386: eters of RV function were signiﬁcantly improved in both
+387: TABLE 3. Echocardiographic data and BNP values (pg/mL): on admission and during the hospitalization and follow-up
+388: Entry 24 hr 48 hr 72 hr 6 d Discharge 3 mo 6 mo P
+--- lines 402-408 ---
+402: Heparin 48 /H110062.3 46 /H110061.3 39 /H110061.2 36 /H110062.2 31 /H110062.3 28 /H110060.8 27 /H1100613 26 /H110061.3 /H110210.0001
+403: Thrombolysis 49 /H110062.4 42 /H110062.1 35 /H110061.2 28 /H110061.1 26 /H110060.6 24 /H110060.4 23 /H110060.6 23 /H110060.2 /H110210.0001
+404: P /H110210.069 /H110210.0001 /H110210.0001 /H110210.0001 /H110210.0001 /H110210.0001 /H110210.0001 /H110210.0001
+405: RV/LV (normal
+406: value, /H110210.7)
+407: Heparin 1.42 /H110060.04 1.25 /H110060.04 1.22 /H110060.02 1.15 /H110060.04 1.04 /H110060.03 1.05 /H110060.02 0.92 /H110060.02 0.88 /H110060.02 /H110210.0001
+408: Thrombolysis 1.41 /H110060.05 1.12 /H110060.04 1.03 /H110060.02 1.01 /H110060.02 0.82 /H110060.01 0.72 /H110060.01 0.68 /H110060.01 0.67 /H110060.01 /H110210.0001
+--- lines 436-442 ---
+436: group showed a signiﬁcantly earlier improvement in compari-
+437: son with placebo group, and the differences were already
+438: evident after 24 hours, and these differences were maintained
+439: during hospitalization period (Table 3). In addition, the param-
+440: eters of RV function also in the follow-up were signiﬁcantly
+441: reduced in thrombolysis group in comparison with placebo
+442: group. The BNP showed a faster reduction in thrombolysis
+--- lines 446-470 ---
+446: The incidence in mortality was lower in thrombolysis
+447: group than in placebo group during hospitalization, but the
+448: difference was not signiﬁcant (no patient versus 5 patients in
+449: heparin group, 3 for recurrent fatal PE and 2 for irreversible
+450: RVD; Table 4). In addition, placebo group showed, during
+451: follow-up, additional clinical events, in particular 1 recurrence
+452: of PE (nonfatal) and 1 death occurred on day 90 (fatal PE).
+453: During follow-up, 3 patients randomized to placebo had clin-
+454: ical deterioration for RVD and were again hospitalized (need of
+455: treatment for RVD signs, with peripheral edema and hepatic
+456: enlargement), and 5 patients showed deep vein thrombosis
+457: persistence (DVTp; Table 5). Recurrent PE and DVTp were
+458: conﬁrmed by CT angiography, lower abdominal CT and Dopp-
+459: ler echography of the inferior limbs. Chest and lower extremity
+460: Doppler and CT venograms performed at 3 and 6 months did
+461: not show any recurrence of PE and DVT in all the remaining
+462: patients. The total mortality (during hospitalization and follow-
+463: up) showed 6 cases in heparin group versus 0 cases in throm-
+464: bolysis group ( P /H110050.027; Fisher test). When all events were
+465: combined (death, recurrent PE, RVD, major bleedings and
+466: DVTp), the difference between 2 group was highly signiﬁcant
+467: (16 versus 2 cases, P /H110210.005; Table 6). Figure 2 shows the
+468: Kaplan-Meier cumulative event curves for combined mortality
+469: and RVD in the 2 groups during 180 days follow-up. Curves
+470: analysis shows a beneﬁcial effect of thrombolysis during the
+--- lines 507-516 ---
+507: n (%)
+508: Thrombolysis,
+509: n (%) P
+510: Death from all causes 5 (14.2) 0 0.055
+511: Recurrent PE 3 (8.5) 0 NS
+512: Irreversible RVD 2 (5.7) 0 NS
+513: Major bleeding 1 (2.85) 2 (5.4) NS
+514: Minor bleedings 4 (11.4) 11 (29.7) 0.20
+515: Number TnT positive 11 (31.4) 13 (35.1) NS
+516: RVD, right ventricle dysfunction; PE, pulmonary embolism.
+===== SINHA 15_28 Efficacy and Safety of Thrombolytic Source J Clin Med Res SO 2017 Feb 9 2 163 169.txt lines=493 clusters=18 =====
+--- lines 11-17 ---
+11:  Umeshwar Pandeya, Ramesh Thakura, Chandra Mohan Varmaa, Vinay Krishnaa
+12: Abstract
+13: Background: Thrombolysis in acute submassive pulmonary embo-
+14: lism (PE) remains controversial. So we studied impact of thrombo-
+15: lytic therapy in acute submassive PE in terms of mortality, hemody-
+16: namic status, improvement in right ventricular function, and safety in 
+17: terms of major and minor bleeding.
+--- lines 28-44 ---
+28: the most common symptom in 80% of all patients, followed by chest 
+29: pain in 55% and syncope in 6%. Primary efficacy outcome occurred 
+30: significantly better in group I vs. group II (4.5% vs. 20%; P = 0.04), and 
+31: significant difference was also found in hemodynamic decompensation 
+32: (4.5% vs. 20%; P = 0.04), the fall in mean pulmonary artery systolic 
+33: pressure (PASP) (28.8% vs. 22.5%; P = 0.03), improvement in right 
+34: ventricular (RV) function (70% vs. 40%; P = 0.001) and mean hospital 
+35: stay (8.1 ± 2.5 vs. 11.1 ± 2.14 days; P = 0.001). There was no difference 
+36: in mortality and major bleeding as safety outcome but increased minor 
+37: bleeding occurred in group I patients (16% vs. 12%; P = 0.04).
+38: Conclusion: Patients with acute submassive PE do not derive overall 
+39: mortality benefit, recurrent PE and rehospitalization with thrombo-
+40: lytic therapy but had improved clinical outcome in form of decrease 
+41: in hemodynamic decompensation, mean hospital stay, PASP and im-
+42: provement of RV function with similar risk of major bleed but at cost 
+43: of increased minor bleeding.
+44: Keywords: Thrombolysis; Submassive pulmonary embolism; 
+--- lines 49-55 ---
+49: presentation of venous thromboembolism (VTE). VTE is as-
+50: sociated with a mortality rate exceeding 15% in first 3 months 
+51: after diagnosis [1] with survivors remaining at risk for devel -
+52: opment of recurrent PE and/or chronic thromboembolic pul-
+53: monary hypertension [2]. The clinical benefits of thrombolysis 
+54: have remained controversial in the absence of hemodynamic 
+55: compromise at presentation, i.e., submassive PE.
+--- lines 117-123 ---
+117: presentation; 6) known coagulation disorder (including use 
+118: of vitamin K antagonist), platelet count < 100,000/mm
+119: 3; and 
+120: 7) known intracranial neoplasm, past history of hemorrhagic 
+121: stroke, ischemic stroke within 1 year, active peptic ulcer or 
+122: active bleeding (except menstruation). The study protocol 
+123: was approved by the local ethics committee and followed the 
+--- lines 153-167 ---
+153: patients were discharged provided they were asymptomatic, 
+154: SBP > 100 mm Hg and no active bleeding.
+155: Follow-up and outcome assessment
+156: The primary efficacy outcome was clinical composite of death 
+157: from any cause, hemodynamic decompensation or collapse 
+158: Figure 1. Transthoracic 2D echocardiogram images showing RV dilatation and dysfunction along with thrombus in a patient with 
+159: acute pulmonary embolism (arrow showing thrombus in short axis view).
+160: Articles © The authors   |   Journal compilation © J Clin Med Res and Elmer Press Inc™   |   www.jocmr.org 165
+161: Sinha et al J Clin Med Res. 2017;9(2):163-169
+162: within 7 days after randomization. The secondary outcomes 
+163: were composite of primary outcome and symptomatic recur -
+164: rence of PE within 7 days, death and rehospitalization within 
+165: 30 days. Safety outcomes were defined as ischemic or hemor -
+166: rhagic stroke (including hemorrhagic conversion of ischemic 
+167: stroke) within 7 days after randomization, extracranial major 
+--- lines 180-186 ---
+180: t-test for continuous variables and by Chi-square or Fisher’s 
+181: exact test for categorical variables. P < 0.05 was considered 
+182: statistically significant.
+183: Results
+184: Baseline characteristics
+185: Mean age of patients (n = 45) who received thrombolysis with 
+186: TNK was 54.35 ± 12.1 years which was comparable with the 
+--- lines 204-217 ---
+204: were not significantly different in both groups. Dyspnea was 
+205: the most common symptom in 80% (n = 69) of all patients, 
+206: followed by chest pain (55%, n = 47) and syncope (6%, n = 
+207: 5) (Table 1).
+208: Baseline diagnostic evaluation
+209: All the study patients had documented RV dysfunction on 
+210: echocardiography. Mean RV/LV size ratio in apical four-
+211: chamber view was 1.15 with 1.14 ± 0.11 and 1.16 ± 0.14 in 
+212: group I and II, respectively, which were not different signifi-
+213: cantly. Only four patients in group I and three patients in group 
+214: II had RV/LV ratio < 0.9 but had RV dysfunction as evidenced 
+215: by TAPSE < 16 mm. There was evidence of myocardial injury 
+216: in all the study patients either in form of elevated troponin I 
+217: or T. Elevation of troponin T was in 34 (75%) and 28 (70%) 
+--- lines 222-238 ---
+222: by tricuspid regurgitation jet velocity) in the patients was 
+223: 49.09 ± 3.02 mm Hg, with comparable in both groups (group 
+224: I: 48.90 ± 3.0 mm Hg; group II: 49.21 ± 3.09 mm Hg; P = 0.6) 
+225: Table 2.  Diagnostic Workup and Treatment (n = 86)
+226: Variables Group I (TNK; n = 45) Group II (placebo; n = 41) P-value
+227: O2 treatment given 36 (80%) 30 (75%) 0.06
+228: RV/LV size ratio 1.14 ± 0.11 1.16 ± 0.14 0.08
+229: Troponin T elevation 34 (75%) 28 (70%) 0.2
+230: Troponin I elevation 25 (55%) 26 (65%) 0.4
+231: Either TropT/tropelevation 45 (100%) 41 (100%) 0.5
+232: Baseline mean PASP, mm Hg 48.90 ± 3.0 49.21 ± 3.09 0.6
+233: UFH given before randomization 11 (25%) 14 (35%) 0.2
+234: O2: oxygen; RV: right ventricle; LV: left ventricle; PASP: pulmonary artery systolic pressure; UFH: unfractionated heparin.
+235: Table 1.  Baseline Clinical Characteristics of the Study Patients in Both Groups (n = 86)
+236: Variables Group I (TNK; n = 45) Group II  (placebo; n = 41) P-value
+237: Age (years) 54.35 ± 12.1 55.12 ± 11.7 0.2
+238: Sex (M:F) 31/14 29/12 0.4
+--- lines 256-280 ---
+256: BMI: body mass index; RR: respiratory rate; SBP: systolic blood pressure; OCP: oral contraceptive pill.
+257: Articles © The authors   |   Journal compilation © J Clin Med Res and Elmer Press Inc™   |   www.jocmr.org 167
+258: Sinha et al J Clin Med Res. 2017;9(2):163-169
+259: (Table 2).
+260: Efficacy and safety outcome
+261: Between randomization and D7, the primary efficacy outcome 
+262: occurred significantly lesser in group I vs. group II (n = 2; 4.5% 
+263: vs. n = 8; 20%; P = 0.04). Two patients died in each group 
+264: (4.5% and 5%; P = 0.3) but hemodynamic decompensation or 
+265: collapse was significantly more in group II than group I (n = 
+266: 8; 20% vs. n = 2; 4.5%; P = 0.04). Recurrent PE within 7 days 
+267: in both groups was not different significantly (group I: n = 2; 
+268: 4.5% vs. group II: n = 1; 2%; P = 0.3). Two patients (4.5%) in 
+269: group I were rehospitalized within 30 days as compared to four 
+270: patients (10% ) in group II but difference was statistically not 
+271: significant (P = 0.29). Reasons for rehospitalization were pneu-
+272: monia with chest pain and fever for evaluation. Two deaths oc-
+273: curred in group I (4.5%) and group II (5%), respectively which 
+274: were statistically not significant (P = 0.18). All mortalities oc-
+275: curred within first 7 days and there was no death between D7 
+276: and 30 days. Sepsis and hemodynamic collapse were the causes 
+277: of deaths in group I and group II, respectively. At D7, mean 
+278: PASP decreased significantly in both groups, i.e., from 48.90 ± 
+279: 3.0 to 32.80 ± 4.02 mm Hg in group I and from 49.21 ± 3.09 to 
+280: 38.13 ± 4.49 mm Hg in group II. At D7, mean PASP fall was 
+--- lines 284-297 ---
+284: (n = 31; 70% vs. n = 16; 40%; P = 0.001). Two patients required 
+285: mechanical ventilation in group I (4.5%) and group II (5%), 
+286: respectively, which were not different. These four patients lat-
+287: er succumbed to death. Mean hospital stay was significantly 
+288: shorter in group I: 8.1 ± 2.51 days compared to 11.1 ± 2.14 
+289: days in group II (P = 0.001). Major reason for this prolonged 
+290: hospitalization was hemodynamic decompensation (Table 3).
+291: Safety outcomes
+292: Major bleeding occurred between randomization and D7 in 
+293: one patient (2%) in group I and one patient in group II (2.5%) 
+294: which were not different. Patient in group I had intracranial 
+295: bleed detected on fourth day while that in group II had lower 
+296: gastrointestinal bleeding requiring 4 Unit of blood transfusion. 
+297: Minor bleeding was more in group I than group II (n = 7; 16% 
+--- lines 301-331 ---
+301: or evidence of myocardial necrosis in absence of hemodynam-
+302: ic instability in patients of acute PE. A review of randomized 
+303: trials indicated that thrombolysis may be associated with a 
+304: reduction in mortality or recurrent PE in high-risk patients 
+305: who present with hemodynamic instability. Clinical trials 
+306: of thrombolysis in acute submassive PE have demonstrated 
+307: more rapid, immediate hemodynamic improvement and clot 
+308: resolution following thrombolysis, but unclear mortality ben-
+309: efits and therefore remains controversial [8, 9]. Miller et al 
+310: [10] showed that streptokinase infusion over 72 h resulted in a 
+311: significant reduction of SPAP, total pulmonary resistance, and 
+312: Table 3.  Efficacy and Safety End Points (n = 86)
+313: Variables Group I (TNK; n = 45) Group II (placebo; n = 41) P-value
+314: Primary composite outcome within 7 days 2 (4.5%) 8 (20%) 0.04
+315: Secondary end points
+316:   All cause death 2 (4.5%) 2 (5%) 0.3
+317:   Hemodynamic decompensation 2 (4.5%) 8 (20%) 0.04
+318:   Recurrent PE within 7 days 2 (4.5%) 1 (2%) 0.3
+319:   Rehospitalization within 30 days 2 (4.5%) 4 (10%) 0.29
+320:   Death within 30 days 2 (4.5%) 2 (5%) 0.18
+321: Others
+322:   Mean PASP at D7 (mm Hg) 32.80 ± 4.02 38.13 ± 4.49 0.04
+323:   Mean ↓ in PASP from baseline (mm Hg) 14.10 ± 3.95 11.08 ± 4.23 0.003
+324:   Improvement in RV function 31 (70%) 16 (40%) 0.001
+325:   Need for mechanical ventilation 2 (4.5%) 2 (5%) 0.6
+326:   Mean hospital stay (days) 8.1 ± 2.51 11.1 ± 2.14 0.001
+327: Safety end points (bleeding within D7)
+328:   Major bleeding 1 (2%) 1 (2%) 0.45
+329:   Minor Bleeding 7 (16%) 5 (12%) 0.04
+330:   Hemorrhagic stroke 1 (2%) 0 (0%) 0
+331: PE: pulmonary embolism; PASP: pulmonary artery systolic pressure; RV: right ventricle.
+--- lines 346-352 ---
+346: shown to have any effect on survival, partly due to the low 
+347: (2%) overall in-hospital mortality. No clinical episodes of re-
+348: current PE were noted among rt-PA patients, but there were 
+349: two fatal and three non-fatal clinically suspected recurrent 
+350: PEs within 14 days in patients randomized to heparin alone. 
+351: Konstantinides et al [8] in MAPPET-3 trial (The Management 
+352: Strategies and Prognosis of Pulmonary Embolism Trial-3) 
+===== ZHANG 16_31 Clinical efficacy of low dose recombinant tissue-type plasminogen activator for the tre.txt lines=505 clusters=15 =====
+--- lines 15-24 ---
+15: المتكررة، النزيف الأولي والثانوي.
+16:  القيمة الأساسية 52.0±12.2 منPASP  أنخفض متوسطالنتائج:
+17: ، وانخفض معدل rt-PA) في مجموعةp<0.001( 34.8±9.4إلى
+18:  0.96±0.18 القيمة الأساسية إلى1.26±0.22 منRV/LVنسبة
+19: ، كان متوسط LMWH ساعة. في مجموعة24) عندp<0.001(
+20:  ساعة24 في48.5±11.9 القيمة الأساسية وPASP  53.4±12.8
+21:  القيمة RV/LV 1.22 ± 0.19)، وكان متوسط نسبة p=0.11(
+22: ). بالمقارنة مع p=0.31 ساعة 24 في 0.21  ±  1.17الأساسية و 
+23:  وتحسن PASP، كان هناك انخفاض كبير في LMWHمجموعة
+24:  يوم، لم يكن 90. خلال rt-PAفي شدة الأعراض في مجموعة 
+--- lines 40-61 ---
+40: difference in the right ventricle/left ventricle (RV/
+41: LV) ratio, pulmonary artery systolic pressure (PASP), 
+42: clinical symptoms improvement, PE-related mortality, 
+43: hemodynamic decompensation, recurrent PE, and major 
+44: and minor bleeding. 
+45: Results: In the rt-PA group, the mean PASP was reduced 
+46: from 52.0±12.2 at baseline to 34.8±9.4 (p<0.001) and 
+47: the mean RV/LV ratio was reduced from 1.26±0.22 
+48: at baseline to 0.96±0.18 (p<0.001) at 24 hours. In 
+49: the LMWH group, the mean PASP was 53.4±12.8 
+50: at baseline and 48.5±11.9 at 24 hours (p=0.11), and 
+51: the mean RV/LV ratio was 1.22±0.19 at baseline and 
+52: 1.17±0.21 at 24 hours (p=0.31). In comparison with 
+53: the LMWH group, there was a significant reduction 
+54: in PASP and an improvement in the symptom severity 
+55: in the rt-PA group. At 90 days, there was no difference 
+56: in mortality, recurrent venous thromboembolism and 
+57: major bleeding as a safety outcome, but increased minor 
+58: bleeding and decreased hemodynamic decompensation 
+59: occurred in the rt-PA group.
+60: Conclusions: In patients with acute intermediate-risk 
+61: PE, low dose thrombolytic therapy is considered safe and 
+--- lines 89-98 ---
+89: with right-ventricular (RV) dysfunction or myocardial 
+90: injury.
+91: 1,2 In clinical trials, thrombolysis has been shown 
+92: to improve hemodynamic parameters, prevent recurrent 
+93: PE, and reduce mortality.
+94: 3,4 However, it has a serious 
+95: risk of intracranial hemorrhage which was reported to 
+96: be 0.7% to 6.4% in patients receiving thrombolysis. 
+97: As a result, many clinicians hesitate in ordering 
+98: thrombolytic therapy, and the benefit of extending 
+--- lines 145-151 ---
+145: Bernoulli’s equation. Pulmonary hypertension (PH) 
+146: was defined as a PASP of ≥30 mm Hg, as determined 
+147: by echocardiography. Right ventricular dysfunction was 
+148: defined as a right ventricle/left ventricle (RV/LV) ratio 
+149: of >0.9 by echocardiography. A positive troponin test 
+150: was defined as an elevation of troponin I (>0.04 μg/L). 
+151: Hemodynamic decompensation was defined by the 
+--- lines 163-169 ---
+163: The inclusion criteria were acute symptomatic PE 
+164: confirmed by CTPA with an embolus located in at 
+165: least 1 main or proximal lower lobe pulmonary artery 
+166: and RV/LV ratio ≥0.9 obtained on echocardiographic 
+167: examination. Exclusion criteria were age <18 or 
+168: >80 years; index PE symptom duration >14 days; 
+169: uncontrolled hypertension (SBP >180 mm Hg and/
+--- lines 172-179 ---
+172: presentation, with or without signs of cardiogenic shock; 
+173: known significant bleeding risk; active bleeding; known 
+174: coagulation disorder; gastrointestinal bleeding within 
+175: the preceding 3 months; history of any intracranial 
+176: or intraspinal surgery or trauma or intracranial/
+177: intraspinal bleeding; arteriovenous malformation, or 
+178: aneurysm; major surgery, cataract surgery, trauma, 
+179: obstetric delivery, cardiopulmonary resuscitation, or 
+--- lines 209-220 ---
+209: to 3.0 range, targeting a value of 2.5.
+210: Study outcomes. Symptoms and signs of PE in all 
+211: patients were monitored. The patients were evaluated 
+212: for changes in the RV/LV ratio, PASP , and subjective 
+213: improvement before rt-PA infusion, and the evaluation 
+214: was repeated in all patients at 24 hours after rt-PA 
+215: treatment. The main outcome measure is PASP . 
+216: Bleeding, mortality, hemodynamic decompensation 
+217: and recurrent venous thromboembolism during 
+218: hospitalization and at follow-up were also evaluated.
+219: Statistical analysis. Statistical analyses were 
+220: performed with SPSS version 21 (IBM Corp., Armonk, 
+--- lines 225-231 ---
+225: continuous variables and a Chi-squared or Fisher’s exact 
+226: test for categorical variables (2-tailed). A p-value 0.05 
+227: was considered statistically significant. 
+228: Results. Baseline clinical characteristics. Among the 
+229: 66 patients, the mean age was 59.0±12.2 years, and 48% 
+230: were men. The most frequent comorbidities and risk 
+231: factors were deep venous thrombosis (53%), systemic 
+--- lines 235-252 ---
+235: systemic arterial pressure, heart and respiratory rates, 
+236: were similar between the groups, as well as laboratory 
+237: findings of a positive troponin test (
+238: Table 1).
+239: Efficacy outcomes. All patients had documented 
+240: RV dysfunction on echocardiography and subjective 
+241: perception of severity of symptoms. In the rt-PA group, 
+242: the mean PASP was reduced from 52.0±12.2 at baseline 
+243: to 34.8±9.4 (p<0.001) at 24 hours, and the mean 
+244: RV/LV ratio was reduced from 1.26±0.22 at baseline 
+245: to 0.96±0.18 (p<0.001) at 24 hours. In the LMWH 
+246: group, the mean PASP was 53.4±12.8 at baseline and 
+247: 48.5±11.9 at 24 hours (p=0.11). The mean RV/LV ratio 
+248: was 1.22±0.19 at baseline and 1.17±0.21 at 24 hours 
+249: Table 1 - Baseline clinical characteristics.
+250: Variables rt-PA 30 mg/2 hours LMWH (n=33)
+251: Age, years  60.5 ± 12.8    58.6 ± 11.4 0.52
+252: Men, n (%) 18 (55) 14 (42) 0.32
+--- lines 274-294 ---
+274: Clinical efficacy of low dose thrombolytic therapy ... Zhang et al
+275: (p=0.31). The mean difference in PASP from baseline 
+276: to 24 hours was 17.0±10.2 versus 4.6±9.8 (p<0.001), 
+277: respectively. The mean difference in RV/LV ratio from 
+278: baseline to 24 hours was 0.31±0.18 versus 0.04±0.16 
+279: (p<0.001), respectively. In comparison to the LMWH 
+280: group, there was a significant reduction in PASP and an 
+281: improvement in symptom severity in the rt-PA group 
+282: (Table 2).  
+283: Safety outcomes. At 90 days, there were no deaths 
+284: and no major bleeding complication episodes among 
+285: the 66 patients. There were 3 episodes of hemodynamic 
+286: decompensation and 2 episodes of recurrent VTE in 
+287: the LMWH group and no episodes of hemodynamic 
+288: decompensation and 1 episode of recurrent VTE in 
+289: the rt-PA group. Catecholamines were administered to 
+290: the 3 hemodynamic decompensation patients during 
+291: hospitalization in the LMWH group. All 3 recurrent 
+292: VTE episodes happened between 3 months after 
+293: discharge, 2 patients developed deep venous thrombosis 
+294: and 1 developed PE. At the 90-day visit, all patients were 
+--- lines 301-307 ---
+301: patient (3%) in the LMWH group with subcutaneous 
+302: hemorrhage. There were no serious adverse events 
+303: related to the study treatment (
+304: Table 3).
+305: Discussion The results indicated that low dose 
+306: thrombolysis by rt-PA at 30 mg/2 hours is safe and 
+307: effective in patients with acute intermediate-risk PE. 
+--- lines 313-322 ---
+313: avoid missing the optimal opportunity for treatment. 
+314: In the long run, it can reduce the probability of the 
+315: formation of chronic thromboembolic pulmonary 
+316: hypertension and recurrent pulmonary embolism, even 
+317: if it has similar results with anticoagulation in mortality. 
+318: Additionally, low dose thrombolysis did not increase 
+319: the risk of major bleeding and it was safe, effective 
+320: and controllable even though the minor bleeding was 
+321: increased. There are significant implications for this 
+322: approach:
+===== MOPETT 17_02 Moderate Pulmonary Embolism.txt lines=530 clusters=10 =====
+--- lines 11-26 ---
+11: were randomized to receive a “safe dose ” of tissue plasminogen activator plus anti-
+12: coagulation (thrombolysis group [TG], n [ 61 patients) or anticoagulation alone (control
+13: group [CG], n [ 60). The primary end points consisted of pulmonary hypertension and the
+14: composite end point of pulmonary hypertension and recurrent PE at 28 months. Pulmonary
+15: hypertension and the composite end point developed in 9 of 58 patients (16%) in the TG
+16: and 32 of 56 patients (57%) in the CG (p <0.001) and 9 of 58 patients (16%) in the TG and
+17: 35 of 56 patients (63%) in the CG (p <0.001), respectively. The secondary end points were
+18: total mortality, the duration of hospital stay, bleeding at the index hospitalization, recurrent
+19: PE, and the combination of mortality and recurrent PE. The duration of hospitalization was
+20: 2.2 – 0.5 days in the TG and 4.9 – 0.8 days in the CG (p <0.001). The combination of death
+21: plus recurrent PE was 1 (1.6%) in TG and 6 (10%) in the CG (p [ 0.0489). No bleeding
+22: occurred in any group, and despite a positive trend in favor of a “safe dose ” thrombolysis,
+23: no signiﬁcant difference was noted in the rate of individual outcomes of death and recurrent
+24: PE when assessed independently. In conclusion, the results from the present prospective
+25: randomized trial suggests that “safe dose ” thrombolysis is safe and effective in the treat-
+26: ment of moderate PE, with a signi ﬁcant immediate reduction in the pulmonary artery
+--- lines 110-121 ---
+110: The primary end points of the study were the develop-
+111: ment of pulmonary hypertension as assessed by echocardi-
+112: ography and the composite end point of pulmonary
+113: hypertension and recurrent PE at intermediate-term follow-
+114: up. The results were adjudicated after a mean follow-up of
+115: 28 /C6 5 months. The secondary end points were total
+116: mortality, duration of hospital stay and bleeding at index
+117: hospitalization, recurrent PE, and the composite end points
+118: of mortality and recurrent PE.
+119: Echocardiography was performed within 2 hours after
+120: randomization and before administration of tPA and was
+121: repeated 24 to 48 hours after and at 6-month intervals.
+--- lines 208-214 ---
+208: formed with Statistica software, version 10 (StatSoft, Tulsa,
+209: Oklahoma).
+210: Figure 2. Flow diagram demonstrating patient enrollment in the study.
+211: Table 1
+212: Clinical characteristics of treatment groups
+213: Variable TG
+214: (n ¼ 61; 100%)
+--- lines 245-251 ---
+245: Data are presented as mean /C6 SD or n (%).
+246: Differences among the 2 groups were not signi ﬁcant.
+247: * Total cholesterol >200 mg/dl.
+248: Table 2
+249: Primary end points at 28 /C6 5 mo of follow-up
+250: Variable TG
+251: (n ¼ 58; 100%)
+--- lines 255-265 ---
+255: Value
+256: Pulmonary hypertension* 9 (16%) 32 (57%) <0.001
+257: Pulmonary hypertension plus
+258: recurrent pulmonary
+259: embolism
+260: 9 (16%) 35 (63%) <0.001
+261: * Pulmonary artery systolic pressure /C21 40 mm Hg.
+262: Table 3
+263: Secondary end points
+264: Variable TG
+265: (n ¼ 61; 100%)
+--- lines 271-284 ---
+271: embolism
+272: 0 3 (5%) 0.08
+273: Total mortality 1 (1.6%) 3 (5%) 0.30
+274: Total mortality plus recurrent
+275: pulmonary embolism
+276: 1 (1.6%) 6 (10%) 0.049
+277: Hospital stay (days) 2.2 /C6 0.5 4.9 /C6 0.8 <0.001
+278: Bleeding 0 0 —
+279: Data are presented as mean /C6 SD or n (%).
+280: Miscellaneous/The “MOPETT” Trial 275
+281: Results
+282: During a 22-month period from May 2008, 178 patients
+283: with PE were considered for enrollment in the present study.
+284: The patient ﬂow is shown in Figure 2 . Ultimately, 121
+--- lines 290-302 ---
+290: opening of sealed envelopes, randomization to the TG or
+291: CG was made. A total of 61 patients were randomized to the
+292: TG and 60 to the CG. The baseline clinical characteristics
+293: were similar between the 2 groups ( Table 1). Follow-up was
+294: obtained for 58 patients in the TG and 56 in the CG. The
+295: mean follow-up period was 28 /C6 5 months. The primary
+296: and secondary end points are listed in Tables 2 and 3,
+297: respectively.
+298: The changes in pulmonary artery systolic pressure are
+299: listed in Table 4 . RV enlargement on the initial echocar-
+300: diogram was noted in 12 of 61 (20%) of the TG and 14 of 60
+301: (23%) of the CG. RV hypokinesia was found in 3 of 61
+302: (4.9%) of the TG and 4 of 60 (6.6%) of the CG. An
+--- lines 337-358 ---
+337: bral hemorrhage, which has dissuaded physicians from
+338: embracing this form of therapy, even when there is clear
+339: indication for its use. The results from a multicenter registry
+340: reported a major bleeding rate of 21.9% in patients receiving
+341: thrombolysis compared to 7.8% receiving standard therapy.
+342: 4
+343: All these patients had major PE. 4 However, in a randomized
+344: trial by the same lead investigator, major bleeding in the
+345: thrombolysis group was only 0.8%, with no intracerebral
+346: hemorrhage or fatal bleeding.
+347: 5 Levine14 cited an 8.4%
+348: incidence of major bleeding and a fatal hemorrhage rate of
+349: 2.2% in patients receiving thrombolysis for PE. The Inter-
+350: national Cooperative of Pulmonary Embolism Registry
+351: reported a 3% incidence of intracerebral hemorrhage.
+352: 15 In
+353: another report, the frequency of intracerebral hemorrhage
+354: was 2.1%. 16
+355: The very high incidence of major bleeding reported in
+356: older studies is not consistent with the contemporary data or
+357: our experience and we believe is of historic interest. We did
+358: not witness any major or minor bleeding in any patients.
+--- lines 368-383 ---
+368: Targeting a lower partial thromboplastin time of 1.5 to 2
+369: times baseline was another contributing factor in reducing
+370: the bleeding risk.
+371: In the present study, recurrent PE was found in no
+372: patients in the TG and 3 patients (5%) in the CG (p ¼ NS).
+373: Konstantinides et al
+374: 5 reported no signi ﬁcant difference in
+375: the 4% (4 of 118) rate of recurrent PE in their thrombolysis
+376: group compared to the 2.9% (4 of 138 ) rate noted in the
+377: anticoagulation-only group. In an analysis of 13 placebo-
+378: controlled randomized trials, Jaff et al
+379: 3 concluded that no
+380: signiﬁcant difference was seen in the rate of recurrent PE in
+381: patients receiving thrombolysis versus placebo.
+382: To date, the emphasis of the published data has been the
+383: identiﬁcation of patients with PE who would bene ﬁt from
+--- lines 396-402 ---
+396: output, the lungs receive its entirety (in the absence of
+397: shunting). From the existing guidelines, the “standard
+398: practice” uses the same or similar tPA dose for PE that is
+399: Table 4
+400: Differences in pulmonary artery systolic pressure between the 2 groups
+401: Timing Pulmonary Artery Systolic Pressure (mm Hg) p Value
+402: TG CG
+===== AHMED 05_49 value_of_thrombolytic_therapy_for_submassive.13(1).txt lines=573 clusters=13 =====
+--- lines 27-33 ---
+27: study was conducted between January 2017 and December 2017, at the Chest
+28: Department, Mansoura University Hospitals, and the Cardiology Department,
+29: Specialized Internal Medicine Hospital, Faculty of Medicine, Mansoura University.
+30: Results
+31: Fifty-two patients who were diagnosed as having submassive PE were enrolled; 24
+32: patients were randomized to the thrombolytic group (TG) and 28 to the
+33: anticoagulant group (AG) by simple randomization through opening a closed
+--- lines 67-77 ---
+67: than 30 – 50% of the pulmonary arterial bed by
+68: thromboemboli (severe PE) leads to acute increase
+69: in pulmonary vascular resistance. The primary cause
+70: of death in severe PE is the development of acute right
+71: ventricular (RV) failure [2]. The use of an
+72: anticoagulant has a significant role in patients with
+73: acute PE, to prevent the recurrence of further embolic
+74: events, especially fatal PE with risk of early death. In
+75: fact, the thrombolytic treatment can restore the
+76: pulmonary perfusion and decrease the resistance and
+77: This is an open access journal, and articles are distributed under the terms
+--- lines 84-90 ---
+84: pressure of the pulmonary circulation, which leads to
+85: the improvement in RV function [3]. The most
+86: agonizing side effects of thrombolytic agents are
+87: major bleeding with a great fear of intracranial
+88: hemorrhage [4]. Accelerated regimen administered
+89: by fibrin-specific lytics such as tissue plasminogen
+90: activator (tPA) over 2 h is theoretically preferable to
+--- lines 254-260 ---
+254: distribution within the same group before and after
+255: therapy. P values less than or equal to 0.05 were
+256: considered statistically significant.
+257: Results
+258: Fifty-two patients who were diagnosed as having
+259: submassive PE between January 2017 and
+260: December 2017 were included in this prospective
+--- lines 267-274 ---
+267: mellitus) and presence of malignancy or concomitant
+268: DVT as risk factors and incidence of unprovoked PE
+269: without any statistically significant results (as shown
+270: in Table 1).
+271: Table 1 Baseline characteristics of the two study groups
+272: Variables TG ( n=24; 100%) [ n (%)] CG ( n=28; 100%) [ n (%)] P value
+273: Male 14 (58.3) 10 (35.7) 0.103
+274: Female 10 (41.7) 18 (64.3)
+--- lines 292-306 ---
+292: Thereafter, PASP measured 72 h after therapy in TG
+293: was lower, with statistically significant difference than
+294: that measured 72 h after therapy in AG ( P<0.001)
+295: (Table 2).
+296: As regards the effect of therapy in TG, 12 of 50 still had
+297: pulmonary hypertension in the follow-up
+298: echocardiogram carried out 72 h after starting
+299: therapy versus 24 of 28 in AG with statistically
+300: significant difference ( P=0.003). Moreove, hospital
+301: stay in TG was lower than that in AG (6.5±1.5 vs.
+302: 7.6±1.66, P=0.013). No bleeding was detected in both
+303: groups (Table 3).
+304: Discussion
+305: Up until now, thrombolytic therapy is restricted to
+306: massive PE with obstructive shock, but there is no clear
+--- lines 367-373 ---
+367: PE is hemorrhagic risk with controversial mortality
+368: benefit when compared with anticoagulant therapy
+369: alone [1].
+370: Table 2 The difference between baseline and follow-up
+371: pulmonary artery systolic pressure in both study groups
+372: Groups Pulmonary artery systolic
+373: pressure (mmHg)
+--- lines 377-383 ---
+377: CG ( n=28) 47.92±8.02 46.5±7.22 0.06
+378: P value 0.101 <0.001
+379: TG, thrombolytic group.
+380: Table 3 The studied outcomes
+381: TG ( n=24;
+382: 100%) [ n (%)]
+383: AG ( n=28;
+--- lines 392-398 ---
+392: 416 The Egyptian Journal of Chest Diseases and Tuberculosis , Vol. 67 No. 4, October-December 2018
+393: No detected bleeding was reported in our study. In
+394: agreement with our results, Sharifi et al. [8] did not
+395: record any major or minor bleeding in their studied
+396: 121 patients, and they attributed that to
+397: administration of tPA in half of the standard dose
+398: (100 mg) used for PE management. Abdelsamad et al.
+--- lines 411-422 ---
+411: nonsignificantly less in the tenecteplase group (most
+412: of them were minor bleeding cases, except in the
+413: streptokinase group, wherein one patient developed
+414: intracranial hemorrhage, and another one was
+415: complicated by major upper gastrointestinal
+416: hemorrhage). In contrast, a meta-analysis of 16
+417: studies including 2115 patients conducted by
+418: Chatterjee et al. [20] reported an incidence of
+419: 9.24% for major bleeding and 1.46% for intracranial
+420: hemorrhage in patients managed by thrombolysis
+421: versus 3.42% and 0.19%, respectively, in patients
+422: managed by anticoagulant therapy alone ( P<0.001
+--- lines 444-455 ---
+444: trial on 1005 patients, found that fibrinolytic therapy
+445: guarded against occurrence of hemodynamic
+446: decompensation, but at the expense of increasing the
+447: risk of major bleeding and fatal intracranial
+448: hemorrhage [20,21]. Therefore, when making a
+449: decision to give thrombolytic therapy to a patient
+450: with submassive PE, it is necessary to consider the
+451: increased bleeding risk, especially the worst possible
+452: scenario of devastating intracranial bleeding that
+453: it causes. According to Curtis et al. [22] and
+454: Daley et al. [4], the clinicians should pay attention
+455: to identify risk factors associated with increased
+--- lines 478-485 ---
+478: cardiopulmonary deterioration without getting
+479: bleeding complications. In contrast, Daley et al. [4]
+480: reported prolonged hospital stay with thrombolytic
+481: therapy, if it was complicated by major bleeding,
+482: especially intracranial hemorrhage.
+483: In conclusion, thrombolytic therapy should be considered
+484: over anticoagulation as first-line management in
+485: submassive PE causing RV dysfunction without
+===== HAIRE 12_20 Alteplase versus heparin i.txt lines=13 clusters=0 =====
