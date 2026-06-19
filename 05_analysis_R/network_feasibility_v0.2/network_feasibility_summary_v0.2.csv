@@ -1,0 +1,8 @@
+"outcome","studies","arms","nodes","n_nodes","direct_edges","edge_details","connected","components","loop_present","verdict"
+"death_followup",10,20,"AC, CDT, LBAT, ST, USCDT",5,4,"AC-CDT (1); AC-ST (6); AC-USCDT (2); CDT-LBAT (1)",TRUE,"AC/CDT/ST/USCDT/LBAT",FALSE,"connected_but_tree_sparse"
+"clinical_deterioration",9,18,"AC, CAT, CDT, LBAT, ST, USCDT",6,4,"AC-CAT (1); AC-ST (5); AC-USCDT (2); CDT-LBAT (1)",FALSE,"AC/ST/USCDT/CAT | CDT/LBAT",FALSE,"disconnected"
+"clinical_deterioration_sensitivity",10,20,"AC, CAT, CDT, LBAT, ST, USCDT",6,4,"AC-CAT (1); AC-ST (6); AC-USCDT (2); CDT-LBAT (1)",FALSE,"AC/ST/USCDT/CAT | CDT/LBAT",FALSE,"disconnected"
+"primary_clinical_composite",8,16,"AC, CAT, CDT, ST, USCDT",5,4,"AC-CAT (1); AC-CDT (1); AC-ST (5); AC-USCDT (1)",TRUE,"AC/CDT/USCDT/ST/CAT",FALSE,"connected_but_tree_sparse"
+"major_bleeding",13,26,"AC, CAT, CDT, LBAT, ST, USCDT",6,5,"AC-CAT (1); AC-CDT (2); AC-ST (7); AC-USCDT (2); CDT-LBAT (1)",TRUE,"AC/ST/CDT/USCDT/CAT/LBAT",FALSE,"connected_but_tree_sparse"
+"intracranial_hemorrhage",11,22,"AC, CDT, LBAT, ST, USCDT",5,4,"AC-CDT (1); AC-ST (7); AC-USCDT (2); CDT-LBAT (1)",TRUE,"AC/ST/CDT/USCDT/LBAT",FALSE,"connected_but_tree_sparse"
+"rv_lv_or_rv_recovery",10,21,"AC, CAT, CDT, LBAT, ST, USCDT",6,7,"AC-CAT (2); AC-CDT (2); AC-ST (4); AC-USCDT (1); CAT-CDT (1); CDT-LBAT (1); CDT-USCDT (1)",TRUE,"AC/ST/CDT/CAT/USCDT/LBAT",TRUE,"connected_with_loop"

@@ -1,0 +1,8 @@
+"edge","t1","t2","studies"
+"AC--CAT","AC","CAT",2
+"AC--CDT","AC","CDT",2
+"AC--ST","AC","ST",4
+"AC--USCDT","AC","USCDT",1
+"CAT--CDT","CAT","CDT",1
+"CDT--LBAT","CDT","LBAT",1
+"CDT--USCDT","CDT","USCDT",1
