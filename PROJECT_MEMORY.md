@@ -40,3 +40,13 @@
 3. 六个候选 NMA 节点锁定用于检索和提取：`AC` 单纯抗凝、`ST` 系统溶栓、`CDT` 导管导向溶栓、`USCDT` 超声辅助 CDT、`LBAT` 大口径抽吸取栓、`CAT` 导管辅助抽吸取栓。
 4. 主要结局为全因死亡和临床恶化；次要/安全性结局包括大出血（优先 ISTH）、颅内出血、PE 复发、右心功能恢复、肺动脉压下降、小出血、输血需求、肾功能损害和器械相关并发症。
 5. 研究类型仅纳入 RCT，质量评价使用 Cochrane RoB 2.0；NOS 不适用。
+
+## Lancet Gap Analysis 记忆
+
+2026-06-19 根据用户既往 Lancet NMA 范本总结形成的长期原则：
+
+1. 本项目必须强化“改变临床实践”的叙事，核心问题应写成：不同中危 PE 患者应选择哪种再灌注或抗凝策略，而不是只问哪种治疗统计学上更优。
+2. 可借鉴 Lancet 范本的要素包括：中英文多数据库检索、Frequentist + Bayesian 双框架验证、back-calculation 或其他一致性检验、net heat plot、league table、prediction intervals、CINeMA/GRADE 证据可信度评价。
+3. 需要避免过度承诺：PROSPERO 是否完成必须以注册号为准；最终 RCT 数量必须以正式筛选为准；不能在分析前预设“USCDT 一线”等结论。
+4. Cover letter、Introduction 和 Discussion 可以提前建立“Added value”框架，但具体临床推荐必须由正式 NMA 结果和证据确定性决定。
+5. 本项目应优先开发一个 PE 特异性的 benefit-harm 可视化，把死亡/临床恶化与大出血/颅内出血放在同一临床决策框架中。
