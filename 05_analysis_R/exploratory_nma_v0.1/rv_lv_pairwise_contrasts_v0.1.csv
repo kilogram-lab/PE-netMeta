@@ -1,0 +1,6 @@
+"study_id","short_name","t1","t2","TE","seTE","outcome_scale"
+"ULTIMA_2014","ULTIMA","USCDT","AC",-0.27,0.0470753858616474,"MD in early RV/LV reduction; positive favours t2 over t1"
+"SUNSET_sPE_2021","SUNSET sPE","USCDT","CDT",0.24,0.084808248563393,"MD in early RV/LV reduction; positive favours t2 over t1"
+"PEERLESS_2025","PEERLESS","LBAT","CDT",-0.02,0.0213341630802353,"MD in early RV/LV reduction; positive favours t2 over t1"
+"STORM_PE_2025","STORM-PE","CAT","AC",-0.28,0.077017101230669,"MD in early RV/LV reduction; positive favours t2 over t1"
+"ZHANG_2018","Zhang 2018","ST","AC",-0.27,0.0419234511649,"MD in early RV/LV reduction; positive favours t2 over t1"
