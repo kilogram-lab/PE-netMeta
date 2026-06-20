@@ -1,0 +1,8 @@
+Title: Death at reported follow-up
+
+      P-score (common) P-score (random)
+LBAT            0.8632           0.8632
+CDT             0.7475           0.7475
+ST              0.4385           0.4385
+AC              0.2551           0.2551
+USCDT           0.1956           0.1956

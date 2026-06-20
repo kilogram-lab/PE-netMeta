@@ -1,0 +1,88 @@
+Title: Early 24-48h RV/LV reduction
+
+Original data:
+
+                treat1 treat2      TE   seTE
+ULTIMA_2014         AC  USCDT -0.2700 0.0471
+SUNSET_sPE_2021    CDT  USCDT  0.2400 0.0848
+PEERLESS_2025      CDT   LBAT -0.0200 0.0213
+STORM_PE_2025       AC    CAT -0.2800 0.0770
+ZHANG_2018          AC     ST -0.2700 0.0419
+
+Number of treatment arms per study:
+                narms
+ULTIMA_2014         2
+SUNSET_sPE_2021     2
+PEERLESS_2025       2
+STORM_PE_2025       2
+ZHANG_2018          2
+
+Results (common effects model):
+
+                treat1 treat2      MD             95% CI    Q leverage
+ULTIMA_2014         AC  USCDT -0.2700 [-0.3623; -0.1777] 0.00     1.00
+SUNSET_sPE_2021    CDT  USCDT  0.2400 [ 0.0738;  0.4062] 0.00     1.00
+PEERLESS_2025      CDT   LBAT -0.0200 [-0.0618;  0.0218] 0.00     1.00
+STORM_PE_2025       AC    CAT -0.2800 [-0.4310; -0.1290] 0.00     1.00
+ZHANG_2018          AC     ST -0.2700 [-0.3522; -0.1878] 0.00     1.00
+
+Results (random effects model):
+
+                treat1 treat2      MD             95% CI
+ULTIMA_2014         AC  USCDT -0.2700 [-0.3623; -0.1777]
+SUNSET_sPE_2021    CDT  USCDT  0.2400 [ 0.0738;  0.4062]
+PEERLESS_2025      CDT   LBAT -0.0200 [-0.0618;  0.0218]
+STORM_PE_2025       AC    CAT -0.2800 [-0.4310; -0.1290]
+ZHANG_2018          AC     ST -0.2700 [-0.3522; -0.1878]
+
+Number of studies: k = 5
+Number of pairwise comparisons: m = 5
+Number of treatments: n = 6
+Number of designs: d = 5
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD           95% CI    z  p-value
+AC         .                .    .        .
+CAT   0.2800 [0.1290; 0.4310] 3.64   0.0003
+CDT   0.5100 [0.3199; 0.7001] 5.26 < 0.0001
+LBAT  0.5300 [0.3353; 0.7247] 5.34 < 0.0001
+ST    0.2700 [0.1878; 0.3522] 6.44 < 0.0001
+USCDT 0.2700 [0.1777; 0.3623] 5.74 < 0.0001
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD           95% CI    z  p-value
+AC         .                .    .        .
+CAT   0.2800 [0.1290; 0.4310] 3.64   0.0003
+CDT   0.5100 [0.3199; 0.7001] 5.26 < 0.0001
+LBAT  0.5300 [0.3353; 0.7247] 5.34 < 0.0001
+ST    0.2700 [0.1878; 0.3522] 6.44 < 0.0001
+USCDT 0.2700 [0.1777; 0.3623] 5.74 < 0.0001
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0; tau = 0
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                Q d.f. p-value
+Total           0    0      --
+Within designs  0    0      --
+Between designs 0    0      --
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+
+
+--- netrank ---
+Title: Early 24-48h RV/LV reduction
+
+      P-score (common) P-score (random)
+LBAT            0.9586           0.9586
+CDT             0.8257           0.8257
+CAT             0.4289           0.4289
+ST              0.3948           0.3948
+USCDT           0.3919           0.3919
+AC              0.0000           0.0000

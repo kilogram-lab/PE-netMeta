@@ -1,0 +1,9 @@
+Title: Early 24-48h RV/LV reduction
+
+      P-score (common) P-score (random)
+LBAT            0.9586           0.9586
+CDT             0.8257           0.8257
+CAT             0.4289           0.4289
+ST              0.3948           0.3948
+USCDT           0.3919           0.3919
+AC              0.0000           0.0000

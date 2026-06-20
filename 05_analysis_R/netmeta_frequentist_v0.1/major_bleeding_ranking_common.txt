@@ -1,0 +1,9 @@
+Title: Major bleeding
+
+      P-score (common) P-score (random)
+AC              0.7542           0.6677
+CAT             0.6294           0.5756
+USCDT           0.5991           0.5354
+ST              0.2290           0.4418
+LBAT            0.3925           0.3946
+CDT             0.3958           0.3849
