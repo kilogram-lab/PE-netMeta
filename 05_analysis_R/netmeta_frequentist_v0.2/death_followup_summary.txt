@@ -1,0 +1,136 @@
+Title: Death at reported follow-up
+
+Original data (with adjusted standard errors for multi-arm studies):
+
+               treat1 treat2      TE   seTE seTE.adj.c seTE.adj.r narms
+TOPCOAT_2014       AC     ST -0.0741 1.4316     1.4316     1.4316     2
+ULTIMA_2014        AC  USCDT  1.1664 1.6536     1.6536     1.6536     2
+PEITHO_2014        AC     ST  0.3102 0.3872     0.3872     0.3872     2
+CANARY_2022        AC    CDT  2.0547 1.5262     1.5262     1.5262     2
+PEERLESS_2025     CDT   LBAT  0.6895 1.2277     1.2277     1.2277     2
+STRATIFY_2026      AC  USCDT -1.6094 1.5585     2.4387     2.4387     3
+STRATIFY_2026      ST  USCDT  0.6319 0.8072     0.8369     0.8369     3
+STRATIFY_2026      AC     ST -2.2413 1.5005     1.8453     1.8453     3
+HI_PEITHO_2026     AC  USCDT -0.5108 0.7354     0.7354     0.7354     2
+MAPPET3_2002       AC     ST -0.4568 0.7743     0.7743     0.7743     2
+FASULLO_2011       AC     ST  2.6045 1.4971     1.4971     1.4971     2
+SINHA_2017         AC     ST  0.0976 1.0242     1.0242     1.0242     2
+               multiarm
+TOPCOAT_2014           
+ULTIMA_2014            
+PEITHO_2014            
+CANARY_2022            
+PEERLESS_2025          
+STRATIFY_2026         *
+STRATIFY_2026         *
+STRATIFY_2026         *
+HI_PEITHO_2026         
+MAPPET3_2002           
+FASULLO_2011           
+SINHA_2017             
+
+Number of treatment arms per study (by decreasing number of arms):
+               narms multiarm
+STRATIFY_2026      3        *
+TOPCOAT_2014       2         
+ULTIMA_2014        2         
+PEITHO_2014        2         
+CANARY_2022        2         
+PEERLESS_2025      2         
+HI_PEITHO_2026     2         
+MAPPET3_2002       2         
+FASULLO_2011       2         
+SINHA_2017         2         
+
+Results (common effects model):
+
+               treat1 treat2     OR             95% CI    Q leverage
+TOPCOAT_2014       AC     ST 1.0924 [0.6115;   1.9514] 0.01     0.04
+ULTIMA_2014        AC  USCDT 1.0649 [0.3812;   2.9748] 0.45     0.10
+PEITHO_2014        AC     ST 1.0924 [0.6115;   1.9514] 0.33     0.58
+CANARY_2022        AC    CDT 7.8046 [0.3920; 155.4047] 0.00     1.00
+PEERLESS_2025     CDT   LBAT 1.9927 [0.1796;  22.1047] 0.00     1.00
+STRATIFY_2026      AC  USCDT 1.0649 [0.3812;   2.9748] 0.47        .
+STRATIFY_2026      ST  USCDT 0.9749 [0.3352;   2.8352] 0.62        .
+STRATIFY_2026      AC     ST 1.0924 [0.6115;   1.9514] 1.59        .
+HI_PEITHO_2026     AC  USCDT 1.0649 [0.3812;   2.9748] 0.61     0.51
+MAPPET3_2002       AC     ST 1.0924 [0.6115;   1.9514] 0.50     0.15
+FASULLO_2011       AC     ST 1.0924 [0.6115;   1.9514] 2.82     0.04
+SINHA_2017         AC     ST 1.0924 [0.6115;   1.9514] 0.00     0.08
+
+Results (random effects model):
+
+               treat1 treat2     OR             95% CI
+TOPCOAT_2014       AC     ST 1.0924 [0.6115;   1.9514]
+ULTIMA_2014        AC  USCDT 1.0649 [0.3812;   2.9748]
+PEITHO_2014        AC     ST 1.0924 [0.6115;   1.9514]
+CANARY_2022        AC    CDT 7.8046 [0.3920; 155.4047]
+PEERLESS_2025     CDT   LBAT 1.9927 [0.1796;  22.1047]
+STRATIFY_2026      AC  USCDT 1.0649 [0.3812;   2.9748]
+STRATIFY_2026      ST  USCDT 0.9749 [0.3352;   2.8352]
+STRATIFY_2026      AC     ST 1.0924 [0.6115;   1.9514]
+HI_PEITHO_2026     AC  USCDT 1.0649 [0.3812;   2.9748]
+MAPPET3_2002       AC     ST 1.0924 [0.6115;   1.9514]
+FASULLO_2011       AC     ST 1.0924 [0.6115;   1.9514]
+SINHA_2017         AC     ST 1.0924 [0.6115;   1.9514]
+
+Number of studies: k = 10
+Number of pairwise comparisons: m = 12
+Number of treatments: n = 5
+Number of designs: d = 5
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+CDT   0.1281 [0.0064; 2.5513] -1.35  0.1782
+LBAT  0.0643 [0.0014; 2.9887] -1.40  0.1612
+ST    0.9154 [0.5125; 1.6353] -0.30  0.7654
+USCDT 0.9391 [0.3362; 2.6233] -0.12  0.9045
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+CDT   0.1281 [0.0064; 2.5513] -1.35  0.1782
+LBAT  0.0643 [0.0014; 2.9887] -1.40  0.1612
+ST    0.9154 [0.5125; 1.6353] -0.30  0.7654
+USCDT 0.9391 [0.3362; 2.6233] -0.12  0.9045
+
+Quantifying heterogeneity / inconsistency:
+tau^2 < 0.0001; tau < 0.0001; I^2 = 5.4% [0.0%; 69.3%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                   Q d.f. p-value
+Total           7.40    7  0.3888
+Within designs  4.26    5  0.5122
+Between designs 3.13    2  0.2087
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q
+
+
+--- netrank common ---
+Title: Death at reported follow-up
+
+      P-score (common) P-score (random)
+LBAT            0.8623           0.8623
+CDT             0.7466           0.7466
+ST              0.3322           0.3322
+USCDT           0.3077           0.3077
+AC              0.2512           0.2512
+
+
+--- netrank random ---
+Title: Death at reported follow-up
+
+      P-score (common) P-score (random)
+LBAT            0.8623           0.8623
+CDT             0.7466           0.7466
+ST              0.3322           0.3322
+USCDT           0.3077           0.3077
+AC              0.2512           0.2512

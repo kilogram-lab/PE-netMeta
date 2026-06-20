@@ -1,0 +1,120 @@
+Title: Early 24-96h RV/LV reduction
+
+Original data (with adjusted standard errors for multi-arm studies):
+
+                treat1 treat2      TE   seTE seTE.adj.c seTE.adj.r narms
+ULTIMA_2014         AC  USCDT -0.2700 0.0471     0.0471     0.1477     2
+SUNSET_sPE_2021    CDT  USCDT  0.2400 0.0848     0.0848     0.1636     2
+PEERLESS_2025      CDT   LBAT -0.0200 0.0213     0.0213     0.1416     2
+STORM_PE_2025       AC    CAT -0.2800 0.0770     0.0770     0.1597     2
+ZHANG_2018          AC     ST -0.2700 0.0419     0.0419     0.1461     2
+STRATIFY_2026       AC  USCDT -0.0000 0.0507     0.0574     0.1798     3
+STRATIFY_2026       ST  USCDT  0.1000 0.0596     0.0760     0.1876     3
+STRATIFY_2026       AC     ST -0.1000 0.0599     0.0771     0.1879     3
+                multiarm
+ULTIMA_2014             
+SUNSET_sPE_2021         
+PEERLESS_2025           
+STORM_PE_2025           
+ZHANG_2018              
+STRATIFY_2026          *
+STRATIFY_2026          *
+STRATIFY_2026          *
+
+Number of treatment arms per study (by decreasing number of arms):
+                narms multiarm
+STRATIFY_2026       3        *
+ULTIMA_2014         2         
+SUNSET_sPE_2021     2         
+PEERLESS_2025       2         
+STORM_PE_2025       2         
+ZHANG_2018          2         
+
+Results (common effects model):
+
+                treat1 treat2      MD             95% CI    Q leverage
+ULTIMA_2014         AC  USCDT -0.1567 [-0.2222; -0.0912] 5.79     0.50
+SUNSET_sPE_2021    CDT  USCDT  0.2400 [ 0.0738;  0.4062] 0.00     1.00
+PEERLESS_2025      CDT   LBAT -0.0200 [-0.0618;  0.0218] 0.00     1.00
+STORM_PE_2025       AC    CAT -0.2800 [-0.4310; -0.1290] 0.00     1.00
+ZHANG_2018          AC     ST -0.2360 [-0.3022; -0.1699] 0.66     0.65
+STRATIFY_2026       AC  USCDT -0.1567 [-0.2222; -0.0912] 7.45        .
+STRATIFY_2026       ST  USCDT  0.0793 [-0.0045;  0.1632] 0.07        .
+STRATIFY_2026       AC     ST -0.2360 [-0.3022; -0.1699] 3.11        .
+
+Results (random effects model):
+
+                treat1 treat2      MD             95% CI
+ULTIMA_2014         AC  USCDT -0.1495 [-0.3481;  0.0490]
+SUNSET_sPE_2021    CDT  USCDT  0.2400 [-0.0807;  0.5607]
+PEERLESS_2025      CDT   LBAT -0.0200 [-0.2975;  0.2575]
+STORM_PE_2025       AC    CAT -0.2800 [-0.5931;  0.0331]
+ZHANG_2018          AC     ST -0.2179 [-0.4180; -0.0178]
+STRATIFY_2026       AC  USCDT -0.1495 [-0.3481;  0.0490]
+STRATIFY_2026       ST  USCDT  0.0684 [-0.1721;  0.3089]
+STRATIFY_2026       AC     ST -0.2179 [-0.4180; -0.0178]
+
+Number of studies: k = 6
+Number of pairwise comparisons: m = 8
+Number of treatments: n = 6
+Number of designs: d = 6
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD           95% CI    z  p-value
+AC         .                .    .        .
+CAT   0.2800 [0.1290; 0.4310] 3.64   0.0003
+CDT   0.3967 [0.2180; 0.5754] 4.35 < 0.0001
+LBAT  0.4167 [0.2332; 0.6002] 4.45 < 0.0001
+ST    0.2360 [0.1699; 0.3022] 6.99 < 0.0001
+USCDT 0.1567 [0.0912; 0.2222] 4.69 < 0.0001
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD            95% CI    z p-value
+AC         .                 .    .       .
+CAT   0.2800 [-0.0331; 0.5931] 1.75  0.0796
+CDT   0.3895 [ 0.0123; 0.7667] 2.02  0.0430
+LBAT  0.4095 [-0.0587; 0.8778] 1.71  0.0865
+ST    0.2179 [ 0.0178; 0.4180] 2.13  0.0328
+USCDT 0.1495 [-0.0490; 0.3481] 1.48  0.1399
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.0196; tau = 0.1399; I^2 = 88.3% [67.5%; 95.8%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                    Q d.f. p-value
+Total           17.09    2  0.0002
+Within designs   0.00    0      --
+Between designs 17.09    2  0.0002
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q
+
+
+--- netrank common ---
+Title: Early 24-96h RV/LV reduction
+
+      P-score (common) P-score (random)
+LBAT            0.9326           0.7703
+CDT             0.7925           0.7639
+CAT             0.5844           0.6000
+ST              0.4692           0.4975
+USCDT           0.2213           0.3300
+AC              0.0000           0.0382
+
+
+--- netrank random ---
+Title: Early 24-96h RV/LV reduction
+
+      P-score (common) P-score (random)
+LBAT            0.9326           0.7703
+CDT             0.7925           0.7639
+CAT             0.5844           0.6000
+ST              0.4692           0.4975
+USCDT           0.2213           0.3300
+AC              0.0000           0.0382

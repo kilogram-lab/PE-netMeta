@@ -1,0 +1,10 @@
+Number of studies: k = 10
+Number of pairwise comparisons: m = 12
+Number of treatments: n = 6
+Number of designs: d = 5
+Number of networks: 2
+
+Details on subnetworks: 
+ subnetwork k  m n
+          1 1  1 2
+          2 9 11 4
