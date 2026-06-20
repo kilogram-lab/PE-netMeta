@@ -1,0 +1,19 @@
+﻿study_id,short_name,arms,nodes,locked_status,ready_death,ready_clinical,ready_bleeding,ready_ich
+AHMED_2018,Ahmed 2018,2,ST vs AC,partial locked; mortality not reported as event count,no,no,yes,yes
+CANARY_2022,CANARY,2,CDT vs AC,core locked for death/bleeding/RV; ICH not separately reported,yes,sensitivity,yes,no
+CDT_PILOT_2022,EuroIntervention pilot CDT,2,CDT vs AC,partial locked; primary composite exact count pending,no,no,yes,yes
+FASULLO_2011,Fasullo 2011,2,ST vs AC,core locked,yes,yes,yes,yes
+HAIRE_1993,Haire 1993,2,ST vs AC,OCR_needed,no,no,no,no
+HI_PEITHO_2026,HI-PEITHO,2,USCDT vs AC,core locked,yes,yes,yes,yes
+MAPPET3_2002,MAPPET-3,2,ST vs AC,core locked,yes,yes,yes,yes
+MOPETT_2013,MOPETT,2,ST vs AC,core locked; sensitivity-only risk stratum,sensitivity,sensitivity,sensitivity,sensitivity
+PEERLESS_2025,PEERLESS,2,LBAT vs CDT,"core locked; CDT arm mixed: 59.8% USCDT, 23.2% side-hole CDT, 8.7% side-slit CDT; core locked; CDT comparator is mixed",yes,yes,yes,yes
+PEITHO_2014,PEITHO,2,ST vs AC,core locked,yes,yes,yes,yes
+PRETHA_2026,PRETHA,3,CAT vs CDT vs AC,partial locked; bleeding definition WHO grade; partial locked; clinical event definition differs,sensitivity,no,sensitivity,sensitivity
+SINHA_2017,Sinha 2017,2,ST vs AC,core locked,yes,yes,yes,yes
+STORM_PE_2025,STORM-PE,2,CAT vs AC,core locked; ICH not separately stated,yes,yes,yes,no
+STRATIFY_2026,STRATIFY,3,USCDT vs ST vs AC,core locked for STRATIFY v0.3; ICH arm-specific not reported,yes,yes,yes,no
+SUNSET_sPE_2021,SUNSET sPE,2,USCDT vs CDT,partial locked; table assigns adverse events by group as extracted,sensitivity,no,sensitivity,sensitivity
+TOPCOAT_2014,TOPCOAT,2,ST vs AC,core locked; outcome harmonization needed,yes,sensitivity,yes,yes
+ULTIMA_2014,ULTIMA,2,USCDT vs AC,core locked,yes,yes,yes,yes
+ZHANG_2018,Zhang 2018,2,ST vs AC,core locked,yes,yes,yes,yes
