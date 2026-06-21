@@ -1,0 +1,6 @@
+Title: NMA1_intermediate_low_exploratory death at reported follow-up
+
+      P-score (common) P-score (random)
+USCDT           0.7423           0.7423
+ST              0.4354           0.4354
+AC              0.3223           0.3223

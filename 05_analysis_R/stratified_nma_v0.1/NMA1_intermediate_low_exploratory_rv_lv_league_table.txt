@@ -1,0 +1,14 @@
+League table (common effects model):
+                                                                        
+                      AC -0.270 [-0.352; -0.188] -0.270 [-0.362; -0.178]
+ -0.270 [-0.352; -0.188]                      ST                       .
+ -0.270 [-0.362; -0.178] -0.000 [-0.124;  0.124]                   USCDT
+
+League table (random effects model):
+                                                                        
+                      AC -0.270 [-0.352; -0.188] -0.270 [-0.362; -0.178]
+ -0.270 [-0.352; -0.188]                      ST                       .
+ -0.270 [-0.362; -0.178] -0.000 [-0.124;  0.124]                   USCDT
+
+Lower triangle: results from network meta-analysis (column vs row)
+Upper triangle: results from direct comparisons (row vs column)

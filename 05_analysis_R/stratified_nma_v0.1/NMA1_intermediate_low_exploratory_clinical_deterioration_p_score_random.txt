@@ -1,0 +1,5 @@
+Title: NMA1_intermediate_low_exploratory clinical deterioration
+
+   P-score (common) P-score (random)
+ST           0.9999           0.9999
+AC           0.0001           0.0001

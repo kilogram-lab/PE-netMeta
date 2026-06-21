@@ -1,0 +1,63 @@
+Title: NMA1_intermediate_low_exploratory clinical deterioration
+
+Original data:
+
+             treat1 treat2     TE   seTE
+MAPPET3_2002     AC     ST 1.0605 0.3630
+FASULLO_2011     AC     ST 1.7222 1.5673
+SINHA_2017       AC     ST 1.6510 0.8237
+ZHANG_2018       AC     ST 2.0397 1.5324
+
+Number of treatment arms per study:
+             narms
+MAPPET3_2002     2
+FASULLO_2011     2
+SINHA_2017       2
+ZHANG_2018       2
+
+Results (common effects model):
+
+             treat1 treat2     OR           95% CI    Q leverage
+MAPPET3_2002     AC     ST 3.3798 [1.8125; 6.3024] 0.19     0.77
+FASULLO_2011     AC     ST 3.3798 [1.8125; 6.3024] 0.10     0.04
+SINHA_2017       AC     ST 3.3798 [1.8125; 6.3024] 0.28     0.15
+ZHANG_2018       AC     ST 3.3798 [1.8125; 6.3024] 0.29     0.04
+
+Results (random effects model):
+
+             treat1 treat2     OR           95% CI
+MAPPET3_2002     AC     ST 3.3798 [1.8125; 6.3024]
+FASULLO_2011     AC     ST 3.3798 [1.8125; 6.3024]
+SINHA_2017       AC     ST 3.3798 [1.8125; 6.3024]
+ZHANG_2018       AC     ST 3.3798 [1.8125; 6.3024]
+
+Number of studies: k = 4
+Number of pairwise comparisons: m = 4
+Number of treatments: n = 2
+Number of designs: d = 1
+
+Common effects model
+
+Treatment estimate ('ST' vs 'AC'):
+       OR           95% CI     z p-value
+AC      .                .     .       .
+ST 0.2959 [0.1587; 0.5517] -3.83  0.0001
+
+Random effects model
+
+Treatment estimate ('ST' vs 'AC'):
+       OR           95% CI     z p-value
+AC      .                .     .       .
+ST 0.2959 [0.1587; 0.5517] -3.83  0.0001
+
+Quantifying heterogeneity:
+tau^2 < 0.0001; tau < 0.0001; I^2 = 0% [0.0%; 84.7%]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 0.86    3  0.8361
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q

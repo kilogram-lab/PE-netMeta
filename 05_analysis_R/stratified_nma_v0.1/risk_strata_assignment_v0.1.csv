@@ -1,0 +1,19 @@
+study_id,nma1,nma2,nma3,strata_note
+TOPCOAT_2014,TRUE,FALSE,TRUE,mixed intermediate-risk; NMA-1 exploratory/sensitivity
+ULTIMA_2014,TRUE,FALSE,TRUE,intermediate-risk by RV/LV only; biomarker not required; NMA-1 exploratory
+PEITHO_2014,FALSE,TRUE,TRUE,intermediate-high: RV dysfunction plus positive troponin
+SUNSET_sPE_2021,FALSE,FALSE,TRUE,"catheter-lysis population; intermediate/submassive, risk stratum unclear"
+CANARY_2022,FALSE,TRUE,TRUE,intermediate-high PE
+PEERLESS_2025,FALSE,TRUE,TRUE,mostly intermediate-high; included in NMA-2 exploratory
+STORM_PE_2025,FALSE,TRUE,TRUE,intermediate-high PE
+STRATIFY_2026,FALSE,TRUE,TRUE,intermediate-high PE by ESC criteria
+PRETHA_2026,FALSE,TRUE,TRUE,intermediate-high PE
+HI_PEITHO_2026,FALSE,TRUE,TRUE,acute intermediate-risk with distress; treated as NMA-2 exploratory
+MAPPET3_2002,TRUE,FALSE,TRUE,older submassive PE; biomarker not required; NMA-1 sensitivity
+HAIRE_1993,FALSE,FALSE,TRUE,OCR pending; not analysis-ready
+CDT_PILOT_2022,FALSE,TRUE,TRUE,intermediate-high PE
+FASULLO_2011,TRUE,FALSE,TRUE,submassive PE with RVD; biomarker mixed/unclear; NMA-1 sensitivity
+SINHA_2017,TRUE,FALSE,TRUE,submassive/intermediate-risk; NMA-1 sensitivity
+ZHANG_2018,TRUE,FALSE,TRUE,acute intermediate-risk; low-dose ST sensitivity
+MOPETT_2013,TRUE,FALSE,TRUE,moderate PE; sensitivity only
+AHMED_2018,TRUE,FALSE,TRUE,submassive PE; biomarker criteria stated; NMA-1 sensitivity

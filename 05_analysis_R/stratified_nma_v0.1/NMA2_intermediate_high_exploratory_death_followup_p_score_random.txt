@@ -1,0 +1,8 @@
+Title: NMA2_intermediate_high_exploratory death at reported follow-up
+
+      P-score (common) P-score (random)
+LBAT            0.8652           0.8342
+CDT             0.7506           0.7452
+AC              0.2915           0.3942
+USCDT           0.2617           0.2766
+ST              0.3310           0.2498

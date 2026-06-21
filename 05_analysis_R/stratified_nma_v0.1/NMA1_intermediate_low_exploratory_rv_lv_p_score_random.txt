@@ -1,0 +1,6 @@
+Title: NMA1_intermediate_low_exploratory RV/LV
+
+      P-score (common) P-score (random)
+ST                0.75             0.75
+USCDT             0.75             0.75
+AC                0.00             0.00

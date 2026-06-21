@@ -1,0 +1,9 @@
+Title: NMA3_all_intermediate RV/LV
+
+      P-score (common) P-score (random)
+LBAT            0.9326           0.7703
+CDT             0.7925           0.7639
+CAT             0.5844           0.6000
+ST              0.4692           0.4975
+USCDT           0.2213           0.3300
+AC              0.0000           0.0382

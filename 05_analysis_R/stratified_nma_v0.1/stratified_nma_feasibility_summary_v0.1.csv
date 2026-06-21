@@ -1,0 +1,16 @@
+stratum,outcome,status,studies,arms,nodes,direct_comparisons
+NMA1_intermediate_low_exploratory,rv_lv,model_ok,2,4,AC/ST/USCDT,2
+NMA1_intermediate_low_exploratory,major_bleeding,model_ok,7,14,AC/ST/USCDT,7
+NMA1_intermediate_low_exploratory,death_followup,model_ok,6,12,AC/ST/USCDT,6
+NMA1_intermediate_low_exploratory,clinical_deterioration,model_ok,5,10,AC/ST/USCDT,5
+NMA2_intermediate_high_exploratory,rv_lv,"model_failed: Network consists of 2 separate sub-networks.
+  Use R function 'netconnection' to identify sub-networks.",3,7,AC/CAT/CDT/LBAT/ST/USCDT,5
+NMA2_intermediate_high_exploratory,major_bleeding,model_ok,7,15,AC/CAT/CDT/LBAT/ST/USCDT,9
+NMA2_intermediate_high_exploratory,death_followup,model_ok,5,11,AC/CDT/LBAT/ST/USCDT,7
+NMA2_intermediate_high_exploratory,clinical_deterioration,"model_failed: Network consists of 2 separate sub-networks.
+  Use R function 'netconnection' to identify sub-networks.",5,11,AC/CAT/CDT/LBAT/ST/USCDT,7
+NMA3_all_intermediate,rv_lv,model_ok,6,13,AC/CAT/CDT/LBAT/ST/USCDT,8
+NMA3_all_intermediate,major_bleeding,model_ok,14,29,AC/CAT/CDT/LBAT/ST/USCDT,16
+NMA3_all_intermediate,death_followup,model_ok,11,23,AC/CDT/LBAT/ST/USCDT,13
+NMA3_all_intermediate,clinical_deterioration,"model_failed: Network consists of 2 separate sub-networks.
+  Use R function 'netconnection' to identify sub-networks.",10,21,AC/CAT/CDT/LBAT/ST/USCDT,12

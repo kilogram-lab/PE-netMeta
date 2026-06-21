@@ -1,0 +1,12 @@
+League table (common effects model):
+                                          
+                   AC 3.380 [1.813; 6.302]
+ 3.380 [1.813; 6.302]                   ST
+
+League table (random effects model):
+                                          
+                   AC 3.380 [1.813; 6.302]
+ 3.380 [1.813; 6.302]                   ST
+
+Lower triangle: results from network meta-analysis (column vs row)
+Upper triangle: results from direct comparisons (row vs column)

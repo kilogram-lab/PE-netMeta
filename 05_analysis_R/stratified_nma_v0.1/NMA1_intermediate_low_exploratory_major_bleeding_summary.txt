@@ -1,0 +1,63 @@
+Title: NMA1_intermediate_low_exploratory major bleeding
+
+Original data:
+
+             treat1 treat2      TE   seTE
+TOPCOAT_2014     AC     ST -1.1951 1.6477
+MAPPET3_2002     AC     ST  1.4813 1.1028
+FASULLO_2011     AC     ST -0.6642 1.2482
+SINHA_2017       AC     ST  0.0953 1.4310
+
+Number of treatment arms per study:
+             narms
+TOPCOAT_2014     2
+MAPPET3_2002     2
+FASULLO_2011     2
+SINHA_2017       2
+
+Results (common effects model):
+
+             treat1 treat2     OR           95% CI    Q leverage
+TOPCOAT_2014     AC     ST 1.1871 [0.3279; 4.2978] 0.69     0.16
+MAPPET3_2002     AC     ST 1.1871 [0.3279; 4.2978] 1.41     0.35
+FASULLO_2011     AC     ST 1.1871 [0.3279; 4.2978] 0.45     0.28
+SINHA_2017       AC     ST 1.1871 [0.3279; 4.2978] 0.00     0.21
+
+Results (random effects model):
+
+             treat1 treat2     OR           95% CI
+TOPCOAT_2014     AC     ST 1.1870 [0.3277; 4.2989]
+MAPPET3_2002     AC     ST 1.1870 [0.3277; 4.2989]
+FASULLO_2011     AC     ST 1.1870 [0.3277; 4.2989]
+SINHA_2017       AC     ST 1.1870 [0.3277; 4.2989]
+
+Number of studies: k = 4
+Number of pairwise comparisons: m = 4
+Number of treatments: n = 2
+Number of designs: d = 1
+
+Common effects model
+
+Treatment estimate ('ST' vs 'AC'):
+       OR           95% CI     z p-value
+AC      .                .     .       .
+ST 0.8424 [0.2327; 3.0495] -0.26  0.7938
+
+Random effects model
+
+Treatment estimate ('ST' vs 'AC'):
+       OR           95% CI     z p-value
+AC      .                .     .       .
+ST 0.8425 [0.2326; 3.0512] -0.26  0.7941
+
+Quantifying heterogeneity:
+tau^2 = 0.0010; tau = 0.0316; I^2 = 0% [0.0%; 84.7%]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 2.55    3  0.4664
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q

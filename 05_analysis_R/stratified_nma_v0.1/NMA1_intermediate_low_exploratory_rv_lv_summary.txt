@@ -1,0 +1,58 @@
+Title: NMA1_intermediate_low_exploratory RV/LV
+
+Original data:
+
+            treat1 treat2      TE   seTE
+ULTIMA_2014     AC  USCDT -0.2700 0.0471
+ZHANG_2018      AC     ST -0.2700 0.0419
+
+Number of treatment arms per study:
+            narms
+ULTIMA_2014     2
+ZHANG_2018      2
+
+Results (common effects model):
+
+            treat1 treat2      MD             95% CI    Q leverage
+ULTIMA_2014     AC  USCDT -0.2700 [-0.3623; -0.1777] 0.00     1.00
+ZHANG_2018      AC     ST -0.2700 [-0.3522; -0.1878] 0.00     1.00
+
+Results (random effects model):
+
+            treat1 treat2      MD             95% CI
+ULTIMA_2014     AC  USCDT -0.2700 [-0.3623; -0.1777]
+ZHANG_2018      AC     ST -0.2700 [-0.3522; -0.1878]
+
+Number of studies: k = 2
+Number of pairwise comparisons: m = 2
+Number of treatments: n = 3
+Number of designs: d = 2
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD           95% CI    z  p-value
+AC         .                .    .        .
+ST    0.2700 [0.1878; 0.3522] 6.44 < 0.0001
+USCDT 0.2700 [0.1777; 0.3623] 5.74 < 0.0001
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          MD           95% CI    z  p-value
+AC         .                .    .        .
+ST    0.2700 [0.1878; 0.3522] 6.44 < 0.0001
+USCDT 0.2700 [0.1777; 0.3623] 5.74 < 0.0001
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0; tau = 0
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                Q d.f. p-value
+Total           0    0      --
+Within designs  0    0      --
+Between designs 0    0      --
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2

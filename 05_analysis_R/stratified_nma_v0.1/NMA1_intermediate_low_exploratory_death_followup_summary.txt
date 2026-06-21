@@ -1,0 +1,71 @@
+Title: NMA1_intermediate_low_exploratory death at reported follow-up
+
+Original data:
+
+             treat1 treat2      TE   seTE
+TOPCOAT_2014     AC     ST -0.0741 1.4316
+ULTIMA_2014      AC  USCDT  1.1664 1.6536
+MAPPET3_2002     AC     ST -0.4568 0.7743
+FASULLO_2011     AC     ST  2.6045 1.4971
+SINHA_2017       AC     ST  0.0976 1.0242
+
+Number of treatment arms per study:
+             narms
+TOPCOAT_2014     2
+ULTIMA_2014      2
+MAPPET3_2002     2
+FASULLO_2011     2
+SINHA_2017       2
+
+Results (common effects model):
+
+             treat1 treat2     OR            95% CI    Q leverage
+TOPCOAT_2014     AC     ST 1.1372 [0.4022;  3.2155] 0.02     0.14
+ULTIMA_2014      AC  USCDT 3.2105 [0.1256; 82.0656] 0.00     1.00
+MAPPET3_2002     AC     ST 1.1372 [0.4022;  3.2155] 0.57     0.47
+FASULLO_2011     AC     ST 1.1372 [0.4022;  3.2155] 2.74     0.13
+SINHA_2017       AC     ST 1.1372 [0.4022;  3.2155] 0.00     0.27
+
+Results (random effects model):
+
+             treat1 treat2     OR            95% CI
+TOPCOAT_2014     AC     ST 1.1372 [0.4022;  3.2155]
+ULTIMA_2014      AC  USCDT 3.2105 [0.1256; 82.0656]
+MAPPET3_2002     AC     ST 1.1372 [0.4022;  3.2155]
+FASULLO_2011     AC     ST 1.1372 [0.4022;  3.2155]
+SINHA_2017       AC     ST 1.1372 [0.4022;  3.2155]
+
+Number of studies: k = 5
+Number of pairwise comparisons: m = 5
+Number of treatments: n = 3
+Number of designs: d = 2
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+ST    0.8794 [0.3110; 2.4865] -0.24  0.8085
+USCDT 0.3115 [0.0122; 7.9618] -0.71  0.4806
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+ST    0.8794 [0.3110; 2.4865] -0.24  0.8085
+USCDT 0.3115 [0.0122; 7.9618] -0.71  0.4806
+
+Quantifying heterogeneity / inconsistency:
+tau^2 < 0.0001; tau < 0.0001; I^2 = 9.8% [0.0%; 86.2%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                   Q d.f. p-value
+Total           3.33    3  0.3438
+Within designs  3.33    3  0.3438
+Between designs 0.00    0      --
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q

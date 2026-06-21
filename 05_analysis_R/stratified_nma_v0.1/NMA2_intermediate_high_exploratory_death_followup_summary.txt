@@ -1,0 +1,89 @@
+Title: NMA2_intermediate_high_exploratory death at reported follow-up
+
+Original data (with adjusted standard errors for multi-arm studies):
+
+               treat1 treat2      TE   seTE seTE.adj.c seTE.adj.r narms
+PEITHO_2014        AC     ST  0.3102 0.3872     0.3872     0.9998     2
+CANARY_2022        AC    CDT  2.0547 1.5262     1.5262     1.7830     2
+PEERLESS_2025     CDT   LBAT  0.6895 1.2277     1.2277     1.5352     2
+STRATIFY_2026      AC  USCDT -1.6094 1.5585     2.4387     2.5239     3
+STRATIFY_2026      ST  USCDT  0.6319 0.8072     0.8369     1.3150     3
+STRATIFY_2026      AC     ST -2.2413 1.5005     1.8453     2.2418     3
+HI_PEITHO_2026     AC  USCDT -0.5108 0.7354     0.7354     1.1792     2
+               multiarm
+PEITHO_2014            
+CANARY_2022            
+PEERLESS_2025          
+STRATIFY_2026         *
+STRATIFY_2026         *
+STRATIFY_2026         *
+HI_PEITHO_2026         
+
+Number of treatment arms per study (by decreasing number of arms):
+               narms multiarm
+STRATIFY_2026      3        *
+PEITHO_2014        2         
+CANARY_2022        2         
+PEERLESS_2025      2         
+HI_PEITHO_2026     2         
+
+Results (common effects model):
+
+               treat1 treat2     OR             95% CI    Q leverage
+PEITHO_2014        AC     ST 1.0498 [0.5204;   2.1178] 0.46     0.86
+CANARY_2022        AC    CDT 7.8046 [0.3920; 155.4047] 0.00     1.00
+PEERLESS_2025     CDT   LBAT 1.9927 [0.1796;  22.1047] 0.00     1.00
+STRATIFY_2026      AC  USCDT 0.9317 [0.3116;   2.7859] 0.40        .
+STRATIFY_2026      ST  USCDT 0.8875 [0.2858;   2.7561] 0.81        .
+STRATIFY_2026      AC     ST 1.0498 [0.5204;   2.1178] 1.54        .
+HI_PEITHO_2026     AC  USCDT 0.9317 [0.3116;   2.7859] 0.36     0.58
+
+Results (random effects model):
+
+               treat1 treat2     OR             95% CI
+PEITHO_2014        AC     ST 0.6776 [0.1402;   3.2748]
+CANARY_2022        AC    CDT 7.8046 [0.2370; 257.0508]
+PEERLESS_2025     CDT   LBAT 1.9927 [0.0983;  40.3874]
+STRATIFY_2026      AC  USCDT 0.7191 [0.1260;   4.1039]
+STRATIFY_2026      ST  USCDT 1.0612 [0.1616;   6.9681]
+STRATIFY_2026      AC     ST 0.6776 [0.1402;   3.2748]
+HI_PEITHO_2026     AC  USCDT 0.7191 [0.1260;   4.1039]
+
+Number of studies: k = 5
+Number of pairwise comparisons: m = 7
+Number of treatments: n = 5
+Number of designs: d = 5
+
+Common effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+CDT   0.1281 [0.0064; 2.5513] -1.35  0.1782
+LBAT  0.0643 [0.0014; 2.9887] -1.40  0.1612
+ST    0.9526 [0.4722; 1.9217] -0.14  0.8921
+USCDT 1.0733 [0.3590; 3.2093]  0.13  0.8993
+
+Random effects model
+
+Treatment estimate (other treatments vs 'AC'):
+          OR           95% CI     z p-value
+AC         .                .     .       .
+CDT   0.1281 [0.0039; 4.2201] -1.15  0.2492
+LBAT  0.0643 [0.0006; 6.4710] -1.17  0.2435
+ST    1.4757 [0.3054; 7.1319]  0.48  0.6283
+USCDT 1.3906 [0.2437; 7.9363]  0.37  0.7106
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.8497; tau = 0.9218; I^2 = 43.8% [0.0%; 83.2%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                   Q d.f. p-value
+Total           3.56    2  0.1688
+Within designs  0.00    0      --
+Between designs 3.56    2  0.1688
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q

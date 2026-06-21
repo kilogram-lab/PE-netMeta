@@ -1,0 +1,9 @@
+Title: NMA2_intermediate_high_exploratory major bleeding
+
+      P-score (common) P-score (random)
+AC              0.8004           0.8004
+CAT             0.6618           0.6618
+USCDT           0.4837           0.4837
+CDT             0.4264           0.4264
+LBAT            0.4225           0.4225
+ST              0.2052           0.2052
