@@ -1,0 +1,14 @@
+{
+  "pubmed_unique_before_embase": 5525,
+  "embase_raw_ris_records": 8899,
+  "embase_after_internal_dedup": 8522,
+  "embase_internal_duplicates_removed": 377,
+  "embase_matched_to_pubmed": 2637,
+  "embase_matched_to_pubmed_by_doi": 2180,
+  "embase_matched_to_pubmed_by_title_year": 457,
+  "embase_unique_added_beyond_pubmed": 5885,
+  "final_pubmed_embase_unique_records": 11410,
+  "combined_csv": "03_screening/pubmed_embase_deduplicated_screening_set_v1.0.csv",
+  "embase_parsed_csv": "03_screening/embase_parsed_records_v1.0.csv",
+  "duplicate_match_csv": "03_screening/pubmed_embase_duplicate_matches_v1.0.csv"
+}
