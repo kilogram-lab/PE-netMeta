@@ -1,0 +1,13 @@
+{
+  "pubmed_embase_unique_before_central": 11410,
+  "central_raw_ris_records": 3912,
+  "central_after_internal_dedup": 3743,
+  "central_internal_duplicates_removed": 169,
+  "central_matched_to_existing": 2250,
+  "central_matched_by_pubmed_ref": 1264,
+  "central_matched_by_embase_ref": 813,
+  "central_matched_by_doi": 56,
+  "central_matched_by_title_year": 117,
+  "central_unique_added_beyond_pubmed_embase": 1493,
+  "final_pubmed_embase_central_unique_records": 12903
+}
