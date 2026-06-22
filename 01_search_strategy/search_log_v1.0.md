@@ -8,7 +8,7 @@ Date created: 2026-06-22
 
 | Database | Platform | Search date | Searcher | Search name | Strategy source | Limits | Records retrieved | Export file | Notes |
 |---|---|---:|---|---|---|---|---:|---|---|
-| PubMed/MEDLINE | PubMed | 2026-06-22 | User + Codex | Main broad search | `search_strategy_v1.0.md`, PubMed final main query | Inception to search date; no language restriction; humans filter via animal exclusion | 3436 | `records_exports/20260622_pubmed_main_3436_csv.csv` | CSV export verified locally with 3436 rows. Broad search intentionally prioritizes recall; later screening will remove secondary prevention, VTE-only, non-PE, non-RCT, and non-eligible treatment records. |
+| PubMed/MEDLINE | PubMed | 2026-06-22 | User + Codex | Main broad search | `search_strategy_v1.0.md`, PubMed final main query | Inception to search date; no language restriction; humans filter via animal exclusion | 3436 | `records_exports/20260622_pubmed_main_3436_medline_abstracts.txt` | MEDLINE-format text export with abstracts verified locally by counting 3436 `PMID-` records. Auxiliary CSV export also archived as `records_exports/20260622_pubmed_main_3436_csv.csv`. Broad search intentionally prioritizes recall; later screening will remove secondary prevention, VTE-only, non-PE, non-RCT, and non-eligible treatment records. |
 
 ## Notes
 
