@@ -60,3 +60,11 @@
 3. 正确处理方式是：记录本地提交号、失败错误、`git status -sb` 是否显示 ahead，然后直接跳过 GitHub 上传环节，继续推进当前科研任务。
 4. GitHub 远程备份属于“可延后备份”，不能阻塞全文筛选、数据提取、统计分析、绘图、论文写作等核心科研流程。
 5. 后续网络恢复时可顺手执行 `git push` 补传此前本地提交，但不把它作为当前工作的中断点。
+## Workflow preference memory - 2026-06-22
+
+User rule: after each completed project step, Codex must directly state the next concrete step to do. Do not wait for the user to ask "下一步做什么".
+
+Operational meaning:
+1. Every final response after a completed action should include a short "下一步" instruction.
+2. The next step should be concrete and executable, such as which database to search, which file to export, which screening table to open, or which analysis to run.
+3. If GitHub upload fails, follow the existing rule: record/skip and continue; still tell the user the next scientific workflow step.
